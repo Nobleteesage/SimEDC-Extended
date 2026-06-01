@@ -4,7 +4,6 @@
 
 > Goriola-Obafemi Babatunde Sukanmi
 > Department of Applied Mathematics and Computer Science
-> Southern Federal University, Rostov-on-Don, Russian Federation
 > Supervisor: Prof. Могилевская H.C | Academic year 2025-2026
 
 ---

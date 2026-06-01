@@ -1,0 +1,46 @@
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.venv/
+*.log
+ssd_sim_log.txt
+SimEDC/lib/tracelib/failure_events/
+SimEDC/lib/tracelib/transient_events/
+SimEDC/lib/tracelib/transient_repair/
+SimEDC/tracelib_ssd/
+SimEDC/tracelib_nvme/
+*.pdf
+*_backup*/
+.DS_Store
+Thumbs.db
+
+# Backup files created during editing
+*.bak
+*.py.bak
+
+# Log files
+*.log
+*.txt.log
+run_log.txt
+extended_log.txt
+ssd_sim_log.txt
+run_fig9.sh
+
+# Duplicate scripts already in scripts/ folder
+SimEDC/convert_ssd_traces.py
+SimEDC/convert_traces.py
+SimEDC/fix_traces.py
+SimEDC/generate_ssd_traces.py
+SimEDC/generate_traces.py
+SimEDC/plot_extended.py
+SimEDC/plot_fig9.py
+SimEDC/plot_publication_ready.py
+SimEDC/plot_storage_comparison.py
+SimEDC/run_extended.sh
+SimEDC/run_ssd_simulations.sh
+
+# Duplicate figures already in figures/ folder
+SimEDC/fig*.png
+SimEDC/fig*.pdf

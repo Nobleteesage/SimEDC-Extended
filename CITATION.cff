@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+type: software
+title: "SimEDC-Extended: Modernising and Extending SimEDC for Reliability Analysis Under HDD, SSD, and NVMe Failure Models"
+authors:
+  - family-names: "Goriola-Obafemi"
+    given-names: "Babatunde Sukanmi"
+    email: "goriolaobafemi@gmail.com"
+    affiliation: "Southern Federal University, Rostov-on-Don, Russian Federation"
+repository-code: "https://github.com/nobleteesage/SimEDC-Extended"
+abstract: >
+  This repository extends the SimEDC discrete-event simulator with four
+  original contributions: Python 3.13 modernisation; a synthetic HPC failure
+  trace generation framework replacing the unavailable LANL dataset; extended
+  placement analysis evaluating r=4 and r=5 for RS(9,6) codes; and SSD and
+  NVMe failure models from Backblaze 2023 data. Results confirm DRC(9,6,3)
+  with hierarchical placement maintains its reliability advantage under flash
+  storage failure distributions.
+keywords:
+  - erasure coding
+  - data center reliability
+  - SimEDC
+  - reproducibility
+  - Reed-Solomon codes
+  - Double Regenerating Codes
+  - hierarchical placement
+  - flash storage
+  - SSD reliability
+  - NVMe reliability
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-01"
+references:
+  - type: article
+    authors:
+      - family-names: "Zhang"
+        given-names: "Mi"
+      - family-names: "Han"
+        given-names: "Shujie"
+      - family-names: "Lee"
+        given-names: "Patrick P. C."
+    title: "SimEDC: A Simulator for the Reliability Analysis of Erasure-Coded Data Centers"
+    journal: "IEEE Transactions on Parallel and Distributed Systems"
+    volume: 31
+    issue: 4
+    start: 905
+    end: 918
+    year: 2020
+    doi: "10.1109/TPDS.2019.2946838"

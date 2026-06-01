@@ -1,0 +1,3154 @@
+system,node,rack,start_hours,end_hours,failure_type,root_cause
+7,30,3,23.335,23.9725,transient_node,Power Outage
+7,86,10,51.9786,52.1711,transient_node,Power Spike
+7,30,3,51.9948,52.1144,transient_node,Power Spike
+7,105,13,53.4008,53.6351,transient_node,Maintenance
+7,47,5,54.0458,54.2428,transient_node,Maintenance
+7,173,21,58.3059,58.4434,transient_node,Network
+7,87,10,95.7584,96.1067,transient_node,Maintenance
+7,113,14,102.0795,102.1364,transient_node,Maintenance
+7,140,17,114.134,114.1464,transient_node,Maintenance
+7,3,0,125.1867,125.3125,transient_node,Network
+7,164,20,130.8219,131.1172,transient_node,Maintenance
+7,122,15,138.8404,138.9453,transient_node,Power Outage
+7,80,10,145.3487,145.4008,transient_node,Power Spike
+7,20,2,161.1427,163.8627,permanent_node,Disk Drive
+7,211,26,165.1874,165.4008,transient_node,Power Spike
+7,145,18,176.0765,176.2121,transient_node,Power Outage
+7,74,9,176.5403,176.5809,transient_node,Maintenance
+7,36,4,185.1756,185.8037,transient_node,Maintenance
+7,48,6,187.1826,187.3442,transient_node,Power Outage
+7,14,1,187.722,188.2917,transient_node,Power Spike
+7,24,3,195.7897,195.8944,transient_node,Power Spike
+7,241,30,199.5306,199.9319,transient_node,Power Spike
+7,76,9,205.7753,206.0622,transient_node,Power Outage
+7,125,15,208.3962,208.7865,transient_node,Network
+7,1,0,210.9091,211.1103,transient_node,Power Outage
+7,141,17,216.4733,216.4961,transient_node,Power Spike
+7,121,15,235.6342,235.8629,transient_node,Network
+7,91,11,269.6564,269.6714,transient_node,Power Spike
+7,184,23,280.8031,280.8084,transient_node,Network
+7,75,9,285.534,285.6253,transient_node,Power Spike
+7,158,19,286.4813,286.5849,transient_node,Network
+7,36,4,314.4784,314.5339,transient_node,Power Spike
+7,27,3,342.5508,342.6129,transient_node,Maintenance
+7,212,26,344.4259,344.8887,transient_node,Power Outage
+7,44,5,370.446,370.4906,transient_node,Maintenance
+7,228,28,390.2843,390.5134,transient_node,Power Spike
+7,218,27,421.0566,426.8945,permanent_node,SCSI Controller
+7,77,9,421.9672,422.1493,transient_node,Power Outage
+7,203,25,441.236,441.347,transient_node,Maintenance
+7,56,7,464.6883,464.7959,transient_node,Network
+7,20,2,465.8987,465.9968,transient_node,Maintenance
+7,192,24,478.911,479.5265,transient_node,Network
+7,234,29,507.4653,507.717,transient_node,Power Spike
+7,244,30,509.1036,509.233,transient_node,Network
+7,227,28,515.9913,516.0075,transient_node,Power Spike
+7,146,18,524.5988,524.604,transient_node,Power Spike
+7,216,27,526.3828,526.6943,transient_node,Power Spike
+7,16,2,528.4513,528.7132,transient_node,Network
+7,119,14,532.2248,532.3689,transient_node,Maintenance
+7,165,20,533.2368,533.2415,transient_node,Power Outage
+7,58,7,547.0334,547.5441,transient_node,Network
+7,169,21,548.4092,549.0213,transient_node,Power Outage
+7,99,12,554.1715,554.4042,transient_node,Maintenance
+7,108,13,554.5428,554.7743,transient_node,Power Spike
+7,69,8,567.1681,567.4879,transient_node,Power Spike
+7,209,26,575.453,575.6181,transient_node,Power Outage
+7,110,13,584.556,584.8499,transient_node,Power Spike
+7,26,3,619.9977,620.3938,transient_node,Maintenance
+7,111,13,620.9453,621.4143,transient_node,Network
+7,243,30,634.578,634.9442,transient_node,Maintenance
+7,41,5,643.2965,644.1822,transient_node,Maintenance
+7,101,12,662.7318,662.8716,transient_node,Power Outage
+7,149,18,686.5468,687.3517,transient_node,Maintenance
+7,120,15,708.8623,709.0551,transient_node,Maintenance
+7,61,7,715.8277,716.2722,transient_node,Power Outage
+7,176,22,743.3512,743.365,transient_node,Power Spike
+7,26,3,754.5844,754.6286,transient_node,Maintenance
+7,42,5,763.213,763.638,transient_node,Network
+7,101,12,802.8221,802.9153,transient_node,Maintenance
+7,138,17,805.4046,805.7929,transient_node,Network
+7,58,7,807.9066,808.0978,transient_node,Power Outage
+7,235,29,812.9391,812.9846,transient_node,Network
+7,219,27,855.303,855.4315,transient_node,Maintenance
+7,59,7,864.4975,864.5604,transient_node,Network
+7,87,10,875.3867,875.4398,transient_node,Network
+7,181,22,918.3873,918.5109,transient_node,Maintenance
+7,199,24,929.4008,929.4649,transient_node,Network
+7,224,28,950.6264,950.7166,transient_node,Power Spike
+7,12,1,1002.2424,1002.3938,transient_node,Maintenance
+7,48,6,1018.6833,1018.7629,transient_node,Network
+7,95,11,1036.4845,1036.7409,transient_node,Network
+7,56,7,1089.6812,1089.9041,transient_node,Power Outage
+7,219,27,1099.8925,1100.125,transient_node,Power Spike
+7,169,21,1101.1362,1101.1804,transient_node,Power Outage
+7,146,18,1123.4397,1123.4497,transient_node,Power Spike
+7,241,30,1129.8286,1129.8908,transient_node,Network
+7,147,18,1147.0374,1147.1902,transient_node,Power Outage
+7,56,7,1165.3557,1165.6486,transient_node,Power Spike
+7,83,10,1183.8191,1183.8217,transient_node,Power Spike
+7,10,1,1196.3205,1196.3603,transient_node,Power Outage
+7,173,21,1209.5752,1209.645,transient_node,Power Spike
+7,112,14,1216.2026,1216.2325,transient_node,Power Outage
+7,74,9,1220.7852,1220.9993,transient_node,Maintenance
+7,39,4,1227.554,1227.7318,transient_node,Maintenance
+7,154,19,1244.5915,1245.1693,transient_node,Maintenance
+7,204,25,1246.0735,1246.1197,transient_node,Power Spike
+7,3,0,1272.1265,1272.177,transient_node,Power Outage
+7,29,3,1302.1176,1302.1551,transient_node,Maintenance
+7,169,21,1329.605,1329.7449,transient_node,Power Spike
+7,134,16,1333.179,1333.3302,transient_node,Network
+7,9,1,1344.5113,1344.5687,transient_node,Power Spike
+7,96,12,1361.2722,1361.373,transient_node,Power Outage
+7,217,27,1391.2174,1391.4742,transient_node,Power Spike
+7,18,2,1398.4431,1398.4941,transient_node,Power Spike
+7,232,29,1398.8591,1398.9435,transient_node,Maintenance
+7,61,7,1408.4449,1408.8059,transient_node,Power Outage
+7,181,22,1422.3204,1422.9352,transient_node,Power Outage
+7,102,12,1452.6571,1452.8131,transient_node,Maintenance
+7,119,14,1466.6657,1466.7425,transient_node,Power Spike
+7,81,10,1467.3334,1467.9637,transient_node,Maintenance
+7,90,11,1471.2787,1471.2854,transient_node,Power Outage
+7,143,17,1473.5648,1473.7868,transient_node,Power Spike
+7,44,5,1488.7122,1488.8991,transient_node,Power Outage
+7,183,22,1523.3803,1523.4146,transient_node,Network
+7,132,16,1526.6952,1527.287,transient_node,Power Outage
+7,69,8,1540.9515,1541.8042,transient_node,Power Spike
+7,238,29,1545.4322,1545.4985,transient_node,Maintenance
+7,32,4,1549.93,1549.9585,transient_node,Power Outage
+7,227,28,1552.8534,1552.9444,transient_node,Network
+7,25,3,1559.0732,1559.2826,transient_node,Power Spike
+7,253,31,1565.507,1565.5668,transient_node,Network
+7,235,29,1572.268,1572.3104,transient_node,Power Spike
+7,214,26,1576.9131,1577.0121,transient_node,Power Outage
+7,243,30,1578.1599,1578.3373,transient_node,Power Spike
+7,126,15,1591.3595,1591.4172,transient_node,Power Outage
+7,188,23,1612.0688,1612.3207,transient_node,Maintenance
+7,2,0,1612.6798,1612.7492,transient_node,Maintenance
+7,122,15,1624.2221,1624.2393,transient_node,Maintenance
+7,230,28,1625.4296,1625.5775,transient_node,Network
+7,97,12,1640.4689,1640.7826,transient_node,Power Spike
+7,116,14,1641.1851,1642.1357,transient_node,Power Outage
+7,180,22,1655.2699,1655.5172,transient_node,Maintenance
+7,61,7,1668.9045,1669.132,transient_node,Maintenance
+7,97,12,1672.3316,1672.8612,transient_node,Network
+7,218,27,1680.997,1681.7452,transient_node,Maintenance
+7,109,13,1685.6623,1685.7101,transient_node,Maintenance
+7,17,2,1685.9415,1686.0615,transient_node,Network
+7,112,14,1687.9854,1687.991,transient_node,Network
+7,223,27,1702.1523,1702.2303,transient_node,Power Spike
+7,250,31,1715.8742,1716.0173,transient_node,Maintenance
+7,209,26,1722.6369,1726.7782,permanent_node,Hardware
+7,192,24,1723.9341,1724.8116,transient_node,Power Spike
+7,59,7,1732.445,1732.5367,transient_node,Power Outage
+7,122,15,1733.2201,1733.3634,transient_node,Maintenance
+7,98,12,1772.6523,1773.0254,transient_node,Power Outage
+7,225,28,1778.2243,1778.4283,transient_node,Maintenance
+7,81,10,1794.9769,1795.5411,transient_node,Maintenance
+7,3,0,1795.8762,1795.9388,transient_node,Network
+7,83,10,1796.7913,1796.8768,transient_node,Power Spike
+7,174,21,1798.9323,1798.9741,transient_node,Power Outage
+7,24,3,1809.0125,1809.1821,transient_node,Power Spike
+7,106,13,1840.8726,1841.1516,transient_node,Power Spike
+7,77,9,1860.9152,1861.391,transient_node,Power Spike
+7,79,9,1871.3786,1871.3914,transient_node,Network
+7,143,17,1875.8134,1875.8912,transient_node,Network
+7,69,8,1877.2106,1877.5328,transient_node,Network
+7,1,0,1906.9735,1907.2189,transient_node,Power Spike
+7,187,23,1909.0135,1909.542,transient_node,Power Outage
+7,229,28,1918.6913,1918.765,transient_node,Network
+7,126,15,1919.1685,1919.2909,transient_node,Power Spike
+7,5,0,1929.4787,1929.692,transient_node,Network
+7,243,30,1936.0568,1936.0853,transient_node,Power Spike
+7,132,16,1953.1867,1953.3297,transient_node,Power Spike
+7,166,20,1959.3949,1959.5297,transient_node,Network
+7,30,3,1962.47,1962.7021,transient_node,Power Spike
+7,157,19,1969.2046,1969.4475,transient_node,Network
+7,142,17,1983.9124,1984.2116,transient_node,Network
+7,31,3,1984.8409,1985.137,transient_node,Power Spike
+7,214,26,1995.3994,1995.4979,transient_node,Power Outage
+7,122,15,1997.8263,1997.8897,transient_node,Power Spike
+7,114,14,1998.4382,1998.6689,transient_node,Maintenance
+7,65,8,2016.6667,2016.9059,transient_node,Power Outage
+7,253,31,2042.9614,2042.9728,transient_node,Maintenance
+7,13,1,2049.4065,2049.8249,transient_node,Maintenance
+7,36,4,2051.2898,2052.1956,transient_node,Network
+7,204,25,2103.8758,2104.2242,transient_node,Power Spike
+7,57,7,2109.8885,2109.912,transient_node,Maintenance
+7,123,15,2114.0084,2114.0192,transient_node,Maintenance
+7,213,26,2128.4766,2128.5422,transient_node,Maintenance
+7,99,12,2141.3403,2141.4035,transient_node,Maintenance
+7,247,30,2145.6697,2146.7446,transient_node,Power Spike
+7,104,13,2147.0466,2147.17,transient_node,Power Spike
+7,172,21,2155.5713,2155.6154,transient_node,Network
+7,133,16,2160.1908,2160.277,transient_node,Power Outage
+7,158,19,2166.1876,2166.6851,transient_node,Network
+7,23,2,2181.1102,2181.1831,transient_node,Power Outage
+7,10,1,2185.8862,2185.9061,transient_node,Power Outage
+7,242,30,2210.1301,2210.4806,transient_node,Network
+7,80,10,2262.603,2262.6827,transient_node,Maintenance
+7,72,9,2287.5863,2287.6096,transient_node,Maintenance
+7,147,18,2291.3099,2291.809,transient_node,Network
+7,228,28,2306.4477,2306.651,transient_node,Power Outage
+7,188,23,2333.1534,2333.3056,transient_node,Network
+7,141,17,2361.535,2362.4168,transient_node,Network
+7,230,28,2370.3026,2370.3131,transient_node,Maintenance
+7,173,21,2374.5845,2375.0122,transient_node,Power Spike
+7,245,30,2401.1216,2401.1716,transient_node,Maintenance
+7,114,14,2409.7097,2410.2447,transient_node,Power Spike
+7,223,27,2422.874,2423.0208,transient_node,Power Spike
+7,234,29,2434.6057,2435.1104,transient_node,Network
+7,22,2,2443.0788,2443.4006,transient_node,Network
+7,112,14,2464.7541,2465.028,transient_node,Power Outage
+7,100,12,2483.9073,2484.4839,transient_node,Maintenance
+7,61,7,2498.6517,2499.2386,transient_node,Power Spike
+7,59,7,2498.7065,2498.7287,transient_node,Maintenance
+7,16,2,2523.4149,2523.5213,transient_node,Power Spike
+7,193,24,2534.8824,2535.107,transient_node,Maintenance
+7,33,4,2543.7745,2543.8033,transient_node,Power Spike
+7,199,24,2560.2071,2560.5286,transient_node,Maintenance
+7,81,10,2580.1738,2580.2202,transient_node,Power Spike
+7,107,13,2589.3842,2589.4155,transient_node,Power Spike
+7,231,28,2591.3286,2591.7127,transient_node,Power Outage
+7,185,23,2597.9569,2598.0373,transient_node,Maintenance
+7,57,7,2603.9871,2604.0344,transient_node,Power Outage
+7,54,6,2604.1233,2604.1614,transient_node,Network
+7,175,21,2604.4121,2604.7164,transient_node,Power Outage
+7,36,4,2624.2518,2624.7465,transient_node,Network
+7,80,10,2630.2305,2630.2761,transient_node,Power Outage
+7,44,5,2633.5681,2633.591,transient_node,Maintenance
+7,96,12,2654.4847,2654.485,transient_node,Power Outage
+7,226,28,2655.8688,2656.201,transient_node,Power Outage
+7,14,1,2661.2325,2661.2406,transient_node,Maintenance
+7,68,8,2668.4571,2669.269,transient_node,Maintenance
+7,76,9,2698.6686,2698.7226,transient_node,Power Spike
+7,98,12,2702.3555,2702.4222,transient_node,Power Outage
+7,7,0,2721.1941,2721.3581,transient_node,Network
+7,129,16,2729.6345,2730.0605,transient_node,Maintenance
+7,17,2,2729.9771,2730.3995,transient_node,Power Outage
+7,127,15,2754.4626,2754.6765,transient_node,Power Spike
+7,151,18,2756.1947,2756.4319,transient_node,Maintenance
+7,252,31,2757.9128,2758.0373,transient_node,Power Outage
+7,71,8,2770.4862,2770.5136,transient_node,Network
+7,33,4,2782.5846,2782.7332,transient_node,Power Outage
+7,178,22,2795.4917,2795.6025,transient_node,Network
+7,69,8,2813.3177,2813.6556,transient_node,Maintenance
+7,112,14,2813.7525,2814.0746,transient_node,Network
+7,91,11,2816.8835,2817.4072,transient_node,Maintenance
+7,196,24,2817.5936,2818.2738,transient_node,Maintenance
+7,141,17,2818.881,2819.0075,transient_node,Power Outage
+7,237,29,2822.2448,2822.5705,transient_node,Maintenance
+7,185,23,2844.5999,2844.6366,transient_node,Maintenance
+7,244,30,2850.3446,2850.954,transient_node,Power Spike
+7,67,8,2858.4224,2858.567,transient_node,Power Spike
+7,229,28,2859.1944,2859.5941,transient_node,Network
+7,133,16,2860.6309,2861.1361,transient_node,Power Outage
+7,181,22,2864.6436,2864.9036,transient_node,Network
+7,66,8,2879.8034,2880.0284,transient_node,Power Spike
+7,20,2,2888.5834,2889.0617,transient_node,Network
+7,109,13,2895.2933,2895.4029,transient_node,Power Outage
+7,204,25,2922.4193,2922.4446,transient_node,Maintenance
+7,55,6,2923.9687,2924.1096,transient_node,Power Spike
+7,204,25,2924.7123,2929.3127,permanent_node,SCSI Controller
+7,178,22,2925.0644,2925.3027,transient_node,Network
+7,169,21,2931.1804,2931.5423,transient_node,Network
+7,65,8,2944.0425,2944.7394,transient_node,Power Outage
+7,88,11,2950.1776,2950.4899,transient_node,Network
+7,33,4,2953.8737,2953.8911,transient_node,Power Outage
+7,144,18,2956.4741,2956.5825,transient_node,Maintenance
+7,32,4,2956.7331,2956.8828,transient_node,Network
+7,62,7,2973.2894,2975.4575,permanent_node,Disk Drive
+7,39,4,2980.9474,2981.0488,transient_node,Maintenance
+7,229,28,2992.232,2992.5559,transient_node,Maintenance
+7,150,18,3003.0625,3003.2383,transient_node,Power Spike
+7,245,30,3008.1569,3008.5218,transient_node,Network
+7,28,3,3022.6687,3022.7057,transient_node,Maintenance
+7,94,11,3041.2844,3041.4068,transient_node,Maintenance
+7,78,9,3044.6097,3045.0796,transient_node,Power Outage
+7,145,18,3052.8597,3053.6756,transient_node,Network
+7,116,14,3059.6231,3059.6582,transient_node,Power Spike
+7,109,13,3064.3986,3065.0307,transient_node,Network
+7,46,5,3068.993,3069.204,transient_node,Network
+7,238,29,3090.1296,3090.2137,transient_node,Maintenance
+7,229,28,3101.4035,3101.7595,transient_node,Maintenance
+7,126,15,3104.431,3104.4355,transient_node,Maintenance
+7,147,18,3124.9693,3127.3607,permanent_node,Hardware
+7,29,3,3128.3242,3128.5592,transient_node,Power Spike
+7,45,5,3141.7959,3141.9105,transient_node,Power Spike
+7,152,19,3143.2792,3143.5688,transient_node,Network
+7,155,19,3148.1592,3148.5225,transient_node,Network
+7,116,14,3167.6885,3167.7521,transient_node,Maintenance
+7,248,31,3172.0628,3172.4557,transient_node,Power Outage
+7,189,23,3173.1171,3173.1989,transient_node,Network
+7,174,21,3173.7643,3173.7806,transient_node,Maintenance
+7,112,14,3204.9301,3205.2825,transient_node,Maintenance
+7,137,17,3208.8043,3208.9368,transient_node,Power Spike
+7,131,16,3215.6335,3216.4167,transient_node,Network
+7,150,18,3271.9411,3272.2528,transient_node,Network
+7,23,2,3276.132,3276.1959,transient_node,Power Outage
+7,182,22,3279.6657,3279.8226,transient_node,Power Spike
+7,242,30,3307.562,3307.8744,transient_node,Power Spike
+7,4,0,3366.0003,3366.8272,transient_node,Maintenance
+7,251,31,3368.0113,3368.0498,transient_node,Maintenance
+7,230,28,3377.4652,3377.9217,transient_node,Power Outage
+7,66,8,3390.285,3390.5877,transient_node,Network
+7,198,24,3392.4723,3392.6531,transient_node,Power Spike
+7,188,23,3416.1113,3416.5384,transient_node,Network
+7,222,27,3466.669,3467.7737,transient_node,Network
+7,71,8,3486.8568,3486.9201,transient_node,Power Spike
+7,21,2,3488.8597,3488.9469,transient_node,Power Outage
+7,199,24,3523.7719,3524.0105,transient_node,Power Outage
+7,136,17,3531.3815,3531.4401,transient_node,Power Spike
+7,47,5,3539.3831,3540.0731,transient_node,Network
+7,37,4,3542.9328,3543.3046,transient_node,Power Outage
+7,25,3,3576.6311,3576.8655,transient_node,Power Spike
+7,184,23,3591.3802,3591.8099,transient_node,Power Spike
+7,172,21,3601.8826,3601.9011,transient_node,Network
+7,53,6,3619.6251,3619.7212,transient_node,Power Outage
+7,146,18,3622.5377,3622.769,transient_node,Power Spike
+7,20,2,3626.2412,3626.4806,transient_node,Network
+7,103,12,3629.2574,3629.376,transient_node,Network
+7,150,18,3641.4042,3641.7055,transient_node,Power Outage
+7,34,4,3669.651,3669.7663,transient_node,Power Outage
+7,220,27,3690.5875,3690.7285,transient_node,Power Spike
+7,132,16,3692.3343,3692.5237,transient_node,Network
+7,153,19,3696.9275,3697.0102,transient_node,Network
+7,1,0,3704.6943,3704.9381,transient_node,Power Spike
+7,153,19,3709.8092,3709.9928,transient_node,Power Outage
+7,37,4,3723.3792,3723.3836,transient_node,Power Outage
+7,154,19,3725.5505,3725.9563,transient_node,Network
+7,116,14,3764.4027,3765.0731,transient_node,Maintenance
+7,127,15,3766.3595,3766.5815,transient_node,Maintenance
+7,0,0,3767.1812,3767.2708,transient_node,Maintenance
+7,154,19,3780.0727,3780.1847,transient_node,Network
+7,32,4,3804.0401,3804.1499,transient_node,Power Outage
+7,196,24,3821.7567,3821.8478,transient_node,Maintenance
+7,179,22,3823.6297,3823.7801,transient_node,Network
+7,26,3,3830.9973,3831.0586,transient_node,Maintenance
+7,71,8,3882.9694,3883.5629,transient_node,Maintenance
+7,27,3,3899.7045,3900.0545,transient_node,Power Spike
+7,50,6,3903.8157,3904.2106,transient_node,Power Spike
+7,134,16,3918.6338,3918.7221,transient_node,Power Outage
+7,2,0,3921.0601,3921.3236,transient_node,Power Outage
+7,96,12,3928.6229,3928.9327,transient_node,Power Outage
+7,42,5,3933.2416,3933.4421,transient_node,Power Spike
+7,71,8,3935.4556,3935.5248,transient_node,Network
+7,123,15,3950.6586,3951.1589,transient_node,Network
+7,98,12,3952.592,3952.656,transient_node,Maintenance
+7,138,17,3955.8791,3956.0863,transient_node,Power Spike
+7,211,26,3960.3738,3960.7466,transient_node,Power Spike
+7,153,19,3972.7964,3972.9365,transient_node,Power Outage
+7,64,8,3983.7307,3984.2217,transient_node,Power Spike
+7,110,13,4002.2354,4002.8186,transient_node,Network
+7,141,17,4005.7121,4006.1944,transient_node,Maintenance
+7,91,11,4030.1108,4030.2302,transient_node,Network
+7,6,0,4035.8719,4036.0568,transient_node,Power Outage
+7,63,7,4045.9207,4046.1134,transient_node,Power Outage
+7,28,3,4046.4034,4047.3337,transient_node,Network
+7,168,21,4051.1507,4051.2965,transient_node,Maintenance
+7,95,11,4068.5904,4070.0115,transient_node,Power Spike
+7,62,7,4068.8815,4068.9022,transient_node,Power Spike
+7,4,0,4073.5872,4073.8363,transient_node,Power Spike
+7,91,11,4074.1816,4074.5699,transient_node,Power Outage
+7,84,10,4086.022,4086.3536,transient_node,Network
+7,134,16,4092.0458,4092.0921,transient_node,Power Outage
+7,235,29,4094.6828,4094.7086,transient_node,Maintenance
+7,98,12,4102.0718,4102.095,transient_node,Power Outage
+7,30,3,4102.7933,4103.2217,transient_node,Network
+7,117,14,4105.2771,4105.4218,transient_node,Power Outage
+7,152,19,4114.6983,4114.79,transient_node,Maintenance
+7,227,28,4118.2193,4118.4424,transient_node,Power Outage
+7,83,10,4125.8677,4126.1002,transient_node,Network
+7,102,12,4130.2473,4130.483,transient_node,Maintenance
+7,142,17,4144.5559,4144.7401,transient_node,Network
+7,151,18,4154.1646,4160.8832,permanent_node,Hardware
+7,70,8,4165.0815,4165.2283,transient_node,Maintenance
+7,52,6,4209.8308,4210.0652,transient_node,Power Outage
+7,154,19,4219.6557,4219.7148,transient_node,Network
+7,45,5,4227.3354,4227.5963,transient_node,Power Spike
+7,150,18,4247.7755,4248.0266,transient_node,Network
+7,220,27,4288.2052,4288.2138,transient_node,Power Spike
+7,42,5,4289.3636,4289.6768,transient_node,Power Outage
+7,20,2,4305.3384,4306.0385,transient_node,Maintenance
+7,79,9,4309.128,4309.7768,transient_node,Network
+7,176,22,4313.5468,4313.7127,transient_node,Maintenance
+7,244,30,4319.824,4319.8265,transient_node,Power Outage
+7,148,18,4320.1823,4320.2623,transient_node,Network
+7,173,21,4351.929,4352.1082,transient_node,Power Spike
+7,9,1,4401.5944,4401.9175,transient_node,Power Outage
+7,118,14,4412.8448,4413.0774,transient_node,Network
+7,254,31,4413.7643,4413.9599,transient_node,Network
+7,19,2,4428.7772,4429.1727,transient_node,Power Outage
+7,90,11,4440.4491,4440.5321,transient_node,Network
+7,124,15,4443.3966,4443.5495,transient_node,Network
+7,48,6,4450.1562,4450.7012,transient_node,Power Spike
+7,176,22,4455.8946,4456.3963,transient_node,Maintenance
+7,255,31,4459.3467,4459.5474,transient_node,Power Outage
+7,34,4,4459.4003,4459.4627,transient_node,Maintenance
+7,244,30,4469.3021,4469.879,transient_node,Power Spike
+7,211,26,4469.9604,4470.0713,transient_node,Maintenance
+7,78,9,4472.9714,4473.0287,transient_node,Power Spike
+7,93,11,4487.5781,4488.0279,transient_node,Power Spike
+7,102,12,4508.738,4508.895,transient_node,Power Spike
+7,203,25,4518.0231,4521.1399,permanent_node,SCSI Controller
+7,13,1,4541.6321,4541.9854,transient_node,Maintenance
+7,88,11,4549.8978,4550.3084,transient_node,Power Spike
+7,135,16,4551.07,4551.0962,transient_node,Network
+7,119,14,4569.8946,4570.128,transient_node,Maintenance
+7,199,24,4574.905,4575.0015,transient_node,Maintenance
+7,183,22,4592.4337,4592.6353,transient_node,Maintenance
+7,58,7,4605.4684,4605.6315,transient_node,Power Spike
+7,113,14,4611.2316,4611.3647,transient_node,Power Outage
+7,65,8,4626.745,4627.2286,transient_node,Power Spike
+7,220,27,4630.13,4630.285,transient_node,Power Outage
+7,181,22,4664.9067,4665.1736,transient_node,Network
+7,216,27,4683.6214,4684.0501,transient_node,Maintenance
+7,211,26,4685.9712,4686.1215,transient_node,Maintenance
+7,36,4,4686.4049,4686.5932,transient_node,Network
+7,94,11,4687.7243,4688.3826,transient_node,Maintenance
+7,95,11,4690.5239,4690.5661,transient_node,Network
+7,171,21,4699.6555,4700.643,transient_node,Network
+7,78,9,4731.9485,4732.4376,transient_node,Power Outage
+7,152,19,4734.2546,4734.5049,transient_node,Power Spike
+7,97,12,4752.8132,4752.8244,transient_node,Maintenance
+7,22,2,4759.1138,4759.3629,transient_node,Power Outage
+7,49,6,4769.7712,4770.3765,transient_node,Network
+7,239,29,4785.6456,4785.8122,transient_node,Power Spike
+7,171,21,4794.5514,4794.6933,transient_node,Power Spike
+7,34,4,4796.2356,4796.244,transient_node,Power Outage
+7,67,8,4803.079,4803.1232,transient_node,Network
+7,62,7,4815.0641,4815.3348,transient_node,Power Spike
+7,241,30,4821.0504,4821.1225,transient_node,Power Outage
+7,72,9,4827.4936,4827.7879,transient_node,Power Outage
+7,122,15,4848.8808,4849.2145,transient_node,Power Outage
+7,56,7,4851.4962,4851.5853,transient_node,Network
+7,127,15,4868.9687,4869.28,transient_node,Network
+7,120,15,4901.6364,4901.7369,transient_node,Power Spike
+7,114,14,4913.0999,4913.535,transient_node,Power Spike
+7,193,24,4915.797,4915.9111,transient_node,Maintenance
+7,213,26,4945.3953,4946.0317,transient_node,Network
+7,240,30,4949.8215,4949.8981,transient_node,Power Outage
+7,229,28,4968.7089,4968.7513,transient_node,Network
+7,5,0,4981.3459,4981.8429,transient_node,Maintenance
+7,92,11,4994.9696,4995.1822,transient_node,Power Outage
+7,37,4,5026.6678,5026.684,transient_node,Power Outage
+7,30,3,5038.9609,5039.5946,transient_node,Power Outage
+7,71,8,5042.3248,5042.4026,transient_node,Power Outage
+7,18,2,5104.6058,5104.628,transient_node,Power Spike
+7,103,12,5115.0205,5115.0419,transient_node,Maintenance
+7,21,2,5115.8875,5115.8976,transient_node,Power Outage
+7,196,24,5120.995,5121.035,transient_node,Power Spike
+7,231,28,5141.2498,5141.7814,transient_node,Maintenance
+7,67,8,5145.6113,5145.6709,transient_node,Power Outage
+7,69,8,5150.1705,5150.477,transient_node,Maintenance
+7,91,11,5157.2656,5157.2755,transient_node,Maintenance
+7,73,9,5157.4844,5158.0096,transient_node,Network
+7,28,3,5163.5134,5163.689,transient_node,Power Outage
+7,61,7,5165.728,5165.8451,transient_node,Maintenance
+7,237,29,5173.3666,5173.8854,transient_node,Network
+7,0,0,5174.7427,5175.0034,transient_node,Power Outage
+7,26,3,5175.2901,5175.7226,transient_node,Maintenance
+7,182,22,5206.8888,5207.0542,transient_node,Network
+7,90,11,5224.2047,5231.3068,permanent_node,SCSI Controller
+7,249,31,5232.2068,5232.4053,transient_node,Network
+7,28,3,5241.6824,5242.8318,transient_node,Power Outage
+7,65,8,5245.7762,5245.8465,transient_node,Power Outage
+7,95,11,5266.0824,5266.2614,transient_node,Power Spike
+7,175,21,5293.0443,5293.4176,transient_node,Maintenance
+7,132,16,5320.7336,5320.9491,transient_node,Network
+7,38,4,5321.9702,5322.1291,transient_node,Maintenance
+7,232,29,5322.4681,5322.8146,transient_node,Power Spike
+7,249,31,5332.2513,5332.3543,transient_node,Power Spike
+7,116,14,5334.165,5334.7126,transient_node,Network
+7,119,14,5334.5239,5335.1121,transient_node,Network
+7,60,7,5352.211,5352.4718,transient_node,Maintenance
+7,146,18,5369.3209,5369.6355,transient_node,Power Spike
+7,235,29,5371.4656,5371.6736,transient_node,Power Outage
+7,131,16,5379.6477,5379.8255,transient_node,Network
+7,185,23,5380.2876,5380.7179,transient_node,Power Spike
+7,43,5,5396.7799,5397.123,transient_node,Maintenance
+7,196,24,5411.189,5411.3491,transient_node,Network
+7,33,4,5417.1391,5417.2061,transient_node,Power Outage
+7,118,14,5423.0131,5423.2022,transient_node,Power Spike
+7,72,9,5446.5803,5446.654,transient_node,Power Outage
+7,51,6,5449.4331,5450.5477,transient_node,Network
+7,178,22,5460.5878,5460.6119,transient_node,Power Spike
+7,123,15,5484.9225,5485.0806,transient_node,Power Outage
+7,57,7,5502.2442,5502.6253,transient_node,Power Spike
+7,150,18,5518.6844,5518.6975,transient_node,Network
+7,104,13,5528.9132,5529.5017,transient_node,Power Spike
+7,228,28,5533.4626,5533.5547,transient_node,Power Outage
+7,122,15,5542.0387,5542.8015,transient_node,Maintenance
+7,86,10,5561.2612,5562.0155,transient_node,Maintenance
+7,222,27,5584.4085,5584.7347,transient_node,Maintenance
+7,138,17,5586.1208,5586.1542,transient_node,Power Spike
+7,230,28,5607.194,5607.2793,transient_node,Power Outage
+7,91,11,5613.5176,5613.6734,transient_node,Power Spike
+7,184,23,5615.2423,5615.3339,transient_node,Power Outage
+7,1,0,5620.1055,5620.7517,transient_node,Power Outage
+7,30,3,5629.1521,5629.3774,transient_node,Power Outage
+7,192,24,5632.1272,5632.2989,transient_node,Network
+7,193,24,5636.1366,5636.539,transient_node,Maintenance
+7,58,7,5641.31,5641.4586,transient_node,Power Spike
+7,16,2,5643.0021,5643.3935,transient_node,Maintenance
+7,0,0,5649.9668,5650.1425,transient_node,Maintenance
+7,108,13,5657.4344,5657.528,transient_node,Power Outage
+7,57,7,5686.4473,5686.6445,transient_node,Power Spike
+7,18,2,5688.8223,5688.8462,transient_node,Power Outage
+7,244,30,5692.5733,5692.7618,transient_node,Network
+7,109,13,5694.2077,5694.9712,transient_node,Network
+7,45,5,5698.4774,5698.9579,transient_node,Power Outage
+7,52,6,5734.8581,5735.0402,transient_node,Power Spike
+7,112,14,5737.5501,5737.6173,transient_node,Power Outage
+7,33,4,5743.3633,5743.6928,transient_node,Power Outage
+7,179,22,5748.6317,5749.0653,transient_node,Power Spike
+7,200,25,5761.5249,5761.7761,transient_node,Network
+7,158,19,5770.9837,5771.0108,transient_node,Power Outage
+7,250,31,5774.4628,5774.6091,transient_node,Power Outage
+7,220,27,5781.6197,5781.6738,transient_node,Power Spike
+7,236,29,5803.5863,5803.7692,transient_node,Maintenance
+7,251,31,5813.3294,5813.7716,transient_node,Power Outage
+7,104,13,5814.6629,5814.9055,transient_node,Power Spike
+7,59,7,5817.8018,5818.1793,transient_node,Maintenance
+7,74,9,5823.0052,5823.0297,transient_node,Power Spike
+7,93,11,5833.5989,5833.8759,transient_node,Maintenance
+7,120,15,5857.3081,5858.0527,transient_node,Power Spike
+7,124,15,5869.1086,5869.2546,transient_node,Network
+7,39,4,5881.2243,5881.612,transient_node,Power Outage
+7,231,28,5883.6453,5884.0492,transient_node,Maintenance
+7,214,26,5905.83,5905.8348,transient_node,Maintenance
+7,5,0,5907.8348,5907.8742,transient_node,Network
+7,130,16,5913.1068,5913.1313,transient_node,Power Spike
+7,160,20,5916.466,5916.6512,transient_node,Power Outage
+7,142,17,5919.913,5919.9539,transient_node,Network
+7,174,21,5926.3079,5926.4803,transient_node,Power Outage
+7,158,19,5931.6694,5932.6467,transient_node,Power Spike
+7,152,19,5973.026,5973.1769,transient_node,Network
+7,66,8,5976.7797,5977.0285,transient_node,Network
+7,62,7,5981.5981,5981.8941,transient_node,Maintenance
+7,80,10,5983.2828,5983.3071,transient_node,Maintenance
+7,224,28,6011.6654,6011.7827,transient_node,Network
+7,211,26,6012.0955,6012.3012,transient_node,Power Outage
+7,69,8,6015.5071,6015.986,transient_node,Power Spike
+7,187,23,6044.8794,6044.945,transient_node,Maintenance
+7,209,26,6066.6603,6067.2681,transient_node,Power Outage
+7,130,16,6087.5522,6088.0801,transient_node,Power Outage
+7,210,26,6093.0381,6093.5205,transient_node,Maintenance
+7,44,5,6096.3837,6097.0924,transient_node,Power Spike
+7,2,0,6107.2095,6107.681,transient_node,Power Spike
+7,252,31,6120.4124,6120.8884,transient_node,Maintenance
+7,239,29,6124.4904,6124.5084,transient_node,Maintenance
+7,115,14,6135.0493,6136.8393,transient_node,Network
+7,15,1,6137.1117,6137.4251,transient_node,Maintenance
+7,16,2,6154.3075,6154.3675,transient_node,Maintenance
+7,171,21,6165.6039,6165.8123,transient_node,Maintenance
+7,55,6,6169.718,6169.8671,transient_node,Maintenance
+7,13,1,6170.7193,6171.6196,transient_node,Power Outage
+7,249,31,6191.4951,6191.7348,transient_node,Network
+7,177,22,6191.9245,6192.6457,transient_node,Network
+7,148,18,6192.8785,6193.0847,transient_node,Maintenance
+7,224,28,6202.4784,6203.0267,transient_node,Power Outage
+7,98,12,6218.2534,6218.276,transient_node,Power Spike
+7,145,18,6237.4868,6237.6711,transient_node,Maintenance
+7,251,31,6252.9632,6253.3457,transient_node,Power Spike
+7,75,9,6285.8164,6285.9966,transient_node,Network
+7,83,10,6287.7657,6288.08,transient_node,Power Spike
+7,215,26,6304.214,6304.2867,transient_node,Power Spike
+7,177,22,6353.1665,6353.2213,transient_node,Power Spike
+7,186,23,6364.9283,6364.9939,transient_node,Network
+7,209,26,6365.6585,6366.2409,transient_node,Maintenance
+7,197,24,6386.0715,6386.1466,transient_node,Maintenance
+7,134,16,6396.8467,6397.2429,transient_node,Network
+7,78,9,6451.8367,6452.1605,transient_node,Network
+7,130,16,6458.6036,6458.6572,transient_node,Power Outage
+7,237,29,6459.3072,6459.3336,transient_node,Power Spike
+7,67,8,6467.2483,6467.2747,transient_node,Power Spike
+7,104,13,6474.5471,6474.8391,transient_node,Power Outage
+7,133,16,6486.2607,6486.5263,transient_node,Power Spike
+7,99,12,6505.4072,6505.5932,transient_node,Maintenance
+7,154,19,6506.642,6507.0328,transient_node,Maintenance
+7,55,6,6515.7248,6515.8785,transient_node,Power Outage
+7,205,25,6519.9693,6520.477,transient_node,Network
+7,7,0,6547.349,6547.7532,transient_node,Power Outage
+7,172,21,6550.0624,6550.3754,transient_node,Power Outage
+7,233,29,6557.249,6557.2799,transient_node,Power Outage
+7,166,20,6566.5504,6566.8546,transient_node,Power Spike
+7,144,18,6576.5379,6576.7848,transient_node,Power Outage
+7,84,10,6577.9891,6578.0418,transient_node,Maintenance
+7,38,4,6586.7967,6586.9016,transient_node,Network
+7,145,18,6591.4178,6596.8962,permanent_node,Disk Drive
+7,19,2,6606.7127,6607.1437,transient_node,Network
+7,76,9,6629.0739,6629.2443,transient_node,Power Spike
+7,166,20,6629.3055,6635.29,permanent_node,Hardware
+7,199,24,6668.5536,6668.6328,transient_node,Network
+7,149,18,6686.6317,6686.7217,transient_node,Maintenance
+7,0,0,6701.7515,6701.7593,transient_node,Power Spike
+7,130,16,6707.1014,6707.1117,transient_node,Power Spike
+7,20,2,6726.7052,6727.0053,transient_node,Network
+7,184,23,6732.9339,6733.0456,transient_node,Power Outage
+7,138,17,6734.5702,6735.2433,transient_node,Network
+7,130,16,6736.9954,6737.2927,transient_node,Power Outage
+7,227,28,6742.2117,6742.2491,transient_node,Power Spike
+7,231,28,6744.5404,6744.5937,transient_node,Power Outage
+7,90,11,6747.8753,6747.8949,transient_node,Network
+7,226,28,6760.3101,6760.3625,transient_node,Power Spike
+7,162,20,6765.0508,6765.1426,transient_node,Network
+7,53,6,6773.0297,6773.3605,transient_node,Network
+7,201,25,6839.2282,6839.2541,transient_node,Power Spike
+7,98,12,6840.5018,6840.8161,transient_node,Power Outage
+7,200,25,6840.7481,6840.8514,transient_node,Power Outage
+7,225,28,6861.6635,6861.7761,transient_node,Power Outage
+7,20,2,6877.5486,6877.9917,transient_node,Power Outage
+7,103,12,6879.7926,6880.3435,transient_node,Maintenance
+7,19,2,6881.5463,6881.8336,transient_node,Maintenance
+7,124,15,6892.7714,6892.9269,transient_node,Network
+7,117,14,6894.6185,6894.6509,transient_node,Maintenance
+7,123,15,6913.7225,6913.9341,transient_node,Maintenance
+7,6,0,6922.5635,6923.1412,transient_node,Power Spike
+7,211,26,6926.1982,6926.2149,transient_node,Maintenance
+7,22,2,6927.5866,6927.7672,transient_node,Network
+7,57,7,6928.0401,6928.0511,transient_node,Power Spike
+7,90,11,6939.668,6939.7486,transient_node,Maintenance
+7,135,16,6941.0698,6941.0705,transient_node,Maintenance
+7,172,21,6945.4518,6945.8205,transient_node,Power Outage
+7,50,6,6969.5614,6970.1401,transient_node,Network
+7,132,16,6992.4125,6992.5941,transient_node,Network
+7,145,18,7042.3126,7042.6464,transient_node,Power Outage
+7,25,3,7080.3963,7080.4354,transient_node,Network
+7,66,8,7081.6781,7081.7745,transient_node,Power Outage
+7,124,15,7084.4696,7085.4435,transient_node,Maintenance
+7,145,18,7088.5521,7088.8093,transient_node,Network
+7,25,3,7090.824,7091.0616,transient_node,Power Spike
+7,122,15,7143.5707,7143.7097,transient_node,Network
+7,192,24,7146.0759,7146.2442,transient_node,Maintenance
+7,120,15,7147.3782,7147.9277,transient_node,Network
+7,142,17,7157.8025,7158.0266,transient_node,Power Spike
+7,16,2,7174.1928,7174.1947,transient_node,Power Outage
+7,46,5,7181.8108,7181.9084,transient_node,Maintenance
+7,193,24,7191.2349,7197.5263,permanent_node,Hardware
+7,109,13,7198.1369,7198.5666,transient_node,Network
+7,23,2,7213.955,7214.0284,transient_node,Power Spike
+7,5,0,7217.6913,7217.6969,transient_node,Network
+7,24,3,7218.1882,7218.409,transient_node,Power Outage
+7,103,12,7229.8338,7229.8547,transient_node,Maintenance
+7,43,5,7244.0684,7244.4822,transient_node,Network
+7,81,10,7267.8795,7267.9166,transient_node,Power Outage
+7,8,1,7272.0242,7272.1977,transient_node,Network
+7,238,29,7281.4714,7281.5825,transient_node,Network
+7,174,21,7284.1068,7284.7724,transient_node,Maintenance
+7,113,14,7285.814,7286.6546,transient_node,Power Spike
+7,128,16,7286.9531,7287.0844,transient_node,Maintenance
+7,27,3,7295.7316,7295.9254,transient_node,Power Outage
+7,73,9,7298.5803,7298.6741,transient_node,Power Outage
+7,143,17,7306.148,7306.2092,transient_node,Power Spike
+7,65,8,7308.6658,7308.8342,transient_node,Power Spike
+7,47,5,7319.6894,7319.9838,transient_node,Power Outage
+7,75,9,7330.8188,7331.0939,transient_node,Maintenance
+7,116,14,7343.1798,7343.2466,transient_node,Network
+7,227,28,7346.4026,7346.4536,transient_node,Power Outage
+7,1,0,7348.8069,7348.8396,transient_node,Maintenance
+7,111,13,7380.0715,7380.5955,transient_node,Power Spike
+7,17,2,7389.3096,7389.5445,transient_node,Maintenance
+7,151,18,7396.127,7396.4909,transient_node,Power Outage
+7,249,31,7423.9789,7424.5911,transient_node,Maintenance
+7,144,18,7429.2266,7429.2374,transient_node,Maintenance
+7,208,26,7452.9639,7453.0166,transient_node,Power Spike
+7,172,21,7464.2917,7464.3361,transient_node,Power Outage
+7,142,17,7466.137,7473.0882,permanent_node,SCSI Controller
+7,253,31,7477.8758,7477.9332,transient_node,Power Outage
+7,222,27,7477.9237,7478.4394,transient_node,Power Spike
+7,58,7,7485.7578,7485.8178,transient_node,Maintenance
+7,122,15,7494.4076,7494.5197,transient_node,Power Outage
+7,15,1,7495.4214,7499.5156,permanent_node,Hardware
+7,69,8,7497.9997,7498.4947,transient_node,Maintenance
+7,182,22,7500.1645,7500.1748,transient_node,Maintenance
+7,99,12,7511.921,7512.1006,transient_node,Maintenance
+7,43,5,7520.2952,7521.7134,transient_node,Power Outage
+7,67,8,7525.6424,7525.981,transient_node,Power Outage
+7,216,27,7530.1825,7530.1958,transient_node,Network
+7,77,9,7530.9104,7531.2128,transient_node,Network
+7,149,18,7538.7236,7539.1393,transient_node,Network
+7,46,5,7539.8484,7539.9441,transient_node,Power Outage
+7,72,9,7543.4831,7543.9272,transient_node,Power Outage
+7,226,28,7564.5257,7569.082,permanent_node,SCSI Controller
+7,220,27,7588.1452,7588.5614,transient_node,Network
+7,207,25,7595.1185,7595.1846,transient_node,Power Outage
+7,158,19,7596.7737,7597.1088,transient_node,Network
+7,127,15,7597.4417,7597.6306,transient_node,Network
+7,78,9,7608.3589,7608.3781,transient_node,Power Spike
+7,221,27,7614.8717,7615.1828,transient_node,Network
+7,80,10,7621.5772,7621.8358,transient_node,Maintenance
+7,96,12,7640.9447,7641.1437,transient_node,Power Spike
+7,41,5,7667.6874,7667.6937,transient_node,Maintenance
+7,51,6,7674.719,7674.7281,transient_node,Network
+7,30,3,7687.3201,7687.6163,transient_node,Maintenance
+7,254,31,7692.9946,7693.0115,transient_node,Maintenance
+7,184,23,7702.9727,7702.9863,transient_node,Maintenance
+7,161,20,7706.3557,7706.4067,transient_node,Maintenance
+7,100,12,7723.5352,7723.7545,transient_node,Network
+7,16,2,7730.8631,7730.9218,transient_node,Power Spike
+7,167,20,7758.2321,7764.3249,permanent_node,Disk Drive
+7,138,17,7776.0515,7776.344,transient_node,Maintenance
+7,112,14,7782.3578,7782.3735,transient_node,Network
+7,72,9,7790.139,7790.1913,transient_node,Power Spike
+7,58,7,7794.9329,7800.9445,permanent_node,Hardware
+7,252,31,7824.1196,7824.4537,transient_node,Power Spike
+7,245,30,7839.907,7840.0159,transient_node,Power Outage
+7,150,18,7843.6599,7843.8858,transient_node,Power Spike
+7,195,24,7851.678,7851.8316,transient_node,Network
+7,157,19,7859.54,7859.7365,transient_node,Power Spike
+7,254,31,7861.2426,7861.4664,transient_node,Power Spike
+7,18,2,7871.3865,7871.4233,transient_node,Network
+7,19,2,7882.1602,7882.3499,transient_node,Network
+7,174,21,7900.8196,7900.9686,transient_node,Power Spike
+7,8,1,7926.6499,7927.044,transient_node,Power Outage
+7,123,15,7941.7077,7942.1565,transient_node,Power Outage
+7,135,16,7946.6799,7947.1843,transient_node,Maintenance
+7,252,31,7954.6818,7954.8547,transient_node,Maintenance
+7,30,3,7960.5298,7960.5567,transient_node,Maintenance
+7,193,24,7962.0962,7962.6877,transient_node,Maintenance
+7,213,26,7974.6836,7974.7234,transient_node,Network
+7,210,26,7982.1882,7982.4486,transient_node,Network
+7,240,30,7985.8189,7985.8497,transient_node,Power Outage
+7,89,11,7990.8455,7990.8901,transient_node,Maintenance
+7,121,15,8004.7006,8005.1863,transient_node,Network
+7,139,17,8012.4367,8012.8205,transient_node,Power Outage
+7,43,5,8027.4458,8027.6175,transient_node,Power Outage
+7,24,3,8050.2094,8050.3407,transient_node,Power Spike
+7,206,25,8067.4868,8067.7309,transient_node,Power Outage
+7,192,24,8069.3297,8069.6047,transient_node,Network
+7,204,25,8072.2022,8072.5942,transient_node,Maintenance
+7,68,8,8077.8462,8078.0322,transient_node,Power Outage
+7,193,24,8077.9858,8078.3834,transient_node,Network
+7,2,0,8081.1861,8081.2101,transient_node,Maintenance
+7,132,16,8084.3507,8084.4433,transient_node,Power Spike
+7,215,26,8084.4705,8084.6259,transient_node,Maintenance
+7,175,21,8099.7526,8100.0137,transient_node,Network
+7,66,8,8105.1316,8105.3881,transient_node,Maintenance
+7,109,13,8114.7656,8115.1164,transient_node,Network
+7,115,14,8120.8948,8121.186,transient_node,Maintenance
+7,154,19,8121.7521,8121.7708,transient_node,Power Outage
+7,59,7,8146.0767,8146.4176,transient_node,Network
+7,77,9,8151.7948,8151.9275,transient_node,Power Spike
+7,108,13,8163.0273,8163.5029,transient_node,Network
+7,74,9,8167.8302,8167.9591,transient_node,Power Spike
+7,165,20,8179.9223,8180.225,transient_node,Network
+7,238,29,8191.5671,8196.8518,permanent_node,Hardware
+7,208,26,8193.1866,8193.8713,transient_node,Maintenance
+7,97,12,8215.1141,8215.1321,transient_node,Power Spike
+7,218,27,8226.456,8226.5982,transient_node,Power Spike
+7,216,27,8239.9897,8240.3029,transient_node,Network
+7,73,9,8247.5891,8248.1193,transient_node,Maintenance
+7,197,24,8249.1546,8249.1723,transient_node,Power Spike
+7,200,25,8268.3712,8268.563,transient_node,Network
+7,64,8,8276.8115,8277.0101,transient_node,Power Outage
+7,131,16,8301.4487,8301.4939,transient_node,Maintenance
+7,60,7,8303.3534,8303.3897,transient_node,Maintenance
+7,130,16,8313.9201,8314.3393,transient_node,Network
+7,231,28,8335.4073,8335.5046,transient_node,Maintenance
+7,81,10,8342.669,8342.7532,transient_node,Maintenance
+7,121,15,8359.9348,8360.1648,transient_node,Power Outage
+7,46,5,8363.8659,8363.8682,transient_node,Maintenance
+7,115,14,8373.272,8373.5238,transient_node,Power Spike
+7,149,18,8381.9358,8382.7047,transient_node,Network
+7,18,2,8383.9584,8384.6243,transient_node,Maintenance
+7,209,26,8401.7928,8401.8815,transient_node,Network
+7,185,23,8422.626,8422.6299,transient_node,Network
+7,134,16,8434.7094,8435.0888,transient_node,Power Outage
+7,2,0,8435.1687,8435.2036,transient_node,Power Outage
+7,83,10,8474.379,8474.6581,transient_node,Power Outage
+7,18,2,8476.9675,8477.1475,transient_node,Power Outage
+7,185,23,8487.4567,8487.8227,transient_node,Power Spike
+7,109,13,8488.0892,8488.1696,transient_node,Power Outage
+7,182,22,8494.5264,8494.5931,transient_node,Power Outage
+7,99,12,8511.8681,8511.9189,transient_node,Maintenance
+7,46,5,8512.612,8512.7812,transient_node,Maintenance
+7,26,3,8520.7,8520.7782,transient_node,Power Outage
+7,162,20,8521.6706,8521.9932,transient_node,Power Outage
+7,33,4,8533.7801,8534.2859,transient_node,Power Spike
+7,170,21,8564.3655,8564.9128,transient_node,Power Spike
+7,140,17,8573.7723,8574.3857,transient_node,Power Outage
+7,47,5,8591.4032,8595.7669,permanent_node,Disk Drive
+7,154,19,8631.9437,8632.3206,transient_node,Power Spike
+7,24,3,8637.5911,8638.4012,transient_node,Network
+7,67,8,8669.5723,8669.665,transient_node,Power Outage
+7,194,24,8670.5084,8670.5621,transient_node,Power Spike
+7,5,0,8689.064,8689.2448,transient_node,Network
+7,155,19,8694.8403,8694.9112,transient_node,Network
+7,51,6,8731.166,8731.2602,transient_node,Network
+7,84,10,8747.7041,8747.9103,transient_node,Power Outage
+7,155,19,8748.6233,8748.7374,transient_node,Maintenance
+7,150,18,8750.0469,8750.4491,transient_node,Power Spike
+7,134,16,8754.6267,8755.2094,transient_node,Power Spike
+7,11,1,8760.7534,8760.8933,transient_node,Maintenance
+7,6,0,8768.7383,8769.0234,transient_node,Power Spike
+7,85,10,8776.0746,8776.0836,transient_node,Maintenance
+7,64,8,8779.6687,8779.947,transient_node,Maintenance
+7,142,17,8794.141,8794.5112,transient_node,Power Spike
+7,181,22,8819.6755,8819.6911,transient_node,Power Spike
+7,149,18,8837.9897,8838.0351,transient_node,Network
+7,109,13,8838.6688,8842.225,permanent_node,Hardware
+7,40,5,8844.3296,8844.3825,transient_node,Power Outage
+7,156,19,8865.7468,8866.0818,transient_node,Maintenance
+7,138,17,8879.9763,8880.2238,transient_node,Power Outage
+7,36,4,8881.528,8881.8134,transient_node,Power Outage
+7,193,24,8900.0359,8900.1095,transient_node,Power Outage
+7,63,7,8905.3498,8905.439,transient_node,Network
+7,237,29,8947.5327,8947.7658,transient_node,Power Spike
+7,61,7,8954.7228,8954.8256,transient_node,Maintenance
+7,152,19,8957.1719,8957.6141,transient_node,Power Spike
+7,51,6,8963.6289,8963.8459,transient_node,Power Spike
+7,32,4,8970.1001,8970.2948,transient_node,Maintenance
+7,10,1,8977.693,8977.8876,transient_node,Power Spike
+7,60,7,8981.0983,8982.2266,transient_node,Power Outage
+7,75,9,8982.7534,8983.1116,transient_node,Power Outage
+7,176,22,8991.8864,8992.4414,transient_node,Power Outage
+7,130,16,8996.7201,8997.0387,transient_node,Power Outage
+7,104,13,8998.8965,8999.0355,transient_node,Maintenance
+7,161,20,9010.869,9011.0312,transient_node,Power Outage
+7,195,24,9015.6454,9015.6725,transient_node,Power Outage
+7,129,16,9027.1523,9027.3839,transient_node,Maintenance
+7,165,20,9040.3841,9040.4525,transient_node,Network
+7,217,27,9050.0981,9050.1224,transient_node,Network
+7,130,16,9054.4293,9054.4765,transient_node,Power Outage
+7,122,15,9071.3142,9071.3775,transient_node,Maintenance
+7,152,19,9074.6503,9074.8592,transient_node,Power Outage
+7,136,17,9076.8479,9076.9451,transient_node,Network
+7,200,25,9099.2273,9099.9475,transient_node,Maintenance
+7,39,4,9108.0941,9108.5604,transient_node,Network
+7,115,14,9131.6402,9131.8104,transient_node,Power Outage
+7,5,0,9138.9446,9139.3629,transient_node,Power Outage
+7,159,19,9155.0593,9155.5642,transient_node,Power Spike
+7,244,30,9161.7185,9162.133,transient_node,Maintenance
+7,153,19,9177.4396,9177.8948,transient_node,Network
+7,10,1,9179.4813,9179.7448,transient_node,Power Outage
+7,241,30,9194.9807,9201.7682,permanent_node,Hardware
+7,91,11,9207.2033,9207.3946,transient_node,Power Outage
+7,205,25,9208.6129,9208.6254,transient_node,Maintenance
+7,121,15,9209.7743,9210.7991,transient_node,Power Spike
+7,209,26,9250.0574,9250.063,transient_node,Network
+7,154,19,9253.5572,9254.0519,transient_node,Power Spike
+7,203,25,9264.771,9265.3219,transient_node,Maintenance
+7,216,27,9281.6808,9282.1102,transient_node,Network
+7,35,4,9283.8303,9284.3125,transient_node,Power Spike
+7,96,12,9305.7611,9305.8348,transient_node,Power Outage
+7,109,13,9317.9103,9318.2249,transient_node,Network
+7,98,12,9320.4641,9320.8143,transient_node,Maintenance
+7,198,24,9341.7456,9342.4568,transient_node,Power Outage
+7,24,3,9370.4398,9370.5592,transient_node,Maintenance
+7,28,3,9376.9647,9377.1626,transient_node,Network
+7,83,10,9378.8726,9378.9605,transient_node,Power Spike
+7,244,30,9411.4938,9411.7513,transient_node,Network
+7,247,30,9414.9115,9420.9901,permanent_node,SCSI Controller
+7,172,21,9421.3228,9421.3874,transient_node,Maintenance
+7,139,17,9424.9337,9425.2077,transient_node,Power Spike
+7,30,3,9457.1485,9457.168,transient_node,Network
+7,241,30,9459.0333,9459.182,transient_node,Power Spike
+7,131,16,9481.6049,9482.3408,transient_node,Power Outage
+7,17,2,9485.5202,9485.7684,transient_node,Power Spike
+7,92,11,9498.5089,9498.8753,transient_node,Power Outage
+7,133,16,9504.762,9505.775,transient_node,Power Spike
+7,145,18,9508.7698,9511.4689,permanent_node,Disk Drive
+7,126,15,9534.9689,9535.0541,transient_node,Power Spike
+7,83,10,9535.3408,9535.3677,transient_node,Maintenance
+7,90,11,9552.639,9553.22,transient_node,Power Spike
+7,185,23,9553.2912,9553.3028,transient_node,Power Spike
+7,116,14,9558.7879,9558.8267,transient_node,Network
+7,71,8,9570.9066,9571.1524,transient_node,Network
+7,59,7,9583.1347,9583.9393,transient_node,Maintenance
+7,132,16,9601.1237,9601.5319,transient_node,Power Outage
+7,49,6,9617.6912,9618.1244,transient_node,Power Spike
+7,109,13,9641.7984,9641.9834,transient_node,Maintenance
+7,203,25,9648.1124,9648.295,transient_node,Power Spike
+7,60,7,9660.9102,9664.9283,permanent_node,Disk Drive
+7,77,9,9677.5722,9677.5784,transient_node,Maintenance
+7,116,14,9679.4656,9679.4788,transient_node,Network
+7,125,15,9679.8012,9679.9309,transient_node,Network
+7,71,8,9698.8274,9698.8825,transient_node,Network
+7,38,4,9702.4207,9705.2639,permanent_node,Hardware
+7,152,19,9702.9843,9703.2703,transient_node,Network
+7,60,7,9705.2346,9705.565,transient_node,Power Spike
+7,24,3,9710.9555,9711.0331,transient_node,Maintenance
+7,48,6,9715.5013,9715.7173,transient_node,Power Spike
+7,161,20,9727.7001,9728.0112,transient_node,Maintenance
+7,26,3,9743.9134,9743.9448,transient_node,Network
+7,209,26,9744.7878,9744.8282,transient_node,Network
+7,116,14,9756.1598,9756.3239,transient_node,Network
+7,101,12,9772.0684,9772.5342,transient_node,Network
+7,199,24,9848.6704,9848.8424,transient_node,Maintenance
+7,135,16,9852.4948,9852.5846,transient_node,Network
+7,6,0,9856.4988,9858.2663,transient_node,Power Spike
+7,69,8,9862.451,9862.519,transient_node,Network
+7,248,31,9886.116,9886.2162,transient_node,Power Outage
+7,130,16,9890.0841,9890.1301,transient_node,Network
+7,122,15,9891.7158,9892.0351,transient_node,Power Outage
+7,91,11,9899.4701,9899.8179,transient_node,Network
+7,106,13,9899.4703,9899.5224,transient_node,Maintenance
+7,210,26,9900.2615,9900.5714,transient_node,Power Spike
+7,109,13,9923.8743,9924.0884,transient_node,Power Spike
+7,204,25,9924.3891,9924.7176,transient_node,Network
+7,178,22,9950.8749,9950.9963,transient_node,Maintenance
+7,47,5,9960.1995,9960.3779,transient_node,Power Spike
+7,222,27,9962.9972,9963.2012,transient_node,Network
+7,162,20,9982.9806,9983.4478,transient_node,Network
+7,243,30,9999.8825,10000.291,transient_node,Maintenance
+7,95,11,10024.7047,10024.8465,transient_node,Power Outage
+7,12,1,10049.3783,10049.6845,transient_node,Power Outage
+7,8,1,10052.6405,10053.2292,transient_node,Power Spike
+7,202,25,10073.7331,10074.2153,transient_node,Network
+7,158,19,10084.1304,10084.1541,transient_node,Network
+7,209,26,10090.1443,10090.2993,transient_node,Power Outage
+7,247,30,10102.5808,10102.586,transient_node,Maintenance
+7,170,21,10127.7514,10127.8584,transient_node,Power Spike
+7,119,14,10132.7912,10133.1496,transient_node,Power Spike
+7,54,6,10162.793,10162.8423,transient_node,Maintenance
+7,98,12,10167.8678,10168.4354,transient_node,Network
+7,172,21,10198.6776,10198.8356,transient_node,Power Spike
+7,163,20,10206.5309,10206.7291,transient_node,Maintenance
+7,176,22,10208.2901,10208.6286,transient_node,Network
+7,41,5,10244.6163,10245.2402,transient_node,Power Spike
+7,118,14,10245.4355,10245.5578,transient_node,Network
+7,254,31,10253.6032,10254.1453,transient_node,Network
+7,215,26,10257.5511,10257.668,transient_node,Power Outage
+7,68,8,10274.2715,10274.3042,transient_node,Maintenance
+7,184,23,10291.9541,10292.0105,transient_node,Power Outage
+7,158,19,10300.7685,10301.7764,transient_node,Power Outage
+7,8,1,10338.383,10338.4026,transient_node,Network
+7,210,26,10342.2352,10342.2787,transient_node,Maintenance
+7,43,5,10346.0619,10346.7762,transient_node,Maintenance
+7,187,23,10368.9881,10369.1406,transient_node,Network
+7,98,12,10383.2705,10383.3669,transient_node,Network
+7,30,3,10414.219,10414.4546,transient_node,Power Outage
+7,145,18,10428.616,10435.3111,permanent_node,Hardware
+7,157,19,10430.3012,10431.4149,transient_node,Power Spike
+7,159,19,10448.5739,10448.6955,transient_node,Maintenance
+7,50,6,10472.5503,10472.6851,transient_node,Power Spike
+7,156,19,10498.8836,10499.4353,transient_node,Power Outage
+7,248,31,10501.3627,10501.4833,transient_node,Network
+7,130,16,10506.5299,10506.5627,transient_node,Power Outage
+7,107,13,10512.3916,10512.4502,transient_node,Network
+7,181,22,10514.5256,10514.6084,transient_node,Maintenance
+7,195,24,10546.7339,10546.8429,transient_node,Power Outage
+7,27,3,10551.1766,10551.2629,transient_node,Power Spike
+7,225,28,10600.6757,10600.7424,transient_node,Network
+7,88,11,10604.2186,10604.5479,transient_node,Network
+7,17,2,10610.192,10610.2165,transient_node,Maintenance
+7,144,18,10612.5255,10612.899,transient_node,Network
+7,233,29,10621.6981,10621.7916,transient_node,Power Outage
+7,233,29,10622.3802,10622.9343,transient_node,Maintenance
+7,197,24,10636.5426,10636.8555,transient_node,Power Outage
+7,210,26,10637.2406,10637.4443,transient_node,Power Outage
+7,204,25,10638.8862,10639.3865,transient_node,Power Spike
+7,31,3,10644.5744,10644.6865,transient_node,Maintenance
+7,179,22,10652.2134,10652.3806,transient_node,Maintenance
+7,120,15,10658.8813,10658.9157,transient_node,Power Spike
+7,237,29,10701.7195,10701.772,transient_node,Maintenance
+7,45,5,10705.3577,10705.4774,transient_node,Power Outage
+7,147,18,10743.7314,10743.9451,transient_node,Network
+7,123,15,10756.5112,10756.6873,transient_node,Power Spike
+7,62,7,10769.6971,10769.9371,transient_node,Maintenance
+7,160,20,10773.8639,10774.0873,transient_node,Network
+7,253,31,10779.0586,10779.2518,transient_node,Network
+7,60,7,10782.8659,10788.6473,permanent_node,Disk Drive
+7,154,19,10797.3484,10797.9807,transient_node,Network
+7,172,21,10814.6289,10814.9465,transient_node,Network
+7,24,3,10855.8453,10856.0196,transient_node,Power Spike
+7,165,20,10869.9833,10870.528,transient_node,Maintenance
+7,75,9,10876.8961,10877.0062,transient_node,Network
+7,171,21,10884.0115,10884.1811,transient_node,Power Spike
+7,18,2,10920.2238,10920.2295,transient_node,Power Outage
+7,166,20,10923.6561,10924.1379,transient_node,Network
+7,33,4,10926.6299,10926.7424,transient_node,Power Outage
+7,124,15,10939.1073,10939.1173,transient_node,Power Outage
+7,226,28,10955.2801,10955.3698,transient_node,Network
+7,14,1,10965.4714,10965.5271,transient_node,Maintenance
+7,200,25,10984.1777,10984.2382,transient_node,Network
+7,161,20,10992.6715,10993.2254,transient_node,Maintenance
+7,236,29,10994.9561,10995.0018,transient_node,Maintenance
+7,92,11,10997.1876,10997.397,transient_node,Network
+7,193,24,10998.9017,10998.9181,transient_node,Network
+7,247,30,11012.5408,11012.5822,transient_node,Power Spike
+7,84,10,11025.2053,11025.2844,transient_node,Power Outage
+7,214,26,11033.1462,11034.0646,transient_node,Maintenance
+7,56,7,11071.6848,11071.7939,transient_node,Power Spike
+7,156,19,11077.684,11078.2722,transient_node,Power Spike
+7,64,8,11085.894,11086.049,transient_node,Power Outage
+7,45,5,11112.0413,11112.5005,transient_node,Network
+7,14,1,11112.4279,11112.4464,transient_node,Maintenance
+7,116,14,11115.1265,11115.5364,transient_node,Power Outage
+7,109,13,11118.9321,11118.9911,transient_node,Maintenance
+7,231,28,11150.8406,11150.9709,transient_node,Maintenance
+7,203,25,11155.6182,11156.1305,transient_node,Network
+7,69,8,11165.4901,11165.9595,transient_node,Power Outage
+7,42,5,11167.0893,11167.8515,transient_node,Maintenance
+7,51,6,11209.5077,11210.0786,transient_node,Power Outage
+7,197,24,11229.7426,11229.8487,transient_node,Maintenance
+7,94,11,11232.0311,11232.201,transient_node,Power Outage
+7,236,29,11243.2227,11243.3414,transient_node,Network
+7,100,12,11250.9422,11251.0833,transient_node,Power Spike
+7,243,30,11251.0719,11251.4295,transient_node,Maintenance
+7,86,10,11257.5609,11257.5773,transient_node,Network
+7,245,30,11286.039,11286.1005,transient_node,Power Outage
+7,217,27,11304.1002,11304.3661,transient_node,Maintenance
+7,164,20,11304.4626,11305.9608,transient_node,Maintenance
+7,118,14,11308.1248,11308.1874,transient_node,Maintenance
+7,161,20,11315.4567,11315.5342,transient_node,Power Spike
+7,108,13,11322.1603,11322.1713,transient_node,Power Outage
+7,184,23,11343.2923,11343.8192,transient_node,Power Outage
+7,11,1,11347.3505,11347.3585,transient_node,Maintenance
+7,203,25,11364.0524,11364.0916,transient_node,Network
+7,232,29,11367.1336,11367.2655,transient_node,Power Spike
+7,25,3,11390.6891,11391.1915,transient_node,Power Spike
+7,207,25,11405.3267,11405.5627,transient_node,Power Outage
+7,195,24,11433.8736,11434.1274,transient_node,Maintenance
+7,144,18,11435.6802,11435.9462,transient_node,Network
+7,68,8,11435.7101,11435.9227,transient_node,Power Outage
+7,125,15,11440.1619,11440.7376,transient_node,Maintenance
+7,73,9,11479.8559,11479.9307,transient_node,Network
+7,161,20,11499.0481,11499.3536,transient_node,Power Outage
+7,81,10,11506.6447,11506.8788,transient_node,Power Spike
+7,140,17,11509.9775,11510.2933,transient_node,Power Outage
+7,55,6,11516.3074,11516.3187,transient_node,Power Spike
+7,218,27,11519.1419,11519.1927,transient_node,Power Spike
+7,233,29,11523.7263,11523.8765,transient_node,Power Spike
+7,11,1,11552.372,11552.9681,transient_node,Power Spike
+7,67,8,11554.5275,11554.6916,transient_node,Power Outage
+7,180,22,11561.3578,11561.6012,transient_node,Power Spike
+7,151,18,11561.425,11561.5308,transient_node,Maintenance
+7,207,25,11564.185,11564.2987,transient_node,Network
+7,76,9,11590.0975,11590.3001,transient_node,Power Spike
+7,130,16,11590.8108,11591.661,transient_node,Network
+7,90,11,11601.0064,11601.4317,transient_node,Network
+7,250,31,11601.8449,11601.8523,transient_node,Maintenance
+7,108,13,11624.5577,11624.5884,transient_node,Network
+7,255,31,11628.4068,11628.9862,transient_node,Maintenance
+7,11,1,11638.9197,11639.1327,transient_node,Power Spike
+7,23,2,11641.0546,11641.4831,transient_node,Power Outage
+7,188,23,11657.6932,11657.8413,transient_node,Power Spike
+7,123,15,11667.2288,11667.3117,transient_node,Power Spike
+7,62,7,11669.5478,11669.6426,transient_node,Network
+7,74,9,11676.0633,11676.0869,transient_node,Maintenance
+7,178,22,11676.4969,11676.688,transient_node,Maintenance
+7,143,17,11695.0791,11695.184,transient_node,Power Outage
+7,129,16,11706.6864,11710.4489,permanent_node,Disk Drive
+7,58,7,11708.5207,11708.6463,transient_node,Power Outage
+7,78,9,11722.2445,11722.5638,transient_node,Power Outage
+7,156,19,11725.1508,11725.6067,transient_node,Network
+7,156,19,11732.9075,11733.3536,transient_node,Power Outage
+7,202,25,11735.477,11735.5333,transient_node,Power Spike
+7,203,25,11744.302,11745.314,transient_node,Power Spike
+7,172,21,11791.4815,11792.1143,transient_node,Network
+7,171,21,11810.9546,11811.2958,transient_node,Power Spike
+7,189,23,11815.0796,11815.8119,transient_node,Power Spike
+7,162,20,11817.6637,11818.5809,transient_node,Maintenance
+7,200,25,11824.1566,11824.1786,transient_node,Network
+7,47,5,11826.0365,11826.3519,transient_node,Power Spike
+7,244,30,11855.7784,11855.9264,transient_node,Power Outage
+7,112,14,11857.1486,11857.4575,transient_node,Power Outage
+7,252,31,11862.0533,11862.9943,transient_node,Maintenance
+7,1,0,11869.2908,11869.7425,transient_node,Power Spike
+7,166,20,11878.2819,11878.3572,transient_node,Network
+7,149,18,11884.9755,11885.1194,transient_node,Power Spike
+7,209,26,11901.2795,11901.8182,transient_node,Power Spike
+7,196,24,11918.9041,11919.0506,transient_node,Network
+7,77,9,11923.6404,11923.8046,transient_node,Power Spike
+7,229,28,11924.9091,11925.4516,transient_node,Power Outage
+7,113,14,11933.7255,11933.7475,transient_node,Maintenance
+7,164,20,11944.2561,11945.2534,transient_node,Maintenance
+7,250,31,11950.473,11950.5081,transient_node,Power Spike
+7,82,10,11954.4446,11954.5325,transient_node,Maintenance
+7,213,26,11955.0775,11955.095,transient_node,Maintenance
+7,6,0,11958.9008,11959.3201,transient_node,Power Spike
+7,32,4,11963.2988,11963.5388,transient_node,Network
+7,185,23,11967.0098,11967.3681,transient_node,Network
+7,147,18,11992.2671,11992.3999,transient_node,Maintenance
+7,42,5,11993.7569,11998.5864,permanent_node,SCSI Controller
+7,247,30,12025.6277,12025.7982,transient_node,Power Spike
+7,28,3,12053.4044,12053.4129,transient_node,Power Spike
+7,149,18,12063.2972,12063.6608,transient_node,Maintenance
+7,243,30,12069.0628,12069.1153,transient_node,Network
+7,190,23,12080.399,12080.4189,transient_node,Power Spike
+7,198,24,12112.6309,12112.6514,transient_node,Power Outage
+7,115,14,12114.1949,12114.2647,transient_node,Power Spike
+7,150,18,12120.548,12124.7844,permanent_node,SCSI Controller
+7,245,30,12123.1901,12123.4823,transient_node,Power Spike
+7,202,25,12141.8138,12141.8695,transient_node,Power Spike
+7,13,1,12174.697,12175.5721,transient_node,Power Outage
+7,203,25,12193.3203,12193.6005,transient_node,Power Outage
+7,199,24,12218.0922,12218.5969,transient_node,Network
+7,144,18,12225.642,12225.8891,transient_node,Power Outage
+7,108,13,12226.2444,12226.2777,transient_node,Power Outage
+7,85,10,12244.6739,12244.8231,transient_node,Power Outage
+7,228,28,12264.7808,12264.8652,transient_node,Maintenance
+7,135,16,12278.5781,12283.5455,permanent_node,Disk Drive
+7,66,8,12287.7116,12287.7632,transient_node,Maintenance
+7,14,1,12289.1572,12289.9477,transient_node,Power Outage
+7,172,21,12292.0711,12292.6422,transient_node,Maintenance
+7,21,2,12325.5982,12326.1696,transient_node,Power Outage
+7,71,8,12338.7618,12339.1455,transient_node,Network
+7,105,13,12343.7944,12343.8137,transient_node,Network
+7,180,22,12345.3743,12345.6946,transient_node,Network
+7,191,23,12369.8473,12370.5365,transient_node,Maintenance
+7,196,24,12371.5883,12371.7655,transient_node,Power Spike
+7,150,18,12384.9162,12385.1492,transient_node,Network
+7,132,16,12397.2653,12398.7493,transient_node,Power Outage
+7,86,10,12411.9466,12412.1927,transient_node,Maintenance
+7,23,2,12416.2721,12416.422,transient_node,Power Outage
+7,214,26,12449.8564,12449.8836,transient_node,Network
+7,198,24,12451.3362,12451.873,transient_node,Power Outage
+7,192,24,12474.5825,12475.1003,transient_node,Maintenance
+7,118,14,12492.8884,12493.0334,transient_node,Network
+7,8,1,12509.8185,12510.2805,transient_node,Maintenance
+7,36,4,12511.2744,12511.5859,transient_node,Network
+7,24,3,12516.0551,12516.2264,transient_node,Maintenance
+7,197,24,12521.9106,12522.2835,transient_node,Network
+7,83,10,12539.5805,12539.7325,transient_node,Network
+7,248,31,12550.5956,12550.611,transient_node,Power Spike
+7,191,23,12555.2001,12555.7494,transient_node,Power Spike
+7,195,24,12579.2401,12579.5804,transient_node,Power Outage
+7,113,14,12588.2354,12588.2394,transient_node,Network
+7,203,25,12609.5749,12609.6177,transient_node,Power Spike
+7,54,6,12613.7483,12613.8887,transient_node,Power Outage
+7,222,27,12624.7311,12624.8318,transient_node,Network
+7,29,3,12630.5039,12630.6024,transient_node,Power Outage
+7,96,12,12645.819,12646.1057,transient_node,Maintenance
+7,94,11,12648.0056,12648.2496,transient_node,Network
+7,34,4,12662.6115,12663.2672,transient_node,Power Outage
+7,81,10,12674.6916,12674.8225,transient_node,Power Outage
+7,117,14,12688.9188,12689.1619,transient_node,Power Outage
+7,243,30,12692.4173,12692.4436,transient_node,Network
+7,209,26,12703.1143,12703.169,transient_node,Network
+7,158,19,12717.8726,12717.9083,transient_node,Power Outage
+7,122,15,12750.3993,12750.4577,transient_node,Power Outage
+7,155,19,12755.3558,12755.4614,transient_node,Maintenance
+7,74,9,12760.2213,12760.2653,transient_node,Power Outage
+7,60,7,12763.3594,12763.3744,transient_node,Network
+7,94,11,12770.1929,12770.3009,transient_node,Power Spike
+7,72,9,12772.3568,12773.4207,transient_node,Maintenance
+7,151,18,12791.3502,12792.2309,transient_node,Maintenance
+7,221,27,12797.0295,12797.0953,transient_node,Network
+7,38,4,12798.4485,12798.5242,transient_node,Power Outage
+7,162,20,12803.4167,12803.5866,transient_node,Power Spike
+7,114,14,12809.9677,12810.4118,transient_node,Power Spike
+7,231,28,12829.4889,12829.5472,transient_node,Maintenance
+7,169,21,12838.8033,12838.9548,transient_node,Maintenance
+7,198,24,12840.5673,12840.8325,transient_node,Power Spike
+7,239,29,12843.8803,12843.9205,transient_node,Power Outage
+7,124,15,12865.1586,12865.1951,transient_node,Network
+7,21,2,12879.277,12879.4879,transient_node,Power Spike
+7,133,16,12879.5818,12879.5845,transient_node,Network
+7,115,14,12890.531,12890.7816,transient_node,Network
+7,250,31,12894.4988,12894.6382,transient_node,Network
+7,28,3,12911.0133,12911.4236,transient_node,Maintenance
+7,208,26,12911.3381,12911.4829,transient_node,Network
+7,233,29,12912.2503,12912.8956,transient_node,Network
+7,233,29,12916.418,12918.6295,permanent_node,Disk Drive
+7,217,27,12925.8508,12925.9496,transient_node,Network
+7,223,27,12935.2307,12935.5421,transient_node,Maintenance
+7,115,14,12936.6701,12937.6456,transient_node,Power Outage
+7,200,25,12954.1115,12954.9279,transient_node,Power Spike
+7,155,19,12954.9124,12955.1739,transient_node,Maintenance
+7,73,9,12960.4899,12961.2281,transient_node,Power Spike
+7,79,9,12963.8388,12964.21,transient_node,Power Spike
+7,191,23,12976.4179,12976.5121,transient_node,Network
+7,230,28,13006.4129,13006.8475,transient_node,Maintenance
+7,210,26,13006.5744,13006.661,transient_node,Maintenance
+7,61,7,13011.3618,13011.3621,transient_node,Network
+7,47,5,13016.58,13017.4374,transient_node,Network
+7,92,11,13022.6768,13022.8882,transient_node,Maintenance
+7,139,17,13039.6298,13040.861,transient_node,Power Spike
+7,64,8,13045.4719,13045.8812,transient_node,Maintenance
+7,246,30,13059.6179,13060.4035,transient_node,Power Spike
+7,249,31,13063.4878,13063.6952,transient_node,Maintenance
+7,60,7,13069.5246,13069.7936,transient_node,Power Outage
+7,22,2,13079.2181,13079.3675,transient_node,Network
+7,89,11,13082.7419,13082.9389,transient_node,Power Spike
+7,202,25,13089.5289,13089.5914,transient_node,Power Outage
+7,125,15,13098.3961,13098.5637,transient_node,Maintenance
+7,135,16,13140.3088,13140.3916,transient_node,Maintenance
+7,208,26,13152.0533,13152.2755,transient_node,Power Outage
+7,46,5,13168.7866,13169.2486,transient_node,Power Outage
+7,168,21,13181.3245,13182.0415,transient_node,Power Spike
+7,81,10,13188.1465,13188.3738,transient_node,Maintenance
+7,212,26,13197.681,13197.8482,transient_node,Power Outage
+7,134,16,13208.7918,13209.031,transient_node,Power Spike
+7,106,13,13215.5557,13215.9938,transient_node,Network
+7,125,15,13219.6947,13220.6031,transient_node,Maintenance
+7,200,25,13230.9501,13231.0079,transient_node,Maintenance
+7,164,20,13234.4188,13235.4785,transient_node,Power Spike
+7,187,23,13236.0704,13236.4705,transient_node,Network
+7,63,7,13250.5899,13250.7411,transient_node,Network
+7,136,17,13252.5416,13252.761,transient_node,Power Outage
+7,218,27,13265.1336,13265.6035,transient_node,Maintenance
+7,83,10,13265.7837,13265.8744,transient_node,Maintenance
+7,241,30,13277.7121,13278.1577,transient_node,Power Outage
+7,188,23,13285.6926,13285.7247,transient_node,Power Spike
+7,137,17,13300.757,13303.6274,permanent_node,Disk Drive
+7,135,16,13302.5152,13303.0166,transient_node,Power Spike
+7,31,3,13335.3173,13335.3523,transient_node,Power Outage
+7,194,24,13339.9852,13341.0669,transient_node,Power Spike
+7,48,6,13341.6222,13341.7994,transient_node,Maintenance
+7,118,14,13351.1576,13351.6521,transient_node,Maintenance
+7,139,17,13364.5826,13364.5913,transient_node,Network
+7,109,13,13366.6221,13366.7041,transient_node,Maintenance
+7,1,0,13396.3497,13397.1671,transient_node,Power Outage
+7,137,17,13402.8336,13403.4609,transient_node,Power Spike
+7,168,21,13410.8319,13411.1493,transient_node,Power Spike
+7,211,26,13425.121,13425.1239,transient_node,Maintenance
+7,84,10,13450.253,13450.37,transient_node,Power Spike
+7,120,15,13458.9028,13459.0374,transient_node,Maintenance
+7,3,0,13497.2088,13497.537,transient_node,Network
+7,231,28,13509.8904,13510.7114,transient_node,Network
+7,193,24,13520.9969,13521.1929,transient_node,Network
+7,192,24,13533.0482,13533.5326,transient_node,Maintenance
+7,79,9,13544.9164,13545.0949,transient_node,Power Spike
+7,54,6,13559.1206,13559.239,transient_node,Power Outage
+7,200,25,13560.1712,13560.5924,transient_node,Network
+7,156,19,13571.4584,13571.4968,transient_node,Power Outage
+7,94,11,13579.2689,13579.2895,transient_node,Network
+7,148,18,13639.7309,13639.7752,transient_node,Network
+7,204,25,13643.6462,13643.9323,transient_node,Maintenance
+7,225,28,13671.2996,13671.6155,transient_node,Power Spike
+7,142,17,13675.4535,13675.513,transient_node,Network
+7,249,31,13676.2829,13676.9757,transient_node,Power Outage
+7,172,21,13682.1109,13682.1741,transient_node,Maintenance
+7,66,8,13688.7678,13688.8773,transient_node,Power Spike
+7,189,23,13691.4311,13691.6134,transient_node,Power Spike
+7,56,7,13696.1923,13696.3032,transient_node,Power Spike
+7,129,16,13706.1564,13706.8335,transient_node,Network
+7,25,3,13723.9185,13723.9971,transient_node,Maintenance
+7,152,19,13732.9555,13733.1858,transient_node,Power Spike
+7,53,6,13739.9012,13739.9923,transient_node,Power Outage
+7,216,27,13759.1776,13759.843,transient_node,Maintenance
+7,191,23,13762.553,13762.8478,transient_node,Power Spike
+7,220,27,13765.54,13765.6881,transient_node,Power Outage
+7,143,17,13769.3917,13769.4487,transient_node,Power Outage
+7,91,11,13770.5694,13770.7918,transient_node,Power Outage
+7,134,16,13771.252,13771.5366,transient_node,Power Outage
+7,73,9,13782.4532,13782.8239,transient_node,Power Outage
+7,7,0,13790.6258,13791.4047,transient_node,Power Outage
+7,40,5,13792.796,13793.1041,transient_node,Network
+7,54,6,13793.4694,13793.8674,transient_node,Maintenance
+7,165,20,13838.0367,13838.477,transient_node,Power Outage
+7,202,25,13902.203,13902.3059,transient_node,Network
+7,231,28,13908.4654,13908.5627,transient_node,Network
+7,163,20,13909.5865,13909.7975,transient_node,Power Outage
+7,136,17,13915.4192,13916.0287,transient_node,Maintenance
+7,112,14,13920.5435,13921.0167,transient_node,Network
+7,86,10,13940.066,13940.1623,transient_node,Power Outage
+7,164,20,13948.2917,13948.5429,transient_node,Network
+7,252,31,13967.0782,13967.2622,transient_node,Network
+7,29,3,13967.3232,13967.7001,transient_node,Power Outage
+7,248,31,13970.2839,13970.3979,transient_node,Maintenance
+7,220,27,13984.1466,13984.2541,transient_node,Power Spike
+7,3,0,14024.2558,14024.4415,transient_node,Maintenance
+7,23,2,14041.6851,14041.787,transient_node,Power Outage
+7,51,6,14058.6688,14058.6984,transient_node,Maintenance
+7,122,15,14063.5531,14063.709,transient_node,Power Spike
+7,166,20,14081.2081,14081.2196,transient_node,Maintenance
+7,230,28,14083.6352,14084.7461,transient_node,Power Spike
+7,211,26,14091.6577,14091.6973,transient_node,Maintenance
+7,62,7,14124.5664,14124.5952,transient_node,Network
+7,72,9,14125.1685,14125.2284,transient_node,Power Outage
+7,54,6,14126.4405,14126.4502,transient_node,Network
+7,109,13,14135.7945,14136.1614,transient_node,Power Outage
+7,225,28,14172.4874,14172.6778,transient_node,Power Spike
+7,182,22,14175.3334,14175.7563,transient_node,Maintenance
+7,5,0,14193.443,14193.7043,transient_node,Power Spike
+7,152,19,14204.6599,14204.9935,transient_node,Network
+7,72,9,14214.791,14222.4004,permanent_node,Hardware
+7,157,19,14216.4789,14216.6467,transient_node,Maintenance
+7,172,21,14219.4358,14220.0683,transient_node,Network
+7,167,20,14223.709,14224.0461,transient_node,Power Spike
+7,48,6,14240.5391,14240.6702,transient_node,Power Spike
+7,155,19,14258.3551,14258.4696,transient_node,Network
+7,42,5,14263.0305,14263.0972,transient_node,Power Spike
+7,178,22,14263.3686,14263.4126,transient_node,Power Spike
+7,142,17,14296.9956,14297.1961,transient_node,Network
+7,66,8,14300.7416,14300.7845,transient_node,Maintenance
+7,141,17,14309.2682,14309.3939,transient_node,Network
+7,85,10,14313.2846,14313.3193,transient_node,Network
+7,221,27,14331.2458,14331.5234,transient_node,Power Spike
+7,226,28,14332.4705,14332.8798,transient_node,Network
+7,161,20,14335.4472,14335.6104,transient_node,Network
+7,110,13,14339.9703,14340.1711,transient_node,Power Spike
+7,30,3,14343.1531,14343.3479,transient_node,Network
+7,239,29,14347.8308,14347.9644,transient_node,Power Outage
+7,65,8,14390.1119,14390.3153,transient_node,Power Outage
+7,45,5,14397.1172,14397.4812,transient_node,Maintenance
+7,44,5,14407.049,14407.2616,transient_node,Power Spike
+7,64,8,14420.6257,14420.9415,transient_node,Power Outage
+7,191,23,14455.9239,14455.9307,transient_node,Power Spike
+7,213,26,14457.5838,14457.8867,transient_node,Maintenance
+7,60,7,14458.8652,14459.2241,transient_node,Maintenance
+7,189,23,14473.0277,14473.3847,transient_node,Maintenance
+7,239,29,14507.3026,14507.662,transient_node,Power Spike
+7,193,24,14545.8616,14545.8656,transient_node,Power Outage
+7,62,7,14553.0599,14553.4157,transient_node,Maintenance
+7,139,17,14570.1213,14575.4073,permanent_node,Hardware
+7,41,5,14570.3831,14571.2724,transient_node,Power Outage
+7,90,11,14576.2496,14576.4643,transient_node,Network
+7,183,22,14578.7147,14578.7183,transient_node,Network
+7,214,26,14583.9217,14584.0521,transient_node,Maintenance
+7,34,4,14597.5344,14597.6922,transient_node,Maintenance
+7,84,10,14603.1635,14603.3587,transient_node,Maintenance
+7,113,14,14630.8119,14630.9849,transient_node,Maintenance
+7,203,25,14631.8521,14632.1755,transient_node,Network
+7,18,2,14637.3464,14637.3666,transient_node,Maintenance
+7,197,24,14642.3241,14642.5286,transient_node,Power Spike
+7,160,20,14644.4061,14644.4339,transient_node,Power Outage
+7,163,20,14672.824,14672.8517,transient_node,Maintenance
+7,225,28,14679.0822,14679.1748,transient_node,Network
+7,100,12,14684.3966,14684.466,transient_node,Maintenance
+7,67,8,14686.5646,14686.7438,transient_node,Power Outage
+7,5,0,14728.3085,14728.4703,transient_node,Network
+7,44,5,14731.0914,14731.6056,transient_node,Maintenance
+7,133,16,14739.1095,14739.6738,transient_node,Power Spike
+7,78,9,14740.2112,14740.2938,transient_node,Power Outage
+7,163,20,14750.2973,14750.4427,transient_node,Power Outage
+7,87,10,14765.3992,14765.4104,transient_node,Network
+7,6,0,14772.4271,14772.5316,transient_node,Power Outage
+7,252,31,14778.5969,14778.8507,transient_node,Network
+7,30,3,14779.7716,14779.8966,transient_node,Power Outage
+7,230,28,14786.556,14787.1551,transient_node,Maintenance
+7,196,24,14797.7357,14797.7399,transient_node,Network
+7,142,17,14819.3213,14819.4242,transient_node,Network
+7,183,22,14826.156,14826.7072,transient_node,Power Spike
+7,92,11,14827.7855,14827.9484,transient_node,Power Spike
+7,24,3,14830.7686,14830.9166,transient_node,Power Outage
+7,53,6,14862.2855,14862.4269,transient_node,Maintenance
+7,120,15,14866.3359,14866.9083,transient_node,Power Spike
+7,138,17,14871.0477,14871.0654,transient_node,Power Spike
+7,184,23,14887.2716,14887.5094,transient_node,Network
+7,64,8,14893.6895,14893.818,transient_node,Power Outage
+7,214,26,14896.648,14896.7241,transient_node,Network
+7,161,20,14915.9724,14916.0771,transient_node,Power Spike
+7,188,23,14936.4262,14936.766,transient_node,Power Outage
+7,13,1,14937.1072,14937.2922,transient_node,Power Outage
+7,165,20,14939.7151,14939.755,transient_node,Power Spike
+7,177,22,14942.5388,14942.6116,transient_node,Network
+7,95,11,14950.6592,14950.7537,transient_node,Network
+7,49,6,14963.2924,14963.6341,transient_node,Network
+7,238,29,14971.814,14971.8621,transient_node,Maintenance
+7,210,26,14973.6932,14973.8892,transient_node,Power Outage
+7,138,17,14991.0792,14991.7175,transient_node,Network
+7,246,30,14992.0626,14992.8469,transient_node,Power Spike
+7,25,3,14993.0171,14993.1859,transient_node,Maintenance
+7,53,6,15017.8508,15018.3796,transient_node,Network
+7,112,14,15020.9656,15021.02,transient_node,Network
+7,101,12,15046.9471,15047.2345,transient_node,Maintenance
+7,137,17,15051.5409,15052.2118,transient_node,Maintenance
+7,237,29,15060.2661,15060.9726,transient_node,Power Spike
+7,29,3,15062.8508,15063.3928,transient_node,Power Spike
+7,253,31,15077.7251,15077.936,transient_node,Network
+7,166,20,15080.2397,15080.7534,transient_node,Maintenance
+7,61,7,15084.3061,15084.3325,transient_node,Maintenance
+7,1,0,15086.7866,15087.0716,transient_node,Power Spike
+7,242,30,15095.5213,15096.2551,transient_node,Power Spike
+7,64,8,15108.9019,15109.0027,transient_node,Maintenance
+7,14,1,15120.8289,15121.2247,transient_node,Power Spike
+7,232,29,15158.502,15158.5387,transient_node,Power Spike
+7,192,24,15162.4213,15163.0006,transient_node,Maintenance
+7,152,19,15172.1468,15172.2047,transient_node,Power Outage
+7,122,15,15196.7908,15196.921,transient_node,Power Spike
+7,81,10,15232.6169,15232.7237,transient_node,Power Outage
+7,110,13,15272.6002,15272.8446,transient_node,Maintenance
+7,92,11,15291.8275,15291.9138,transient_node,Power Outage
+7,142,17,15316.9106,15317.1668,transient_node,Maintenance
+7,6,0,15321.0086,15321.4509,transient_node,Maintenance
+7,75,9,15331.5851,15331.7555,transient_node,Network
+7,66,8,15338.5508,15338.8839,transient_node,Power Spike
+7,213,26,15341.8324,15346.7606,permanent_node,Disk Drive
+7,101,12,15342.1757,15342.3505,transient_node,Power Outage
+7,209,26,15350.8794,15351.6496,transient_node,Network
+7,185,23,15361.0589,15361.9725,transient_node,Power Spike
+7,176,22,15371.1303,15376.345,permanent_node,SCSI Controller
+7,75,9,15372.8956,15373.0401,transient_node,Power Spike
+7,155,19,15378.1876,15378.2618,transient_node,Power Outage
+7,228,28,15391.0241,15391.2399,transient_node,Power Spike
+7,251,31,15396.1862,15396.7178,transient_node,Maintenance
+7,116,14,15404.8942,15404.9634,transient_node,Power Spike
+7,35,4,15411.3695,15411.3725,transient_node,Power Outage
+7,96,12,15431.0103,15431.0624,transient_node,Maintenance
+7,10,1,15439.3007,15440.1555,transient_node,Maintenance
+7,170,21,15456.0682,15456.1183,transient_node,Power Outage
+7,243,30,15482.2362,15482.3845,transient_node,Power Spike
+7,40,5,15482.6646,15482.9032,transient_node,Maintenance
+7,120,15,15486.1357,15486.3195,transient_node,Maintenance
+7,85,10,15492.2133,15492.7827,transient_node,Network
+7,231,28,15505.7274,15505.7402,transient_node,Power Spike
+7,13,1,15512.8394,15517.1731,permanent_node,Disk Drive
+7,209,26,15526.9944,15527.2016,transient_node,Power Outage
+7,255,31,15546.5113,15547.0636,transient_node,Maintenance
+7,7,0,15566.8916,15566.9689,transient_node,Power Spike
+7,0,0,15572.6005,15572.6936,transient_node,Network
+7,252,31,15583.8299,15583.8642,transient_node,Power Spike
+7,24,3,15630.9291,15631.0862,transient_node,Maintenance
+7,28,3,15634.3024,15634.4469,transient_node,Maintenance
+7,95,11,15634.3812,15634.4863,transient_node,Power Spike
+7,98,12,15649.9263,15650.1389,transient_node,Network
+7,9,1,15655.4168,15655.4517,transient_node,Power Spike
+7,207,25,15671.7918,15675.4217,permanent_node,Disk Drive
+7,143,17,15683.5071,15683.7617,transient_node,Network
+7,234,29,15684.6519,15684.7595,transient_node,Power Outage
+7,104,13,15686.0802,15686.2298,transient_node,Power Spike
+7,224,28,15709.7942,15710.4901,transient_node,Power Outage
+7,115,14,15716.1087,15716.1801,transient_node,Power Outage
+7,57,7,15719.4479,15719.4847,transient_node,Power Outage
+7,253,31,15728.6127,15728.6909,transient_node,Power Spike
+7,82,10,15730.6846,15731.2934,transient_node,Power Outage
+7,78,9,15733.4752,15733.4775,transient_node,Maintenance
+7,169,21,15736.5122,15736.5506,transient_node,Maintenance
+7,226,28,15755.4466,15755.4826,transient_node,Power Spike
+7,159,19,15759.9863,15760.1544,transient_node,Power Outage
+7,191,23,15765.0331,15765.3492,transient_node,Power Outage
+7,147,18,15770.6674,15770.68,transient_node,Maintenance
+7,208,26,15786.681,15787.0333,transient_node,Power Outage
+7,193,24,15787.9125,15787.9348,transient_node,Network
+7,198,24,15809.1159,15809.8817,transient_node,Power Spike
+7,19,2,15809.5175,15809.8612,transient_node,Network
+7,221,27,15834.4858,15834.4932,transient_node,Maintenance
+7,149,18,15840.3362,15840.3927,transient_node,Maintenance
+7,118,14,15842.3385,15842.5158,transient_node,Maintenance
+7,201,25,15866.7631,15866.7818,transient_node,Power Spike
+7,70,8,15868.4625,15868.8731,transient_node,Power Spike
+7,0,0,15871.0084,15871.1501,transient_node,Power Spike
+7,254,31,15872.9549,15873.1833,transient_node,Network
+7,181,22,15881.1769,15881.6856,transient_node,Power Outage
+7,204,25,15892.7501,15893.0116,transient_node,Network
+7,193,24,15904.839,15905.1532,transient_node,Power Spike
+7,219,27,15905.5864,15905.9356,transient_node,Network
+7,246,30,15917.3883,15917.6367,transient_node,Maintenance
+7,119,14,15933.2923,15933.8528,transient_node,Network
+7,127,15,15936.7534,15936.9884,transient_node,Maintenance
+7,39,4,15937.6934,15938.4215,transient_node,Power Outage
+7,177,22,15940.0814,15940.1959,transient_node,Network
+7,99,12,15956.5649,15956.7732,transient_node,Maintenance
+7,227,28,15960.9068,15961.3415,transient_node,Power Outage
+7,43,5,15973.4796,15975.0732,transient_node,Maintenance
+7,57,7,15987.674,15987.8354,transient_node,Power Outage
+7,240,30,15992.9451,15993.1355,transient_node,Power Outage
+7,85,10,15997.9896,15998.0473,transient_node,Power Outage
+7,171,21,16001.5123,16001.7261,transient_node,Power Spike
+7,100,12,16022.4587,16022.5332,transient_node,Power Spike
+7,231,28,16023.8619,16024.6455,transient_node,Power Spike
+7,230,28,16038.268,16038.6024,transient_node,Power Outage
+7,201,25,16043.0512,16043.1794,transient_node,Network
+7,42,5,16043.579,16043.5862,transient_node,Power Outage
+7,104,13,16045.5597,16045.7385,transient_node,Network
+7,146,18,16074.5199,16074.5989,transient_node,Power Spike
+7,75,9,16075.0292,16075.4523,transient_node,Power Outage
+7,230,28,16077.92,16078.0643,transient_node,Maintenance
+7,239,29,16081.3208,16081.7201,transient_node,Power Outage
+7,112,14,16083.4557,16083.7192,transient_node,Power Spike
+7,164,20,16096.1451,16097.1777,transient_node,Power Outage
+7,77,9,16111.5388,16111.5598,transient_node,Power Spike
+7,237,29,16127.9899,16128.0845,transient_node,Maintenance
+7,139,17,16150.9945,16151.287,transient_node,Network
+7,20,2,16179.7815,16180.0084,transient_node,Power Outage
+7,247,30,16181.8392,16182.456,transient_node,Maintenance
+7,165,20,16200.2669,16200.5837,transient_node,Power Spike
+7,119,14,16238.7842,16239.2784,transient_node,Maintenance
+7,57,7,16262.8312,16262.9606,transient_node,Power Spike
+7,79,9,16279.4528,16280.4503,transient_node,Maintenance
+7,29,3,16288.7924,16288.7979,transient_node,Power Spike
+7,179,22,16292.3623,16292.4848,transient_node,Maintenance
+7,109,13,16292.5916,16293.3549,transient_node,Network
+7,224,28,16303.1169,16303.6967,transient_node,Power Spike
+7,220,27,16311.2014,16311.4229,transient_node,Power Outage
+7,153,19,16320.3027,16320.3084,transient_node,Power Outage
+7,179,22,16332.4065,16332.4801,transient_node,Network
+7,154,19,16335.6423,16336.1473,transient_node,Maintenance
+7,194,24,16356.2185,16356.3737,transient_node,Power Spike
+7,153,19,16362.5943,16363.0652,transient_node,Maintenance
+7,255,31,16363.37,16363.7921,transient_node,Power Spike
+7,123,15,16365.9273,16365.9874,transient_node,Network
+7,194,24,16376.8725,16377.1238,transient_node,Power Spike
+7,238,29,16393.6968,16394.2755,transient_node,Maintenance
+7,223,27,16399.748,16400.6108,transient_node,Power Spike
+7,193,24,16400.508,16400.6634,transient_node,Power Spike
+7,50,6,16404.9996,16405.0161,transient_node,Power Outage
+7,61,7,16432.5654,16432.7988,transient_node,Maintenance
+7,185,23,16455.9155,16455.9804,transient_node,Power Outage
+7,191,23,16497.3805,16497.6531,transient_node,Network
+7,81,10,16510.0995,16510.1068,transient_node,Maintenance
+7,55,6,16510.18,16510.2928,transient_node,Power Spike
+7,178,22,16520.5921,16521.0168,transient_node,Network
+7,236,29,16545.348,16546.28,transient_node,Maintenance
+7,224,28,16547.7932,16548.1015,transient_node,Network
+7,169,21,16548.98,16549.214,transient_node,Power Outage
+7,12,1,16564.6841,16564.7154,transient_node,Network
+7,206,25,16572.5538,16572.8332,transient_node,Network
+7,17,2,16577.7372,16577.8596,transient_node,Power Outage
+7,101,12,16578.417,16578.8504,transient_node,Maintenance
+7,110,13,16587.7205,16587.8121,transient_node,Power Spike
+7,7,0,16599.4403,16599.5859,transient_node,Power Outage
+7,235,29,16603.2349,16603.6121,transient_node,Network
+7,194,24,16606.3491,16606.8271,transient_node,Network
+7,123,15,16645.2009,16645.2407,transient_node,Power Spike
+7,237,29,16651.2032,16651.4795,transient_node,Maintenance
+7,114,14,16651.9993,16652.9604,transient_node,Maintenance
+7,216,27,16655.192,16655.6072,transient_node,Network
+7,10,1,16664.1653,16664.2131,transient_node,Maintenance
+7,128,16,16664.219,16671.0144,permanent_node,Disk Drive
+7,167,20,16673.44,16674.0793,transient_node,Maintenance
+7,193,24,16673.8091,16674.0248,transient_node,Power Outage
+7,80,10,16713.3926,16713.5367,transient_node,Maintenance
+7,109,13,16718.1656,16718.3933,transient_node,Power Spike
+7,179,22,16730.6042,16730.6349,transient_node,Power Spike
+7,5,0,16744.2306,16745.1693,transient_node,Maintenance
+7,241,30,16751.2582,16751.2663,transient_node,Power Outage
+7,69,8,16754.6698,16754.8616,transient_node,Power Spike
+7,156,19,16777.4081,16777.5218,transient_node,Power Spike
+7,140,17,16791.8256,16792.268,transient_node,Maintenance
+7,144,18,16804.0342,16804.1253,transient_node,Network
+7,222,27,16806.1619,16806.4825,transient_node,Network
+7,27,3,16822.0937,16822.2257,transient_node,Maintenance
+7,39,4,16832.8903,16832.9242,transient_node,Maintenance
+7,71,8,16861.0758,16867.6199,permanent_node,Disk Drive
+7,125,15,16863.4207,16863.6801,transient_node,Power Outage
+7,223,27,16876.5055,16876.5599,transient_node,Power Outage
+7,10,1,16878.3649,16878.6511,transient_node,Network
+7,253,31,16901.7083,16902.139,transient_node,Power Spike
+7,75,9,16915.1595,16915.3159,transient_node,Power Outage
+7,33,4,16933.3968,16933.469,transient_node,Maintenance
+7,150,18,16934.2483,16934.6229,transient_node,Power Outage
+7,169,21,16945.9793,16946.0312,transient_node,Power Outage
+7,106,13,16946.5803,16946.984,transient_node,Power Spike
+7,72,9,16954.2785,16955.0813,transient_node,Power Spike
+7,241,30,16959.9913,16960.3038,transient_node,Network
+7,230,28,16971.5219,16971.7595,transient_node,Power Outage
+7,65,8,16997.0993,16997.3855,transient_node,Maintenance
+7,109,13,17018.5544,17025.6092,permanent_node,SCSI Controller
+7,133,16,17026.6926,17027.2854,transient_node,Network
+7,171,21,17028.1743,17028.1997,transient_node,Network
+7,238,29,17040.86,17041.0355,transient_node,Network
+7,84,10,17043.8128,17044.1605,transient_node,Network
+7,195,24,17059.2675,17059.5929,transient_node,Maintenance
+7,176,22,17064.6246,17064.697,transient_node,Maintenance
+7,97,12,17076.3025,17076.4284,transient_node,Network
+7,202,25,17076.3594,17076.361,transient_node,Maintenance
+7,81,10,17081.7989,17083.1328,transient_node,Power Spike
+7,163,20,17097.1981,17097.2846,transient_node,Maintenance
+7,22,2,17139.364,17139.4028,transient_node,Maintenance
+7,163,20,17162.948,17163.2009,transient_node,Power Outage
+7,223,27,17176.7332,17176.9917,transient_node,Maintenance
+7,180,22,17185.5375,17185.6285,transient_node,Power Outage
+7,22,2,17188.4324,17188.7805,transient_node,Power Spike
+7,246,30,17197.8201,17198.238,transient_node,Power Outage
+7,177,22,17202.7573,17203.1236,transient_node,Power Outage
+7,159,19,17206.4768,17206.5796,transient_node,Power Spike
+7,243,30,17218.1304,17218.5864,transient_node,Power Spike
+7,186,23,17221.1326,17221.8936,transient_node,Power Outage
+7,18,2,17242.4567,17242.6003,transient_node,Maintenance
+7,219,27,17254.4544,17254.5288,transient_node,Power Outage
+7,90,11,17258.4618,17258.4636,transient_node,Maintenance
+7,244,30,17266.3043,17266.3524,transient_node,Network
+7,187,23,17278.9698,17278.9887,transient_node,Network
+7,201,25,17279.3245,17280.0303,transient_node,Power Spike
+7,232,29,17282.6058,17282.6077,transient_node,Network
+7,140,17,17283.9032,17283.9227,transient_node,Network
+7,201,25,17290.615,17290.6441,transient_node,Maintenance
+7,238,29,17299.4826,17300.2326,transient_node,Maintenance
+7,50,6,17305.8271,17306.4564,transient_node,Power Outage
+7,15,1,17319.7193,17319.8786,transient_node,Maintenance
+7,85,10,17321.9098,17322.3834,transient_node,Network
+7,216,27,17325.7969,17326.7122,transient_node,Network
+7,183,22,17334.9958,17335.1438,transient_node,Power Spike
+7,18,2,17340.4073,17340.8257,transient_node,Power Spike
+7,29,3,17378.3895,17378.6125,transient_node,Network
+7,165,20,17382.6288,17382.6369,transient_node,Maintenance
+7,87,10,17384.3918,17387.2647,permanent_node,Disk Drive
+7,252,31,17386.589,17387.8546,transient_node,Maintenance
+7,156,19,17400.6988,17400.7934,transient_node,Power Spike
+7,75,9,17420.8385,17421.1727,transient_node,Power Outage
+7,30,3,17428.936,17429.0678,transient_node,Power Outage
+7,196,24,17430.6242,17430.9694,transient_node,Network
+7,41,5,17433.3423,17436.6776,permanent_node,SCSI Controller
+7,97,12,17445.4977,17445.5374,transient_node,Network
+7,239,29,17447.5351,17447.9081,transient_node,Power Outage
+7,5,0,17455.077,17455.1253,transient_node,Network
+7,121,15,17455.5112,17455.8916,transient_node,Maintenance
+7,50,6,17476.442,17476.725,transient_node,Power Outage
+7,163,20,17481.7203,17481.7958,transient_node,Maintenance
+7,41,5,17485.4698,17485.5026,transient_node,Power Outage
+7,154,19,17486.8609,17486.9388,transient_node,Power Spike
+7,252,31,17509.6957,17510.0554,transient_node,Maintenance
+7,243,30,17514.2811,17514.4384,transient_node,Network
+7,249,31,17515.2063,17515.3007,transient_node,Network
+7,73,9,17525.9425,17531.9118,permanent_node,SCSI Controller
+7,99,12,17526.3901,17526.4165,transient_node,Power Spike
+7,3,0,17528.8291,17529.0248,transient_node,Power Outage
+7,197,24,17540.2173,17540.367,transient_node,Power Outage
+7,248,31,17547.198,17547.288,transient_node,Network
+7,175,21,17549.159,17549.2041,transient_node,Network
+7,152,19,17555.69,17555.7905,transient_node,Power Outage
+7,103,12,17574.2863,17574.5387,transient_node,Maintenance
+7,28,3,17582.6416,17582.9219,transient_node,Maintenance
+7,158,19,17587.8599,17592.4065,permanent_node,Hardware
+7,128,16,17597.415,17597.8913,transient_node,Network
+7,17,2,17610.3621,17610.5203,transient_node,Maintenance
+7,107,13,17613.6083,17613.9737,transient_node,Maintenance
+7,86,10,17619.7426,17619.8839,transient_node,Power Spike
+7,11,1,17627.779,17627.8392,transient_node,Power Spike
+7,224,28,17628.0183,17628.0294,transient_node,Maintenance
+7,160,20,17629.9799,17630.8331,transient_node,Network
+7,240,30,17636.6729,17636.7143,transient_node,Power Outage
+7,27,3,17638.869,17638.9763,transient_node,Power Outage
+7,78,9,17641.689,17641.7594,transient_node,Power Spike
+7,42,5,17679.1627,17679.2293,transient_node,Power Spike
+7,144,18,17680.222,17680.6749,transient_node,Network
+7,33,4,17694.5935,17694.6367,transient_node,Power Spike
+7,16,2,17709.3372,17709.3554,transient_node,Power Spike
+7,127,15,17736.0316,17736.1783,transient_node,Power Spike
+7,83,10,17745.0532,17745.0586,transient_node,Power Spike
+7,64,8,17746.3336,17746.7995,transient_node,Maintenance
+7,25,3,17746.5031,17746.5497,transient_node,Maintenance
+7,148,18,17780.1239,17780.4445,transient_node,Power Spike
+7,13,1,17789.0757,17789.1825,transient_node,Maintenance
+7,168,21,17804.4903,17804.5139,transient_node,Power Spike
+7,79,9,17813.1178,17813.2492,transient_node,Power Outage
+7,147,18,17827.2494,17827.7915,transient_node,Maintenance
+7,139,17,17831.0917,17831.8825,transient_node,Network
+7,102,12,17834.281,17834.6272,transient_node,Maintenance
+7,19,2,17834.7369,17834.9864,transient_node,Maintenance
+7,79,9,17835.7204,17836.0582,transient_node,Network
+7,29,3,17837.8005,17838.0241,transient_node,Network
+7,155,19,17867.8807,17867.9307,transient_node,Network
+7,121,15,17876.0362,17876.3935,transient_node,Power Outage
+7,179,22,17880.3549,17880.657,transient_node,Maintenance
+7,211,26,17886.3825,17886.3863,transient_node,Network
+7,7,0,17888.0435,17888.1097,transient_node,Power Outage
+7,187,23,17896.7409,17896.7681,transient_node,Power Outage
+7,23,2,17897.4657,17897.5209,transient_node,Network
+7,161,20,17897.9152,17897.946,transient_node,Network
+7,234,29,17904.5594,17904.5766,transient_node,Power Spike
+7,102,12,17906.4869,17906.9219,transient_node,Power Spike
+7,209,26,17931.1101,17931.306,transient_node,Maintenance
+7,243,30,17939.4454,17939.8884,transient_node,Maintenance
+7,240,30,17949.4544,17949.455,transient_node,Power Spike
+7,78,9,17963.5444,17964.1113,transient_node,Network
+7,231,28,17964.7116,17965.5028,transient_node,Power Outage
+7,101,12,17978.7179,17978.7343,transient_node,Maintenance
+7,246,30,17981.5282,17981.9046,transient_node,Network
+7,16,2,18029.8802,18029.8884,transient_node,Network
+7,213,26,18034.1138,18034.4147,transient_node,Network
+7,24,3,18036.9643,18037.1992,transient_node,Maintenance
+7,106,13,18068.3256,18068.3693,transient_node,Power Spike
+7,149,18,18071.2699,18071.3393,transient_node,Maintenance
+7,220,27,18077.7118,18077.962,transient_node,Network
+7,56,7,18082.8901,18083.5426,transient_node,Power Outage
+7,21,2,18100.0517,18100.1307,transient_node,Power Spike
+7,51,6,18115.4752,18115.5289,transient_node,Network
+7,2,0,18123.3401,18124.0735,transient_node,Power Spike
+7,160,20,18134.4191,18134.9502,transient_node,Maintenance
+7,182,22,18136.3144,18136.7341,transient_node,Network
+7,204,25,18138.9525,18139.1498,transient_node,Maintenance
+7,197,24,18142.4953,18142.5901,transient_node,Maintenance
+7,24,3,18146.7236,18147.1458,transient_node,Power Outage
+7,69,8,18178.0179,18178.123,transient_node,Network
+7,6,0,18197.5898,18197.6117,transient_node,Power Outage
+7,237,29,18207.5606,18207.6659,transient_node,Power Outage
+7,143,17,18207.9796,18209.0513,transient_node,Maintenance
+7,104,13,18219.7513,18219.9781,transient_node,Power Spike
+7,223,27,18226.3756,18226.4676,transient_node,Network
+7,201,25,18238.6287,18238.6891,transient_node,Power Outage
+7,253,31,18240.1431,18240.1874,transient_node,Maintenance
+7,135,16,18259.3354,18259.4919,transient_node,Power Outage
+7,234,29,18259.3391,18259.419,transient_node,Power Outage
+7,3,0,18266.7214,18266.9538,transient_node,Power Outage
+7,124,15,18291.3367,18291.9954,transient_node,Maintenance
+7,78,9,18296.5782,18296.6322,transient_node,Maintenance
+7,252,31,18297.7444,18298.3831,transient_node,Power Outage
+7,147,18,18316.6648,18317.1228,transient_node,Power Spike
+7,85,10,18347.3203,18347.3653,transient_node,Power Spike
+7,2,0,18350.6557,18350.7846,transient_node,Power Spike
+7,210,26,18392.2924,18392.3271,transient_node,Power Outage
+7,225,28,18398.1507,18398.2042,transient_node,Power Outage
+7,50,6,18447.9253,18448.0979,transient_node,Network
+7,124,15,18448.1245,18448.2687,transient_node,Power Outage
+7,6,0,18455.2315,18455.3572,transient_node,Network
+7,175,21,18461.6532,18461.7376,transient_node,Network
+7,25,3,18462.9158,18462.9924,transient_node,Power Outage
+7,197,24,18476.9754,18477.1733,transient_node,Power Spike
+7,211,26,18477.8744,18478.3453,transient_node,Network
+7,25,3,18484.4321,18484.5086,transient_node,Power Outage
+7,227,28,18484.5232,18484.5938,transient_node,Power Spike
+7,81,10,18497.5161,18497.7099,transient_node,Power Spike
+7,239,29,18511.3598,18511.6849,transient_node,Power Outage
+7,155,19,18512.4773,18512.5002,transient_node,Power Spike
+7,101,12,18522.9869,18523.8807,transient_node,Power Spike
+7,227,28,18534.3001,18534.6226,transient_node,Maintenance
+7,25,3,18536.2378,18536.5561,transient_node,Network
+7,209,26,18539.1353,18539.478,transient_node,Network
+7,200,25,18543.1038,18543.1685,transient_node,Network
+7,179,22,18546.6636,18547.1328,transient_node,Maintenance
+7,251,31,18567.6685,18567.8054,transient_node,Network
+7,8,1,18581.0689,18581.5927,transient_node,Network
+7,22,2,18594.2815,18594.317,transient_node,Maintenance
+7,192,24,18601.2976,18601.7143,transient_node,Power Outage
+7,174,21,18604.3977,18604.9692,transient_node,Power Outage
+7,5,0,18606.4833,18606.4911,transient_node,Power Spike
+7,82,10,18607.9362,18608.0272,transient_node,Power Spike
+7,111,13,18623.0164,18623.2017,transient_node,Power Spike
+7,96,12,18631.2954,18631.8592,transient_node,Power Outage
+7,36,4,18635.9591,18636.0791,transient_node,Network
+7,246,30,18675.7445,18675.7547,transient_node,Maintenance
+7,222,27,18689.9113,18689.9261,transient_node,Power Outage
+7,158,19,18699.7868,18699.8492,transient_node,Power Spike
+7,176,22,18723.4435,18724.0823,transient_node,Power Outage
+7,254,31,18754.7012,18754.8981,transient_node,Maintenance
+7,156,19,18761.3556,18761.5849,transient_node,Network
+7,172,21,18766.55,18767.0319,transient_node,Power Spike
+7,17,2,18792.0598,18792.0886,transient_node,Power Outage
+7,184,23,18805.6447,18806.2309,transient_node,Maintenance
+7,243,30,18810.4998,18810.5076,transient_node,Maintenance
+7,160,20,18823.5708,18823.8474,transient_node,Power Spike
+7,121,15,18823.9883,18824.0897,transient_node,Power Outage
+7,228,28,18824.1563,18824.4368,transient_node,Power Spike
+7,60,7,18833.7925,18833.8731,transient_node,Power Spike
+7,242,30,18834.2332,18834.7647,transient_node,Power Outage
+7,55,6,18845.7181,18846.1037,transient_node,Network
+7,189,23,18856.438,18856.6451,transient_node,Power Outage
+7,237,29,18859.1336,18859.2612,transient_node,Power Outage
+7,167,20,18869.9328,18869.9432,transient_node,Maintenance
+7,103,12,18870.9809,18871.0805,transient_node,Power Outage
+7,165,20,18899.6859,18899.8656,transient_node,Power Outage
+7,244,30,18918.7251,18918.7353,transient_node,Network
+7,110,13,18920.98,18921.4882,transient_node,Power Spike
+7,107,13,18923.0081,18923.2053,transient_node,Maintenance
+7,161,20,18927.5333,18928.1971,transient_node,Power Outage
+7,249,31,18933.0185,18933.0429,transient_node,Power Outage
+7,91,11,18983.6761,18983.6773,transient_node,Power Outage
+7,146,18,18985.3875,18985.3987,transient_node,Maintenance
+7,85,10,18986.9246,18987.6956,transient_node,Maintenance
+7,105,13,18990.2014,18990.2879,transient_node,Power Outage
+7,14,1,18994.2642,18994.5888,transient_node,Power Outage
+7,253,31,18998.6906,18999.1131,transient_node,Maintenance
+7,174,21,19028.0894,19028.5111,transient_node,Network
+7,193,24,19038.2473,19038.2938,transient_node,Network
+7,76,9,19038.2649,19038.438,transient_node,Maintenance
+7,180,22,19043.3075,19044.2867,transient_node,Maintenance
+7,166,20,19045.5565,19046.1225,transient_node,Power Spike
+7,106,13,19072.8476,19072.975,transient_node,Power Spike
+7,27,3,19072.8697,19073.0724,transient_node,Maintenance
+7,48,6,19086.8634,19087.614,transient_node,Power Outage
+7,133,16,19086.9437,19086.9879,transient_node,Power Outage
+7,249,31,19094.0123,19094.2297,transient_node,Power Outage
+7,156,19,19099.1849,19099.21,transient_node,Power Spike
+7,39,4,19117.4928,19118.7074,transient_node,Network
+7,0,0,19138.36,19138.4093,transient_node,Power Outage
+7,242,30,19154.8291,19154.9083,transient_node,Network
+7,111,13,19175.6409,19175.9682,transient_node,Maintenance
+7,198,24,19175.8667,19175.9541,transient_node,Power Outage
+7,228,28,19191.1113,19191.1271,transient_node,Power Spike
+7,157,19,19219.1755,19219.6624,transient_node,Maintenance
+7,238,29,19231.659,19231.6675,transient_node,Maintenance
+7,15,1,19233.9029,19234.1452,transient_node,Power Spike
+7,114,14,19243.5814,19243.6819,transient_node,Power Spike
+7,66,8,19251.794,19252.4431,transient_node,Network
+7,219,27,19252.5759,19253.2437,transient_node,Network
+7,246,30,19272.5598,19272.7871,transient_node,Power Spike
+7,99,12,19307.014,19307.1524,transient_node,Network
+7,126,15,19308.9597,19308.9654,transient_node,Power Spike
+7,171,21,19336.3914,19336.5089,transient_node,Network
+7,97,12,19353.0635,19353.1392,transient_node,Power Spike
+7,117,14,19355.6427,19355.7701,transient_node,Maintenance
+7,96,12,19357.009,19357.3034,transient_node,Power Spike
+7,252,31,19357.1304,19357.2505,transient_node,Power Outage
+7,118,14,19366.4934,19366.7187,transient_node,Power Spike
+7,223,27,19382.548,19382.7571,transient_node,Maintenance
+7,170,21,19414.4542,19414.8315,transient_node,Power Outage
+7,16,2,19414.9397,19415.035,transient_node,Maintenance
+7,98,12,19435.6277,19435.9232,transient_node,Power Spike
+7,67,8,19439.9728,19440.1402,transient_node,Power Outage
+7,53,6,19440.5708,19440.8486,transient_node,Network
+7,204,25,19440.7892,19440.8386,transient_node,Network
+7,94,11,19454.7795,19454.7949,transient_node,Power Outage
+7,156,19,19483.5382,19484.0351,transient_node,Network
+7,6,0,19485.4434,19485.6586,transient_node,Power Spike
+7,143,17,19509.2665,19509.3702,transient_node,Maintenance
+7,108,13,19513.2473,19513.3425,transient_node,Power Outage
+7,142,17,19531.0404,19531.3503,transient_node,Maintenance
+7,207,25,19531.7359,19531.8213,transient_node,Power Spike
+7,207,25,19537.4243,19537.4659,transient_node,Network
+7,38,4,19538.5453,19538.637,transient_node,Power Outage
+7,224,28,19555.4063,19555.6181,transient_node,Power Spike
+7,202,25,19558.1666,19558.4747,transient_node,Network
+7,149,18,19558.2382,19558.6891,transient_node,Power Spike
+7,114,14,19568.2643,19575.6989,permanent_node,Hardware
+7,237,29,19583.4738,19583.8979,transient_node,Power Spike
+7,178,22,19595.2597,19595.6791,transient_node,Maintenance
+7,26,3,19597.7669,19597.8362,transient_node,Maintenance
+7,160,20,19615.2304,19615.4023,transient_node,Network
+7,239,29,19628.5528,19628.7716,transient_node,Power Spike
+7,255,31,19641.9774,19642.101,transient_node,Power Outage
+7,120,15,19645.6481,19645.8744,transient_node,Network
+7,226,28,19666.4787,19673.3305,permanent_node,Disk Drive
+7,77,9,19671.3906,19671.5014,transient_node,Power Spike
+7,196,24,19672.3603,19673.5736,transient_node,Network
+7,152,19,19685.8677,19685.9653,transient_node,Maintenance
+7,168,21,19732.765,19732.8474,transient_node,Power Spike
+7,188,23,19758.2431,19759.0533,transient_node,Power Spike
+7,21,2,19759.7828,19760.6069,transient_node,Power Spike
+7,188,23,19819.5126,19819.7613,transient_node,Maintenance
+7,179,22,19824.0333,19824.1332,transient_node,Power Spike
+7,18,2,19860.8927,19861.7089,transient_node,Maintenance
+7,97,12,19875.9741,19881.6369,permanent_node,SCSI Controller
+7,227,28,19884.0473,19884.2567,transient_node,Power Spike
+7,255,31,19961.9376,19962.1209,transient_node,Network
+7,66,8,19962.9713,19963.3519,transient_node,Maintenance
+7,62,7,19970.2552,19970.3985,transient_node,Maintenance
+7,226,28,20009.548,20009.5567,transient_node,Network
+7,202,25,20021.0965,20021.2285,transient_node,Network
+7,87,10,20028.0771,20028.2129,transient_node,Power Outage
+7,254,31,20029.9556,20029.9827,transient_node,Power Spike
+7,73,9,20030.8705,20031.0779,transient_node,Network
+7,42,5,20049.4809,20049.5427,transient_node,Maintenance
+7,73,9,20058.011,20058.37,transient_node,Network
+7,205,25,20062.4768,20062.7108,transient_node,Power Spike
+7,76,9,20065.8464,20066.2152,transient_node,Power Spike
+7,117,14,20112.1818,20112.2,transient_node,Power Spike
+7,142,17,20170.3074,20170.3966,transient_node,Network
+7,51,6,20176.6182,20176.6404,transient_node,Power Spike
+7,205,25,20177.9474,20178.0434,transient_node,Network
+7,121,15,20197.7159,20197.7455,transient_node,Network
+7,11,1,20250.7788,20251.0576,transient_node,Maintenance
+7,168,21,20273.9716,20274.0841,transient_node,Network
+7,22,2,20308.3834,20308.4517,transient_node,Power Spike
+7,32,4,20316.1204,20316.3163,transient_node,Maintenance
+7,112,14,20325.2865,20325.4989,transient_node,Power Spike
+7,228,28,20335.624,20336.5876,transient_node,Maintenance
+7,21,2,20369.3033,20369.3043,transient_node,Network
+7,133,16,20372.5631,20372.5738,transient_node,Maintenance
+7,255,31,20386.7038,20386.7895,transient_node,Maintenance
+7,199,24,20394.4007,20394.6412,transient_node,Maintenance
+7,176,22,20395.7797,20395.8287,transient_node,Maintenance
+7,22,2,20399.6448,20399.8375,transient_node,Power Spike
+7,241,30,20424.2259,20424.3041,transient_node,Power Outage
+7,213,26,20443.8029,20443.9372,transient_node,Network
+7,224,28,20457.9212,20459.2161,transient_node,Maintenance
+7,189,23,20466.6421,20466.9264,transient_node,Power Spike
+7,192,24,20473.3252,20473.6847,transient_node,Network
+7,26,3,20508.2703,20508.2839,transient_node,Network
+7,128,16,20514.7766,20515.4184,transient_node,Power Outage
+7,110,13,20520.8009,20521.4594,transient_node,Power Outage
+7,77,9,20537.7891,20538.4085,transient_node,Maintenance
+7,119,14,20546.4985,20546.9189,transient_node,Maintenance
+7,208,26,20547.0008,20547.0974,transient_node,Power Outage
+7,43,5,20566.2825,20566.2985,transient_node,Maintenance
+7,213,26,20589.9829,20590.1381,transient_node,Power Outage
+7,217,27,20606.7287,20607.2174,transient_node,Maintenance
+7,233,29,20616.0679,20616.1444,transient_node,Maintenance
+7,94,11,20652.7748,20653.1454,transient_node,Power Spike
+7,117,14,20692.7628,20692.885,transient_node,Network
+7,97,12,20695.1488,20695.4709,transient_node,Power Outage
+7,83,10,20721.2341,20721.9818,transient_node,Network
+7,159,19,20726.4073,20727.0246,transient_node,Power Outage
+7,160,20,20739.6122,20739.7363,transient_node,Network
+7,82,10,20768.0392,20768.2685,transient_node,Power Outage
+7,59,7,20769.5474,20769.6041,transient_node,Power Outage
+7,188,23,20783.2519,20783.4072,transient_node,Maintenance
+7,200,25,20803.7652,20804.2291,transient_node,Power Outage
+7,81,10,20810.2838,20810.3793,transient_node,Power Outage
+7,160,20,20817.4298,20818.1679,transient_node,Power Spike
+7,47,5,20818.8239,20819.0399,transient_node,Power Outage
+7,6,0,20832.7597,20833.0246,transient_node,Power Outage
+7,242,30,20841.161,20841.3825,transient_node,Power Outage
+7,253,31,20856.1004,20856.4087,transient_node,Network
+7,238,29,20873.4203,20873.6558,transient_node,Maintenance
+7,162,20,20873.7243,20873.7265,transient_node,Power Spike
+7,75,9,20883.8489,20884.0179,transient_node,Power Spike
+7,152,19,20887.0335,20887.232,transient_node,Power Outage
+7,206,25,20896.2806,20896.3598,transient_node,Power Spike
+7,30,3,20899.4672,20899.8598,transient_node,Power Spike
+7,150,18,20912.7233,20912.849,transient_node,Power Spike
+7,204,25,20917.0099,20917.1759,transient_node,Power Spike
+7,164,20,20918.9001,20918.973,transient_node,Network
+7,66,8,20920.3507,20920.4523,transient_node,Power Spike
+7,211,26,20922.7602,20922.8278,transient_node,Power Spike
+7,227,28,20923.1046,20923.1409,transient_node,Maintenance
+7,249,31,20930.4492,20930.9017,transient_node,Maintenance
+7,143,17,20936.7788,20937.1287,transient_node,Power Spike
+7,60,7,20937.2973,20941.2343,permanent_node,Disk Drive
+7,175,21,20944.2709,20944.4377,transient_node,Power Spike
+7,150,18,20950.5974,20950.691,transient_node,Power Spike
+7,215,26,20950.7414,20950.8106,transient_node,Network
+7,13,1,20957.2279,20957.2457,transient_node,Network
+7,220,27,20957.3775,20958.0534,transient_node,Power Spike
+7,238,29,20959.7511,20960.0815,transient_node,Power Outage
+7,148,18,20967.1924,20967.2612,transient_node,Network
+7,205,25,20984.8936,20991.1254,permanent_node,Hardware
+7,55,6,20987.4017,20987.6776,transient_node,Power Outage
+7,124,15,20987.9503,20988.4133,transient_node,Power Spike
+7,123,15,20992.5846,20992.6039,transient_node,Power Outage
+7,143,17,20996.1282,20996.1425,transient_node,Network
+7,223,27,21023.7894,21023.8441,transient_node,Power Spike
+7,102,12,21053.3158,21053.4726,transient_node,Maintenance
+7,14,1,21066.2046,21066.496,transient_node,Power Outage
+7,5,0,21070.0591,21070.2331,transient_node,Network
+7,202,25,21106.7194,21106.8246,transient_node,Maintenance
+7,70,8,21107.5301,21107.5846,transient_node,Network
+7,216,27,21125.3473,21125.5163,transient_node,Power Outage
+7,121,15,21125.969,21125.9707,transient_node,Power Outage
+7,154,19,21129.968,21130.1025,transient_node,Maintenance
+7,176,22,21160.9321,21161.0086,transient_node,Power Outage
+7,92,11,21182.028,21182.1042,transient_node,Network
+7,170,21,21185.9493,21186.5248,transient_node,Power Outage
+7,52,6,21187.6407,21187.7981,transient_node,Power Outage
+7,204,25,21198.3572,21198.4541,transient_node,Power Spike
+7,75,9,21210.6808,21210.8239,transient_node,Power Outage
+7,38,4,21211.1728,21211.2082,transient_node,Network
+7,142,17,21231.9155,21232.294,transient_node,Maintenance
+7,56,7,21233.2859,21233.3118,transient_node,Power Spike
+7,189,23,21235.0617,21236.0311,transient_node,Power Outage
+7,71,8,21248.827,21249.4486,transient_node,Network
+7,216,27,21258.1878,21258.303,transient_node,Network
+7,158,19,21260.5174,21260.568,transient_node,Maintenance
+7,184,23,21265.4957,21265.5755,transient_node,Network
+7,245,30,21282.6663,21282.6998,transient_node,Power Outage
+7,44,5,21286.4661,21286.6877,transient_node,Maintenance
+7,137,17,21301.6835,21301.9752,transient_node,Power Outage
+7,209,26,21303.4128,21303.4761,transient_node,Maintenance
+7,242,30,21304.3808,21304.9607,transient_node,Maintenance
+7,11,1,21334.8917,21335.2292,transient_node,Network
+7,120,15,21334.9024,21335.4466,transient_node,Power Spike
+7,110,13,21336.8757,21336.8993,transient_node,Maintenance
+7,185,23,21341.2245,21341.4403,transient_node,Network
+7,92,11,21342.6625,21342.8407,transient_node,Network
+7,219,27,21354.1722,21354.3726,transient_node,Maintenance
+7,229,28,21362.705,21362.846,transient_node,Power Outage
+7,217,27,21378.8256,21379.4482,transient_node,Network
+7,49,6,21389.1279,21389.2665,transient_node,Network
+7,70,8,21396.3809,21396.4426,transient_node,Power Outage
+7,103,12,21399.8373,21400.8633,transient_node,Power Outage
+7,255,31,21401.2727,21401.4834,transient_node,Power Spike
+7,70,8,21404.6192,21405.2267,transient_node,Power Spike
+7,197,24,21414.513,21414.625,transient_node,Power Spike
+7,152,19,21426.9592,21426.9822,transient_node,Network
+7,56,7,21428.1035,21428.1597,transient_node,Power Spike
+7,247,30,21430.4706,21430.6339,transient_node,Power Outage
+7,186,23,21434.368,21434.4137,transient_node,Network
+7,127,15,21439.0556,21439.49,transient_node,Network
+7,138,17,21458.4337,21458.5511,transient_node,Power Outage
+7,93,11,21486.0591,21486.8039,transient_node,Power Spike
+7,77,9,21487.5218,21487.522,transient_node,Maintenance
+7,198,24,21489.2773,21490.0573,transient_node,Network
+7,240,30,21492.6677,21492.6832,transient_node,Power Outage
+7,199,24,21507.3814,21507.6902,transient_node,Power Spike
+7,129,16,21518.0884,21518.833,transient_node,Power Spike
+7,165,20,21541.0391,21542.6917,transient_node,Maintenance
+7,165,20,21580.6432,21580.9139,transient_node,Maintenance
+7,78,9,21600.1045,21600.1617,transient_node,Maintenance
+7,206,25,21610.2926,21610.3834,transient_node,Power Spike
+7,39,4,21616.924,21617.0582,transient_node,Power Spike
+7,108,13,21620.1828,21620.2219,transient_node,Power Spike
+7,240,30,21625.3568,21625.4495,transient_node,Maintenance
+7,242,30,21636.1385,21636.1758,transient_node,Maintenance
+7,132,16,21636.5449,21636.6037,transient_node,Power Spike
+7,124,15,21642.5727,21642.6781,transient_node,Network
+7,255,31,21659.5438,21660.0242,transient_node,Maintenance
+7,248,31,21671.8263,21671.8355,transient_node,Power Spike
+7,12,1,21691.4252,21691.509,transient_node,Power Spike
+7,134,16,21709.357,21709.4716,transient_node,Maintenance
+7,155,19,21709.8025,21710.4939,transient_node,Maintenance
+7,143,17,21714.6576,21714.8616,transient_node,Power Spike
+7,200,25,21720.573,21721.2234,transient_node,Network
+7,154,19,21746.1688,21746.3301,transient_node,Network
+7,81,10,21754.0113,21754.0609,transient_node,Power Outage
+7,172,21,21780.5536,21781.1898,transient_node,Maintenance
+7,108,13,21807.9393,21807.9622,transient_node,Power Outage
+7,92,11,21809.0388,21809.0593,transient_node,Power Outage
+7,197,24,21813.3938,21813.5368,transient_node,Network
+7,205,25,21815.1982,21815.5017,transient_node,Network
+7,241,30,21820.8504,21820.8619,transient_node,Network
+7,110,13,21827.4263,21827.6171,transient_node,Power Outage
+7,100,12,21831.3637,21831.8727,transient_node,Maintenance
+7,126,15,21839.8519,21840.2748,transient_node,Power Spike
+7,61,7,21841.1337,21841.2124,transient_node,Maintenance
+7,117,14,21851.5267,21851.9656,transient_node,Power Spike
+7,212,26,21859.3487,21860.2137,transient_node,Power Spike
+7,247,30,21877.6873,21878.0808,transient_node,Power Spike
+7,199,24,21878.3923,21878.5233,transient_node,Maintenance
+7,119,14,21882.5131,21882.5765,transient_node,Network
+7,81,10,21889.0858,21889.1058,transient_node,Maintenance
+7,99,12,21904.0393,21904.0928,transient_node,Power Outage
+7,224,28,21906.024,21906.3655,transient_node,Power Outage
+7,236,29,21922.8728,21923.1344,transient_node,Network
+7,176,22,21924.5547,21924.6154,transient_node,Power Spike
+7,141,17,21933.7651,21933.8678,transient_node,Power Outage
+7,126,15,21942.2136,21942.8058,transient_node,Maintenance
+7,6,0,21945.0905,21945.4714,transient_node,Maintenance
+7,128,16,21973.87,21974.1724,transient_node,Maintenance
+7,14,1,21975.4431,21975.4594,transient_node,Power Spike
+7,167,20,21977.5567,21977.858,transient_node,Power Spike
+7,56,7,21980.3296,21980.347,transient_node,Network
+7,90,11,21980.4766,21980.8625,transient_node,Power Spike
+7,81,10,21986.3561,21986.427,transient_node,Network
+7,36,4,21987.9676,21987.9899,transient_node,Power Outage
+7,25,3,21991.2234,21991.6164,transient_node,Network
+7,194,24,21997.6583,21998.387,transient_node,Power Outage
+7,102,12,22005.0868,22005.2569,transient_node,Power Spike
+7,88,11,22031.2875,22031.4004,transient_node,Power Spike
+7,150,18,22036.4783,22036.5783,transient_node,Maintenance
+7,166,20,22042.2919,22042.3734,transient_node,Power Outage
+7,226,28,22043.1444,22043.3883,transient_node,Power Spike
+7,162,20,22050.5922,22050.6403,transient_node,Network
+7,187,23,22074.9663,22075.0154,transient_node,Power Outage
+7,7,0,22089.0567,22089.3892,transient_node,Network
+7,10,1,22089.3622,22089.7159,transient_node,Maintenance
+7,204,25,22093.9558,22094.07,transient_node,Power Spike
+7,46,5,22123.676,22123.7053,transient_node,Power Outage
+7,131,16,22173.9872,22174.2337,transient_node,Maintenance
+7,23,2,22198.5668,22202.9922,permanent_node,Hardware
+7,164,20,22198.9428,22199.5687,transient_node,Maintenance
+7,101,12,22226.9019,22226.9588,transient_node,Maintenance
+7,24,3,22235.3954,22235.5374,transient_node,Network
+7,68,8,22237.4044,22238.2527,transient_node,Network
+7,240,30,22262.4406,22262.8143,transient_node,Power Spike
+7,186,23,22265.4689,22266.0041,transient_node,Maintenance
+7,46,5,22266.051,22266.3073,transient_node,Power Outage
+7,105,13,22287.5518,22287.5854,transient_node,Power Spike
+7,249,31,22289.149,22289.7066,transient_node,Network
+7,236,29,22292.5344,22292.6176,transient_node,Maintenance
+7,80,10,22312.1022,22312.2787,transient_node,Maintenance
+7,146,18,22324.9744,22325.0377,transient_node,Maintenance
+7,61,7,22329.4025,22330.3393,transient_node,Maintenance
+7,101,12,22333.6186,22333.8889,transient_node,Power Spike
+7,203,25,22349.7889,22350.2509,transient_node,Network
+7,211,26,22368.9843,22369.1385,transient_node,Power Outage
+7,119,14,22380.4838,22380.7922,transient_node,Maintenance
+7,166,20,22389.8513,22390.1149,transient_node,Maintenance
+7,210,26,22392.6254,22393.0588,transient_node,Power Spike
+7,153,19,22394.8229,22395.8012,transient_node,Power Outage
+7,130,16,22395.3877,22395.6103,transient_node,Power Outage
+7,216,27,22397.6052,22398.2183,transient_node,Power Spike
+7,58,7,22403.2213,22409.6947,permanent_node,SCSI Controller
+7,211,26,22433.6379,22434.9019,transient_node,Power Outage
+7,228,28,22475.0505,22475.2644,transient_node,Maintenance
+7,181,22,22476.3935,22476.9921,transient_node,Network
+7,209,26,22483.4421,22484.2866,transient_node,Power Spike
+7,228,28,22496.9716,22497.1456,transient_node,Power Spike
+7,1,0,22509.4532,22509.992,transient_node,Maintenance
+7,160,20,22524.2648,22524.4264,transient_node,Maintenance
+7,26,3,22539.4913,22539.5991,transient_node,Network
+7,217,27,22549.3027,22549.5581,transient_node,Maintenance
+7,223,27,22556.0353,22556.6004,transient_node,Maintenance
+7,222,27,22557.3103,22557.4825,transient_node,Maintenance
+7,236,29,22572.5692,22573.3892,transient_node,Power Outage
+7,167,20,22581.7117,22581.8917,transient_node,Network
+7,250,31,22604.9911,22605.2755,transient_node,Power Spike
+7,151,18,22607.0332,22607.3325,transient_node,Power Spike
+7,9,1,22636.4278,22636.5625,transient_node,Maintenance
+7,215,26,22671.4683,22671.8527,transient_node,Power Spike
+7,60,7,22683.8431,22683.8882,transient_node,Network
+7,153,19,22685.2947,22685.4828,transient_node,Network
+7,44,5,22687.2043,22687.7881,transient_node,Power Spike
+7,206,25,22706.8656,22707.1517,transient_node,Power Spike
+7,180,22,22732.3564,22732.6082,transient_node,Maintenance
+7,129,16,22753.5763,22753.8881,transient_node,Network
+7,167,20,22760.0177,22761.0478,transient_node,Network
+7,178,22,22769.4165,22769.5157,transient_node,Network
+7,121,15,22778.3677,22778.5711,transient_node,Power Spike
+7,92,11,22786.1486,22786.7347,transient_node,Maintenance
+7,115,14,22807.4035,22807.9443,transient_node,Power Spike
+7,47,5,22813.093,22813.3412,transient_node,Power Outage
+7,95,11,22822.3747,22822.5104,transient_node,Power Spike
+7,128,16,22823.7756,22823.8998,transient_node,Power Outage
+7,85,10,22848.6199,22848.7321,transient_node,Power Outage
+7,165,20,22855.9138,22855.9302,transient_node,Power Spike
+7,228,28,22865.2582,22865.3615,transient_node,Power Outage
+7,218,27,22873.9326,22873.9444,transient_node,Network
+7,84,10,22903.4453,22903.4564,transient_node,Power Spike
+7,204,25,22945.1143,22945.1503,transient_node,Network
+7,195,24,22948.0133,22948.0823,transient_node,Power Spike
+7,133,16,22955.1767,22955.295,transient_node,Maintenance
+7,164,20,22957.3361,22957.6398,transient_node,Maintenance
+7,44,5,22957.526,22957.6287,transient_node,Network
+7,190,23,22964.0988,22964.5386,transient_node,Network
+7,73,9,22964.3163,22965.3243,transient_node,Maintenance
+7,32,4,23008.7283,23008.9991,transient_node,Network
+7,190,23,23012.8758,23012.8972,transient_node,Network
+7,233,29,23013.9456,23014.1732,transient_node,Network
+7,19,2,23037.7302,23038.2038,transient_node,Power Spike
+7,104,13,23047.0091,23047.3547,transient_node,Power Spike
+7,113,14,23056.848,23057.5864,transient_node,Maintenance
+7,33,4,23060.4293,23060.4368,transient_node,Maintenance
+7,125,15,23060.4705,23060.5439,transient_node,Power Outage
+7,59,7,23064.2198,23064.4572,transient_node,Maintenance
+7,248,31,23066.5322,23068.9308,permanent_node,Hardware
+7,43,5,23073.0122,23073.2674,transient_node,Power Outage
+7,170,21,23080.7677,23081.1626,transient_node,Power Outage
+7,236,29,23082.6042,23082.8655,transient_node,Power Outage
+7,188,23,23101.1557,23101.6978,transient_node,Power Spike
+7,12,1,23119.909,23120.4395,transient_node,Power Outage
+7,186,23,23122.9539,23123.6613,transient_node,Power Spike
+7,233,29,23153.4294,23153.6634,transient_node,Power Spike
+7,6,0,23164.5806,23164.6349,transient_node,Power Outage
+7,20,2,23180.6727,23188.6385,permanent_node,SCSI Controller
+7,14,1,23198.5472,23198.5921,transient_node,Network
+7,93,11,23202.3201,23202.472,transient_node,Power Outage
+7,221,27,23203.4346,23203.7415,transient_node,Power Outage
+7,240,30,23207.9397,23208.6392,transient_node,Maintenance
+7,248,31,23210.947,23211.1871,transient_node,Maintenance
+7,117,14,23211.4586,23211.5504,transient_node,Maintenance
+7,249,31,23230.5435,23230.7694,transient_node,Power Outage
+7,236,29,23247.1534,23247.9164,transient_node,Power Spike
+7,209,26,23252.1832,23252.2301,transient_node,Power Spike
+7,220,27,23257.9468,23258.6995,transient_node,Power Spike
+7,26,3,23258.7743,23259.1742,transient_node,Power Spike
+7,96,12,23270.4819,23270.8199,transient_node,Network
+7,108,13,23278.9494,23279.0524,transient_node,Maintenance
+7,202,25,23286.3076,23290.0449,permanent_node,Hardware
+7,2,0,23290.6516,23290.8985,transient_node,Power Spike
+7,86,10,23315.5578,23315.5675,transient_node,Network
+7,169,21,23316.7484,23316.8043,transient_node,Network
+7,176,22,23356.3233,23356.5685,transient_node,Power Outage
+7,4,0,23376.8173,23376.8735,transient_node,Power Spike
+7,103,12,23390.263,23390.3561,transient_node,Power Outage
+7,53,6,23393.2257,23393.2359,transient_node,Power Outage
+7,8,1,23405.46,23405.6967,transient_node,Power Spike
+7,33,4,23421.5266,23421.9823,transient_node,Power Outage
+7,229,28,23429.5779,23429.7522,transient_node,Power Spike
+7,119,14,23436.437,23436.5159,transient_node,Power Spike
+7,34,4,23454.3018,23454.6111,transient_node,Power Outage
+7,94,11,23459.162,23459.3369,transient_node,Power Outage
+7,188,23,23463.6508,23464.2944,transient_node,Network
+7,55,6,23476.3634,23476.655,transient_node,Network
+7,66,8,23483.5526,23483.8565,transient_node,Network
+7,67,8,23487.9292,23488.5403,transient_node,Power Outage
+7,228,28,23488.4397,23488.4478,transient_node,Network
+7,90,11,23515.4267,23515.4712,transient_node,Maintenance
+7,214,26,23529.6906,23529.6915,transient_node,Maintenance
+7,55,6,23534.5051,23534.5699,transient_node,Power Spike
+7,39,4,23548.0025,23548.1321,transient_node,Power Spike
+7,218,27,23559.7106,23559.978,transient_node,Power Spike
+7,131,16,23562.691,23562.7735,transient_node,Power Outage
+7,188,23,23578.5555,23578.5624,transient_node,Maintenance
+7,117,14,23578.985,23579.5095,transient_node,Network
+7,238,29,23585.4414,23585.4852,transient_node,Maintenance
+7,220,27,23586.234,23586.6829,transient_node,Network
+7,72,9,23596.9434,23597.4779,transient_node,Power Outage
+7,202,25,23602.0436,23602.0671,transient_node,Power Spike
+7,26,3,23606.566,23613.3982,permanent_node,Disk Drive
+7,114,14,23622.2603,23623.0029,transient_node,Power Outage
+7,152,19,23625.3414,23625.7998,transient_node,Power Spike
+7,125,15,23636.68,23636.9476,transient_node,Maintenance
+7,209,26,23636.7255,23636.883,transient_node,Power Spike
+7,77,9,23650.2207,23650.3285,transient_node,Power Outage
+7,187,23,23655.3354,23655.5255,transient_node,Power Outage
+7,179,22,23666.8136,23666.9337,transient_node,Power Spike
+7,230,28,23669.087,23669.1397,transient_node,Network
+7,231,28,23669.6657,23669.7185,transient_node,Power Spike
+7,168,21,23676.1057,23676.4699,transient_node,Power Spike
+7,193,24,23677.4454,23678.9392,transient_node,Maintenance
+7,147,18,23677.4837,23677.5571,transient_node,Power Spike
+7,141,17,23707.2164,23707.5936,transient_node,Power Outage
+7,42,5,23720.3243,23720.8172,transient_node,Power Outage
+7,78,9,23721.2519,23721.3283,transient_node,Power Outage
+7,14,1,23721.349,23721.3592,transient_node,Power Outage
+7,215,26,23730.4163,23730.8162,transient_node,Power Spike
+7,52,6,23763.919,23764.3068,transient_node,Power Spike
+7,13,1,23778.8432,23779.3126,transient_node,Network
+7,3,0,23784.5186,23784.563,transient_node,Network
+7,76,9,23795.8073,23796.3934,transient_node,Maintenance
+7,244,30,23835.0888,23835.2647,transient_node,Network
+7,55,6,23840.1399,23840.4424,transient_node,Network
+7,98,12,23855.4511,23856.1515,transient_node,Maintenance
+7,72,9,23858.5313,23858.6072,transient_node,Power Outage
+7,177,22,23873.9795,23874.1127,transient_node,Power Outage
+7,65,8,23878.4839,23878.8074,transient_node,Power Spike
+7,18,2,23885.0601,23885.5346,transient_node,Power Outage
+7,29,3,23886.7845,23886.9583,transient_node,Power Outage
+7,251,31,23886.8404,23887.0367,transient_node,Maintenance
+7,73,9,23890.481,23890.8095,transient_node,Power Spike
+7,24,3,23890.7899,23891.1132,transient_node,Maintenance
+7,36,4,23931.2045,23932.0139,transient_node,Network
+7,149,18,23948.1128,23948.2684,transient_node,Power Spike
+7,173,21,23953.8218,23953.8939,transient_node,Power Outage
+7,122,15,23962.1821,23969.7041,permanent_node,Hardware
+7,245,30,23963.8346,23963.8729,transient_node,Power Spike
+7,193,24,23983.3723,23983.645,transient_node,Maintenance
+7,240,30,23998.1601,23998.3071,transient_node,Maintenance
+7,161,20,23999.0732,23999.1785,transient_node,Network
+7,19,2,24021.8824,24021.9554,transient_node,Power Spike
+7,20,2,24030.0567,24030.0959,transient_node,Power Spike
+7,158,19,24046.0804,24046.1062,transient_node,Power Outage
+7,167,20,24054.591,24054.9505,transient_node,Network
+7,201,25,24069.8876,24070.2398,transient_node,Network
+7,18,2,24086.1442,24086.1557,transient_node,Power Outage
+7,9,1,24130.7095,24130.8225,transient_node,Network
+7,45,5,24148.4169,24148.9449,transient_node,Maintenance
+7,89,11,24163.9047,24164.2872,transient_node,Power Spike
+7,62,7,24176.4891,24176.5307,transient_node,Network
+7,147,18,24190.1685,24190.3459,transient_node,Power Spike
+7,70,8,24203.4465,24204.1049,transient_node,Power Outage
+7,28,3,24210.1388,24210.1785,transient_node,Maintenance
+7,169,21,24220.8044,24220.9497,transient_node,Power Spike
+7,133,16,24223.5705,24223.7187,transient_node,Power Spike
+7,177,22,24239.0348,24239.1697,transient_node,Power Spike
+7,65,8,24241.771,24241.888,transient_node,Network
+7,154,19,24256.144,24256.7118,transient_node,Network
+7,167,20,24275.4724,24275.483,transient_node,Power Spike
+7,214,26,24278.0992,24278.2067,transient_node,Power Spike
+7,167,20,24279.0925,24279.555,transient_node,Maintenance
+7,233,29,24282.4399,24282.6447,transient_node,Power Spike
+7,107,13,24293.2735,24293.4127,transient_node,Power Spike
+7,67,8,24315.0444,24315.2214,transient_node,Power Spike
+7,73,9,24327.9838,24328.1339,transient_node,Network
+7,174,21,24332.1833,24332.1871,transient_node,Network
+7,116,14,24343.5104,24343.5259,transient_node,Maintenance
+7,132,16,24345.7833,24345.9314,transient_node,Power Outage
+7,159,19,24348.9951,24349.0823,transient_node,Power Spike
+7,9,1,24354.0841,24354.2566,transient_node,Maintenance
+7,211,26,24365.1817,24365.3024,transient_node,Power Outage
+7,239,29,24365.2037,24366.1036,transient_node,Power Spike
+7,177,22,24372.952,24373.2665,transient_node,Network
+7,206,25,24379.5397,24379.8494,transient_node,Maintenance
+7,220,27,24398.0964,24398.1496,transient_node,Network
+7,17,2,24409.7136,24410.1193,transient_node,Network
+7,44,5,24425.2442,24425.3839,transient_node,Network
+7,94,11,24427.6289,24428.1697,transient_node,Network
+7,179,22,24463.5535,24463.96,transient_node,Network
+7,249,31,24467.2732,24467.6117,transient_node,Power Spike
+7,216,27,24473.1994,24473.4198,transient_node,Power Outage
+7,218,27,24491.8944,24491.9507,transient_node,Power Outage
+7,111,13,24494.5642,24494.6241,transient_node,Power Spike
+7,37,4,24497.2588,24498.0235,transient_node,Network
+7,155,19,24522.4261,24522.4396,transient_node,Network
+7,93,11,24523.7474,24524.2637,transient_node,Network
+7,143,17,24539.4555,24539.9651,transient_node,Maintenance
+7,107,13,24544.6282,24544.7381,transient_node,Power Outage
+7,64,8,24547.5397,24547.6046,transient_node,Power Outage
+7,188,23,24577.8626,24578.2561,transient_node,Power Spike
+7,43,5,24596.619,24596.6305,transient_node,Network
+7,113,14,24597.1447,24597.3944,transient_node,Power Spike
+7,150,18,24612.6412,24612.8248,transient_node,Maintenance
+7,83,10,24627.6065,24628.1871,transient_node,Power Outage
+7,66,8,24632.9653,24633.2157,transient_node,Network
+7,198,24,24636.2563,24636.9059,transient_node,Maintenance
+7,30,3,24642.8646,24643.4503,transient_node,Network
+7,161,20,24649.1186,24650.0043,transient_node,Maintenance
+7,197,24,24655.2674,24655.5187,transient_node,Power Spike
+7,111,13,24657.1313,24664.8241,permanent_node,Disk Drive
+7,10,1,24658.9239,24658.927,transient_node,Network
+7,66,8,24659.6427,24659.7685,transient_node,Network
+7,69,8,24668.4067,24668.4252,transient_node,Power Spike
+7,185,23,24674.085,24674.2102,transient_node,Power Outage
+7,157,19,24694.5314,24694.8394,transient_node,Power Outage
+7,125,15,24708.0685,24708.5862,transient_node,Power Outage
+7,165,20,24717.2694,24717.3361,transient_node,Power Spike
+7,191,23,24718.8935,24719.6712,transient_node,Power Outage
+7,72,9,24728.3805,24729.0303,transient_node,Maintenance
+7,49,6,24759.172,24759.209,transient_node,Maintenance
+7,13,1,24761.7836,24761.8263,transient_node,Power Spike
+7,201,25,24767.1589,24767.4017,transient_node,Power Outage
+7,162,20,24769.1594,24770.2038,transient_node,Network
+7,12,1,24770.166,24770.285,transient_node,Network
+7,249,31,24776.956,24777.201,transient_node,Maintenance
+7,44,5,24800.1766,24800.2083,transient_node,Power Outage
+7,192,24,24821.1999,24821.2306,transient_node,Power Spike
+7,248,31,24823.1324,24823.2265,transient_node,Maintenance
+7,48,6,24826.902,24827.0715,transient_node,Power Outage
+7,182,22,24835.5542,24835.7073,transient_node,Maintenance
+7,169,21,24840.6706,24840.8071,transient_node,Power Spike
+7,177,22,24841.5809,24841.8334,transient_node,Maintenance
+7,105,13,24841.7904,24847.1278,permanent_node,SCSI Controller
+7,219,27,24847.0072,24847.1111,transient_node,Power Outage
+7,44,5,24854.937,24855.1723,transient_node,Power Spike
+7,222,27,24857.4941,24858.4042,transient_node,Power Outage
+7,168,21,24865.6491,24865.7134,transient_node,Maintenance
+7,127,15,24865.7403,24865.8689,transient_node,Power Outage
+7,173,21,24870.8461,24871.3413,transient_node,Power Spike
+7,182,22,24877.8899,24878.6989,transient_node,Power Spike
+7,91,11,24914.5094,24915.0453,transient_node,Network
+7,246,30,24914.9502,24915.1066,transient_node,Power Outage
+7,60,7,24931.2425,24931.5403,transient_node,Maintenance
+7,44,5,24961.1615,24961.2421,transient_node,Maintenance
+7,134,16,24977.505,24977.7024,transient_node,Power Spike
+7,167,20,24988.5412,24989.0331,transient_node,Power Spike
+7,17,2,24989.2227,24989.4203,transient_node,Power Spike
+7,174,21,24998.4331,24998.4392,transient_node,Power Outage
+7,101,12,25015.3669,25015.6556,transient_node,Power Spike
+7,77,9,25019.4984,25019.7691,transient_node,Network
+7,222,27,25043.8978,25044.7929,transient_node,Power Outage
+7,190,23,25059.9002,25060.2106,transient_node,Power Outage
+7,178,22,25072.1515,25072.3903,transient_node,Network
+7,112,14,25075.2888,25075.5563,transient_node,Power Outage
+7,203,25,25081.5366,25081.7756,transient_node,Power Spike
+7,14,1,25094.9029,25095.0179,transient_node,Power Outage
+7,223,27,25095.1031,25095.2565,transient_node,Network
+7,166,20,25099.6455,25100.2319,transient_node,Power Spike
+7,132,16,25117.1773,25118.2229,transient_node,Maintenance
+7,107,13,25122.5002,25122.5595,transient_node,Maintenance
+7,198,24,25156.9956,25157.3564,transient_node,Power Outage
+7,196,24,25160.4538,25160.5246,transient_node,Power Spike
+7,180,22,25165.2545,25165.4932,transient_node,Maintenance
+7,193,24,25185.8541,25185.8718,transient_node,Power Spike
+7,230,28,25206.0683,25206.1227,transient_node,Power Outage
+7,21,2,25213.953,25214.199,transient_node,Power Spike
+7,18,2,25219.8757,25220.0868,transient_node,Maintenance
+7,174,21,25246.9269,25246.9931,transient_node,Maintenance
+7,71,8,25251.3138,25251.3717,transient_node,Maintenance
+7,130,16,25252.3143,25252.4325,transient_node,Maintenance
+7,60,7,25287.6425,25287.8736,transient_node,Network
+7,181,22,25293.6933,25293.7111,transient_node,Power Outage
+7,194,24,25293.8872,25294.064,transient_node,Power Spike
+7,210,26,25306.1019,25306.2373,transient_node,Network
+7,52,6,25307.5636,25307.7392,transient_node,Network
+7,126,15,25307.6912,25307.8214,transient_node,Power Spike
+7,255,31,25321.1787,25321.616,transient_node,Maintenance
+7,28,3,25331.3094,25331.6889,transient_node,Maintenance
+7,164,20,25344.2369,25344.4602,transient_node,Maintenance
+7,9,1,25360.399,25360.629,transient_node,Network
+7,213,26,25365.1791,25365.7364,transient_node,Network
+7,196,24,25369.1525,25369.4038,transient_node,Power Spike
+7,230,28,25386.0626,25386.0919,transient_node,Network
+7,70,8,25388.8669,25389.6349,transient_node,Power Outage
+7,25,3,25389.1875,25389.4143,transient_node,Network
+7,94,11,25394.5744,25394.6814,transient_node,Network
+7,147,18,25401.5282,25405.8233,permanent_node,Disk Drive
+7,247,30,25402.9087,25403.4032,transient_node,Power Spike
+7,96,12,25405.4797,25405.8378,transient_node,Network
+7,247,30,25416.784,25416.915,transient_node,Network
+7,1,0,25424.4849,25424.58,transient_node,Power Outage
+7,126,15,25441.9563,25442.1626,transient_node,Network
+7,159,19,25456.8827,25456.9924,transient_node,Power Spike
+7,137,17,25478.6275,25479.3815,transient_node,Maintenance
+7,106,13,25484.4029,25485.573,transient_node,Power Outage
+7,0,0,25494.8965,25494.9864,transient_node,Power Spike
+7,177,22,25507.7147,25508.1129,transient_node,Network
+7,83,10,25511.5417,25511.8683,transient_node,Power Spike
+7,133,16,25529.0195,25529.0867,transient_node,Maintenance
+7,50,6,25542.3042,25542.7406,transient_node,Power Spike
+7,235,29,25543.0636,25543.0735,transient_node,Maintenance
+7,107,13,25559.6221,25559.7362,transient_node,Power Outage
+7,160,20,25566.461,25566.5227,transient_node,Power Outage
+7,120,15,25572.7046,25572.8153,transient_node,Power Spike
+7,146,18,25574.2534,25574.2576,transient_node,Network
+7,120,15,25578.1673,25578.2714,transient_node,Power Spike
+7,182,22,25579.1111,25579.1641,transient_node,Power Outage
+7,243,30,25644.0841,25644.6889,transient_node,Power Outage
+7,189,23,25654.7548,25654.9552,transient_node,Network
+7,212,26,25656.1076,25656.5615,transient_node,Power Outage
+7,219,27,25675.9949,25676.3988,transient_node,Maintenance
+7,120,15,25678.5313,25678.7316,transient_node,Network
+7,219,27,25693.518,25693.5431,transient_node,Power Outage
+7,94,11,25696.3644,25697.2916,transient_node,Power Spike
+7,181,22,25705.3587,25706.4583,transient_node,Power Outage
+7,201,25,25732.4835,25732.665,transient_node,Maintenance
+7,13,1,25735.2516,25736.2075,transient_node,Network
+7,141,17,25758.6349,25759.4886,transient_node,Network
+7,22,2,25777.1207,25777.1674,transient_node,Network
+7,52,6,25777.9031,25777.9138,transient_node,Maintenance
+7,46,5,25778.4495,25778.5637,transient_node,Maintenance
+7,150,18,25784.1468,25784.2805,transient_node,Maintenance
+7,94,11,25793.2109,25793.3585,transient_node,Network
+7,112,14,25836.2534,25836.2922,transient_node,Maintenance
+7,228,28,25842.9614,25843.0259,transient_node,Power Spike
+7,141,17,25851.8667,25852.7635,transient_node,Maintenance
+7,128,16,25854.7579,25854.8711,transient_node,Power Outage
+7,218,27,25856.8209,25857.9136,transient_node,Network
+7,231,28,25888.1612,25888.2788,transient_node,Network
+7,104,13,25894.7564,25894.8085,transient_node,Network
+7,40,5,25920.8364,25921.1522,transient_node,Power Spike
+7,149,18,25967.3636,25968.1076,transient_node,Power Spike
+7,14,1,25970.8307,25971.3517,transient_node,Power Spike
+7,94,11,26020.1497,26020.191,transient_node,Power Spike
+7,161,20,26050.2531,26050.6049,transient_node,Power Outage
+7,90,11,26073.5007,26073.7835,transient_node,Maintenance
+7,177,22,26074.268,26074.6932,transient_node,Power Spike
+7,101,12,26084.4888,26084.7636,transient_node,Power Outage
+7,115,14,26089.7469,26090.1288,transient_node,Network
+7,244,30,26121.7685,26122.1587,transient_node,Power Spike
+7,129,16,26125.5871,26126.0524,transient_node,Power Spike
+7,121,15,26143.1365,26143.1525,transient_node,Power Outage
+7,213,26,26153.6963,26153.7921,transient_node,Network
+7,139,17,26161.8556,26162.1539,transient_node,Maintenance
+7,124,15,26167.713,26167.863,transient_node,Power Spike
+7,22,2,26205.8388,26206.0488,transient_node,Power Spike
+7,42,5,26207.3093,26208.7474,transient_node,Power Spike
+7,226,28,26213.6952,26214.6662,transient_node,Maintenance
+7,227,28,26215.1071,26215.2236,transient_node,Power Outage
+7,182,22,26220.9877,26221.2208,transient_node,Maintenance
+7,125,15,26249.9722,26250.0659,transient_node,Maintenance
+7,182,22,26253.2661,26253.2676,transient_node,Power Spike
+7,154,19,26260.9787,26261.068,transient_node,Power Outage
+7,126,15,26266.9426,26266.9941,transient_node,Maintenance
+7,229,28,26302.599,26302.9302,transient_node,Network
+7,44,5,26312.3743,26312.7878,transient_node,Maintenance
+7,39,4,26314.5648,26314.5967,transient_node,Maintenance
+7,15,1,26325.3212,26325.5553,transient_node,Power Spike
+7,70,8,26338.2836,26338.9041,transient_node,Network
+7,120,15,26348.1207,26348.7396,transient_node,Maintenance
+7,207,25,26361.3656,26361.5345,transient_node,Power Spike
+7,60,7,26368.4579,26368.7488,transient_node,Power Outage
+7,55,6,26374.5528,26374.6738,transient_node,Maintenance
+7,189,23,26380.0276,26380.2047,transient_node,Maintenance
+7,86,10,26382.113,26382.4012,transient_node,Power Spike
+7,178,22,26393.2366,26393.629,transient_node,Network
+7,236,29,26395.415,26398.7905,permanent_node,Hardware
+7,60,7,26396.8226,26397.2224,transient_node,Power Spike
+7,158,19,26405.5467,26405.8129,transient_node,Power Outage
+7,14,1,26409.186,26410.0873,transient_node,Power Outage
+7,219,27,26415.298,26415.3491,transient_node,Network
+7,187,23,26416.9351,26417.2685,transient_node,Maintenance
+7,111,13,26417.1614,26417.4968,transient_node,Network
+7,46,5,26425.4181,26425.612,transient_node,Network
+7,198,24,26432.1212,26432.698,transient_node,Network
+7,74,9,26438.8333,26438.9216,transient_node,Power Outage
+7,103,12,26447.9238,26448.0184,transient_node,Power Outage
+7,27,3,26449.6511,26449.8401,transient_node,Power Spike
+7,208,26,26466.7487,26466.9609,transient_node,Network
+7,43,5,26488.4701,26488.4972,transient_node,Maintenance
+7,18,2,26491.2005,26491.6309,transient_node,Power Spike
+7,250,31,26517.1087,26517.2132,transient_node,Maintenance
+7,6,0,26523.5056,26523.6699,transient_node,Power Outage
+7,245,30,26524.9962,26525.1102,transient_node,Maintenance
+7,116,14,26550.6365,26551.2154,transient_node,Power Spike
+7,43,5,26588.4468,26593.276,permanent_node,Disk Drive
+7,207,25,26607.9483,26608.2752,transient_node,Maintenance
+7,51,6,26610.7049,26611.3171,transient_node,Power Outage
+7,255,31,26615.2759,26615.2764,transient_node,Power Outage
+7,62,7,26616.8423,26616.9182,transient_node,Power Outage
+7,127,15,26624.3158,26624.8566,transient_node,Power Outage
+7,233,29,26629.9032,26629.9036,transient_node,Power Outage
+7,242,30,26631.7891,26632.1953,transient_node,Power Outage
+7,211,26,26634.913,26634.934,transient_node,Power Spike
+7,140,17,26664.3255,26664.5332,transient_node,Power Spike
+7,138,17,26683.9864,26684.2649,transient_node,Maintenance
+7,211,26,26694.7755,26694.9005,transient_node,Power Spike
+7,17,2,26708.9576,26709.0611,transient_node,Power Spike
+7,149,18,26711.7511,26711.9072,transient_node,Maintenance
+7,41,5,26713.2617,26713.4151,transient_node,Maintenance
+7,167,20,26721.7359,26722.487,transient_node,Maintenance
+7,53,6,26742.6662,26742.811,transient_node,Maintenance
+7,150,18,26746.9973,26747.0949,transient_node,Maintenance
+7,239,29,26761.2917,26761.3216,transient_node,Maintenance
+7,157,19,26764.7965,26765.1746,transient_node,Power Spike
+7,148,18,26778.3965,26778.616,transient_node,Network
+7,196,24,26784.9163,26785.1844,transient_node,Power Outage
+7,40,5,26789.4935,26789.7105,transient_node,Network
+7,213,26,26808.5296,26809.1058,transient_node,Power Outage
+7,7,0,26836.6164,26836.7782,transient_node,Maintenance
+7,191,23,26844.6757,26845.1579,transient_node,Power Spike
+7,12,1,26852.6333,26852.9489,transient_node,Power Spike
+7,203,25,26852.661,26852.6857,transient_node,Power Spike
+7,100,12,26862.9442,26863.0573,transient_node,Network
+7,83,10,26867.6693,26867.8539,transient_node,Maintenance
+7,10,1,26869.0142,26869.1911,transient_node,Power Spike
+7,141,17,26870.1518,26870.2679,transient_node,Maintenance
+7,66,8,26870.2258,26870.8666,transient_node,Power Outage
+7,100,12,26872.8987,26873.0185,transient_node,Maintenance
+7,11,1,26887.4374,26887.8727,transient_node,Maintenance
+7,51,6,26904.1993,26904.3372,transient_node,Power Outage
+7,60,7,26919.1131,26919.1295,transient_node,Power Spike
+7,174,21,26922.0094,26922.1553,transient_node,Network
+7,182,22,26936.8499,26937.0191,transient_node,Power Spike
+7,57,7,26958.0204,26958.4614,transient_node,Maintenance
+7,241,30,26960.3063,26960.4349,transient_node,Power Outage
+7,244,30,26990.0481,26990.1603,transient_node,Power Outage
+7,230,28,27020.7865,27020.9051,transient_node,Power Spike
+7,118,14,27024.9763,27024.993,transient_node,Power Outage
+7,244,30,27028.2822,27028.8474,transient_node,Maintenance
+7,206,25,27039.3674,27039.5018,transient_node,Power Spike
+7,64,8,27054.1295,27054.1306,transient_node,Power Spike
+7,5,0,27062.4276,27062.6067,transient_node,Power Outage
+7,57,7,27078.0801,27078.2816,transient_node,Network
+7,25,3,27082.4363,27082.7351,transient_node,Network
+7,60,7,27085.6006,27085.6136,transient_node,Power Spike
+7,114,14,27100.6611,27101.4266,transient_node,Maintenance
+7,145,18,27107.3412,27107.559,transient_node,Network
+7,56,7,27128.6415,27128.7227,transient_node,Power Spike
+7,54,6,27137.8837,27138.1123,transient_node,Network
+7,41,5,27154.1212,27154.1652,transient_node,Power Outage
+7,74,9,27166.0024,27166.2286,transient_node,Power Spike
+7,64,8,27186.6286,27186.6911,transient_node,Power Spike
+7,88,11,27194.5087,27195.2647,transient_node,Network
+7,218,27,27203.019,27203.4306,transient_node,Power Spike
+7,149,18,27233.1541,27233.543,transient_node,Power Outage
+7,138,17,27235.2166,27235.2231,transient_node,Network
+7,241,30,27245.1551,27251.2051,permanent_node,Hardware
+7,166,20,27251.4699,27252.6344,transient_node,Power Outage
+7,84,10,27254.6606,27254.6661,transient_node,Maintenance
+7,169,21,27284.9054,27284.9798,transient_node,Network
+7,232,29,27288.2782,27288.3015,transient_node,Maintenance
+7,226,28,27318.0237,27318.5232,transient_node,Power Spike
+7,81,10,27324.2692,27324.587,transient_node,Network
+7,148,18,27324.7785,27324.7891,transient_node,Network
+7,201,25,27325.5442,27326.0778,transient_node,Maintenance
+7,54,6,27336.6547,27337.007,transient_node,Maintenance
+7,233,29,27346.3557,27346.9276,transient_node,Power Spike
+7,106,13,27360.0308,27360.4156,transient_node,Maintenance
+7,110,13,27365.4171,27365.5162,transient_node,Maintenance
+7,98,12,27377.138,27378.7253,transient_node,Power Spike
+7,158,19,27379.9815,27380.4947,transient_node,Maintenance
+7,230,28,27390.6553,27391.0125,transient_node,Maintenance
+7,8,1,27397.7403,27397.9083,transient_node,Network
+7,254,31,27416.7321,27416.7423,transient_node,Network
+7,178,22,27425.8796,27427.3415,transient_node,Maintenance
+7,28,3,27431.5469,27431.6438,transient_node,Network
+7,219,27,27431.9643,27432.0451,transient_node,Maintenance
+7,56,7,27432.9872,27433.0263,transient_node,Maintenance
+7,88,11,27449.3129,27449.5644,transient_node,Power Spike
+7,226,28,27457.4534,27457.5405,transient_node,Network
+7,87,10,27458.7682,27458.9734,transient_node,Maintenance
+7,37,4,27497.4982,27498.0175,transient_node,Maintenance
+7,114,14,27519.7529,27520.3083,transient_node,Maintenance
+7,6,0,27520.0814,27520.1672,transient_node,Network
+7,172,21,27533.5558,27533.6111,transient_node,Network
+7,151,18,27551.1983,27551.3236,transient_node,Maintenance
+7,12,1,27555.5256,27555.8004,transient_node,Power Spike
+7,227,28,27571.482,27571.9594,transient_node,Power Spike
+7,186,23,27572.3402,27572.3907,transient_node,Power Spike
+7,253,31,27589.6516,27589.6749,transient_node,Maintenance
+7,209,26,27589.8361,27590.0658,transient_node,Maintenance
+7,194,24,27592.6988,27592.8417,transient_node,Maintenance
+7,154,19,27599.3768,27599.5538,transient_node,Power Outage
+7,45,5,27603.8509,27603.9011,transient_node,Power Spike
+7,26,3,27607.9253,27614.3893,permanent_node,Disk Drive
+7,191,23,27612.8706,27613.9409,transient_node,Network
+7,202,25,27624.9559,27624.957,transient_node,Network
+7,224,28,27637.9676,27638.09,transient_node,Network
+7,113,14,27648.9981,27649.0294,transient_node,Power Spike
+7,28,3,27651.8432,27651.8448,transient_node,Maintenance
+7,103,12,27670.0817,27670.3631,transient_node,Power Spike
+7,26,3,27675.0106,27675.0776,transient_node,Network
+7,6,0,27687.1583,27687.1986,transient_node,Network
+7,225,28,27734.9356,27735.737,transient_node,Power Spike
+7,14,1,27737.8077,27737.9708,transient_node,Network
+7,96,12,27751.31,27751.7007,transient_node,Maintenance
+7,214,26,27775.0573,27775.4831,transient_node,Maintenance
+7,162,20,27793.8413,27794.4423,transient_node,Network
+7,32,4,27820.9884,27821.2736,transient_node,Maintenance
+7,102,12,27836.0818,27836.1815,transient_node,Power Outage
+7,167,20,27848.7613,27848.831,transient_node,Power Spike
+7,96,12,27867.9083,27868.9978,transient_node,Power Spike
+7,82,10,27874.4673,27875.0041,transient_node,Power Outage
+7,165,20,27878.9468,27879.2925,transient_node,Maintenance
+7,47,5,27880.5899,27880.9322,transient_node,Maintenance
+7,181,22,27883.3869,27883.5416,transient_node,Network
+7,20,2,27887.879,27887.9457,transient_node,Power Outage
+7,228,28,27901.3759,27901.3896,transient_node,Network
+7,59,7,27935.1526,27935.2579,transient_node,Network
+7,46,5,27936.8024,27943.3682,permanent_node,Disk Drive
+7,255,31,27972.528,27973.5227,transient_node,Network
+7,20,2,27995.9062,27996.6695,transient_node,Power Spike
+7,48,6,27998.7332,27998.9312,transient_node,Power Outage
+7,96,12,28019.206,28019.3855,transient_node,Power Spike
+7,31,3,28043.009,28043.1611,transient_node,Power Outage
+7,120,15,28050.2786,28050.2949,transient_node,Maintenance
+7,138,17,28053.0887,28053.5095,transient_node,Power Outage
+7,41,5,28062.7511,28063.2796,transient_node,Maintenance
+7,229,28,28085.091,28085.333,transient_node,Maintenance
+7,23,2,28085.8305,28086.2455,transient_node,Power Outage
+7,240,30,28094.4078,28094.4194,transient_node,Network
+7,124,15,28099.4451,28099.8989,transient_node,Maintenance
+7,79,9,28105.2056,28105.924,transient_node,Power Outage
+7,19,2,28108.6652,28108.9894,transient_node,Power Spike
+7,114,14,28120.6404,28120.9375,transient_node,Power Spike
+7,9,1,28135.3855,28135.9119,transient_node,Maintenance
+7,93,11,28142.3816,28142.9219,transient_node,Maintenance
+7,60,7,28158.2065,28158.3228,transient_node,Power Spike
+7,77,9,28172.3097,28172.3725,transient_node,Power Spike
+7,234,29,28188.1808,28188.5082,transient_node,Maintenance
+7,70,8,28189.2033,28189.5549,transient_node,Maintenance
+7,246,30,28194.1104,28194.1848,transient_node,Maintenance
+7,135,16,28200.505,28200.5878,transient_node,Network
+7,19,2,28212.686,28212.7097,transient_node,Power Outage
+7,79,9,28223.2567,28223.4659,transient_node,Network
+7,96,12,28230.8486,28230.8923,transient_node,Network
+7,102,12,28231.3435,28231.3571,transient_node,Power Outage
+7,250,31,28234.4559,28235.4401,transient_node,Power Spike
+7,11,1,28268.1985,28268.2197,transient_node,Network
+7,115,14,28268.7306,28268.9328,transient_node,Network
+7,36,4,28268.9387,28269.2444,transient_node,Maintenance
+7,120,15,28278.852,28279.0802,transient_node,Power Spike
+7,122,15,28323.0017,28323.0554,transient_node,Maintenance
+7,185,23,28340.5273,28340.8126,transient_node,Power Spike
+7,226,28,28353.501,28353.5648,transient_node,Power Spike
+7,6,0,28369.6293,28369.8638,transient_node,Power Outage
+7,124,15,28409.4886,28409.5178,transient_node,Power Outage
+7,224,28,28410.533,28410.5958,transient_node,Power Outage
+7,218,27,28429.2577,28429.5333,transient_node,Power Outage
+7,79,9,28431.9301,28431.9615,transient_node,Power Spike
+7,57,7,28437.1656,28437.3201,transient_node,Network
+7,190,23,28449.5585,28449.7677,transient_node,Maintenance
+7,209,26,28455.827,28456.0385,transient_node,Maintenance
+7,91,11,28459.859,28459.9555,transient_node,Network
+7,62,7,28464.4123,28464.5702,transient_node,Power Spike
+7,12,1,28469.8585,28470.0677,transient_node,Power Spike
+7,197,24,28470.2157,28470.4792,transient_node,Power Spike
+7,197,24,28504.0558,28504.1497,transient_node,Power Spike
+7,209,26,28515.049,28515.416,transient_node,Power Spike
+7,251,31,28535.9411,28536.09,transient_node,Power Spike
+7,254,31,28540.2294,28540.3704,transient_node,Maintenance
+7,83,10,28586.0844,28586.1866,transient_node,Power Spike
+7,79,9,28613.8356,28613.8602,transient_node,Power Spike
+7,87,10,28614.2284,28614.3128,transient_node,Maintenance
+7,88,11,28616.6028,28617.0601,transient_node,Network
+7,120,15,28628.7023,28629.4356,transient_node,Power Spike
+7,16,2,28660.3129,28660.4154,transient_node,Power Outage
+7,68,8,28667.4112,28667.5019,transient_node,Power Spike
+7,206,25,28668.2612,28669.2461,transient_node,Power Spike
+7,255,31,28675.0877,28680.9892,permanent_node,Disk Drive
+7,103,12,28677.6517,28677.7506,transient_node,Maintenance
+7,90,11,28681.9086,28682.5275,transient_node,Power Spike
+7,236,29,28685.8295,28686.0886,transient_node,Maintenance
+7,248,31,28685.9518,28686.1261,transient_node,Power Spike
+7,103,12,28689.3501,28689.5194,transient_node,Power Outage
+7,64,8,28701.4017,28702.0805,transient_node,Maintenance
+7,191,23,28706.1939,28706.2248,transient_node,Network
+7,145,18,28713.932,28714.3373,transient_node,Maintenance
+7,255,31,28733.201,28733.2384,transient_node,Maintenance
+7,47,5,28735.6776,28735.7706,transient_node,Power Spike
+7,212,26,28759.2434,28759.2929,transient_node,Power Spike
+7,192,24,28846.7566,28847.321,transient_node,Power Spike
+7,119,14,28859.5417,28859.6285,transient_node,Network
+7,250,31,28869.6439,28869.7382,transient_node,Power Spike
+7,221,27,28877.4109,28877.5928,transient_node,Maintenance
+7,168,21,28878.7229,28879.193,transient_node,Power Spike
+7,166,20,28878.9323,28879.0459,transient_node,Network
+7,15,1,28888.859,28889.0078,transient_node,Power Outage
+7,85,10,28894.3824,28895.128,transient_node,Network
+7,22,2,28907.7592,28908.3428,transient_node,Power Spike
+7,90,11,28916.7403,28916.8673,transient_node,Network
+7,182,22,28930.5417,28930.6743,transient_node,Network
+7,33,4,28939.9188,28939.9652,transient_node,Maintenance
+7,73,9,28941.1051,28941.1136,transient_node,Power Spike
+7,222,27,28952.7183,28953.2741,transient_node,Power Outage
+7,96,12,28953.4026,28954.054,transient_node,Maintenance
+7,239,29,28968.9632,28969.0236,transient_node,Network
+7,192,24,28980.8306,28980.9628,transient_node,Power Spike
+7,154,19,28980.8874,28981.4188,transient_node,Power Spike
+7,251,31,28982.1606,28987.7213,permanent_node,Disk Drive
+7,227,28,28995.4632,28995.5508,transient_node,Maintenance
+7,38,4,29016.7167,29016.7619,transient_node,Maintenance
+7,54,6,29026.2488,29026.2828,transient_node,Maintenance
+7,186,23,29028.7616,29028.7965,transient_node,Power Outage
+7,248,31,29052.6335,29052.8972,transient_node,Power Spike
+7,24,3,29058.9115,29058.9269,transient_node,Power Spike
+7,25,3,29069.1712,29069.4279,transient_node,Power Spike
+7,56,7,29074.9835,29075.3012,transient_node,Power Outage
+7,240,30,29083.2817,29083.6495,transient_node,Power Outage
+7,16,2,29090.1152,29090.5343,transient_node,Power Outage
+7,182,22,29120.1012,29120.1408,transient_node,Network
+7,237,29,29122.9697,29123.331,transient_node,Power Outage
+7,180,22,29144.1821,29144.6294,transient_node,Power Outage
+7,145,18,29146.9515,29146.961,transient_node,Power Outage
+7,238,29,29151.0212,29151.0746,transient_node,Maintenance
+7,65,8,29165.8229,29166.2752,transient_node,Maintenance
+7,157,19,29168.0542,29168.164,transient_node,Network
+7,233,29,29172.6723,29173.5157,transient_node,Power Outage
+7,207,25,29185.9119,29186.0079,transient_node,Maintenance
+7,2,0,29211.0603,29211.0878,transient_node,Power Outage
+7,139,17,29213.4861,29213.4891,transient_node,Maintenance
+7,252,31,29219.1601,29219.1793,transient_node,Network
+7,230,28,29232.7656,29232.7799,transient_node,Network
+7,190,23,29233.4076,29233.9273,transient_node,Power Outage
+7,72,9,29244.1899,29248.5255,permanent_node,Hardware
+7,108,13,29246.0145,29246.3985,transient_node,Power Spike
+7,67,8,29249.0467,29249.5144,transient_node,Maintenance
+7,223,27,29252.6153,29253.0155,transient_node,Network
+7,176,22,29290.3408,29290.577,transient_node,Maintenance
+7,48,6,29297.8653,29298.6495,transient_node,Network
+7,231,28,29319.3671,29319.6023,transient_node,Maintenance
+7,33,4,29327.3407,29327.5176,transient_node,Power Outage
+7,203,25,29367.5346,29367.5571,transient_node,Power Outage
+7,228,28,29373.4348,29373.9869,transient_node,Power Outage
+7,3,0,29377.5138,29377.7593,transient_node,Network
+7,111,13,29384.8033,29385.0526,transient_node,Maintenance
+7,222,27,29387.9055,29388.5235,transient_node,Network
+7,21,2,29405.2604,29405.707,transient_node,Power Outage
+7,132,16,29412.2111,29412.4138,transient_node,Maintenance
+7,171,21,29423.3834,29423.3976,transient_node,Power Outage
+7,152,19,29425.6274,29425.7107,transient_node,Power Spike
+7,191,23,29445.1962,29445.2671,transient_node,Power Spike
+7,162,20,29465.8444,29466.7705,transient_node,Power Spike
+7,166,20,29467.2297,29467.4569,transient_node,Network
+7,241,30,29484.4887,29484.5541,transient_node,Maintenance
+7,34,4,29507.443,29507.7859,transient_node,Power Outage
+7,61,7,29551.9058,29552.0037,transient_node,Power Spike
+7,224,28,29579.2165,29579.4515,transient_node,Power Spike
+7,218,27,29581.8186,29581.9509,transient_node,Power Spike
+7,154,19,29601.9807,29602.0548,transient_node,Power Spike
+7,118,14,29608.646,29608.746,transient_node,Power Spike
+7,37,4,29615.9751,29616.018,transient_node,Power Outage
+7,249,31,29620.4403,29620.4773,transient_node,Network
+7,126,15,29629.3029,29629.3296,transient_node,Network
+7,142,17,29644.505,29644.6093,transient_node,Maintenance
+7,151,18,29647.688,29648.2783,transient_node,Power Spike
+7,249,31,29674.5845,29679.7737,permanent_node,Disk Drive
+7,90,11,29680.0767,29680.1626,transient_node,Network
+7,176,22,29683.986,29684.4378,transient_node,Power Outage
+7,125,15,29695.0861,29696.0094,transient_node,Power Spike
+7,149,18,29741.8669,29742.0927,transient_node,Network
+7,69,8,29758.6491,29758.9498,transient_node,Power Spike
+7,189,23,29762.4567,29762.4858,transient_node,Power Outage
+7,20,2,29774.1368,29775.6031,transient_node,Power Outage
+7,4,0,29791.3762,29791.5341,transient_node,Network
+7,142,17,29795.9295,29795.939,transient_node,Power Spike
+7,29,3,29800.1664,29800.2561,transient_node,Maintenance
+7,77,9,29814.5751,29814.6006,transient_node,Network
+7,35,4,29835.2254,29840.3613,permanent_node,SCSI Controller
+7,144,18,29835.3567,29839.6354,permanent_node,Disk Drive
+7,195,24,29838.235,29838.3854,transient_node,Maintenance
+7,176,22,29854.1127,29854.25,transient_node,Maintenance
+7,246,30,29869.0127,29869.2617,transient_node,Power Spike
+7,252,31,29873.5799,29873.6231,transient_node,Network
+7,156,19,29902.3827,29902.4225,transient_node,Maintenance
+7,28,3,29926.0249,29926.0509,transient_node,Power Spike
+7,145,18,29927.1536,29927.3341,transient_node,Power Spike
+7,207,25,29943.2152,29943.2471,transient_node,Maintenance
+7,59,7,29990.9334,29991.4151,transient_node,Power Outage
+7,23,2,30008.814,30009.2662,transient_node,Maintenance
+7,233,29,30045.534,30045.6419,transient_node,Power Outage
+7,21,2,30046.9232,30047.2082,transient_node,Power Spike
+7,102,12,30051.8327,30052.2318,transient_node,Power Spike
+7,74,9,30069.9335,30070.0344,transient_node,Power Outage
+7,105,13,30071.8111,30071.9222,transient_node,Maintenance
+7,77,9,30074.2556,30074.2613,transient_node,Network
+7,145,18,30103.4482,30103.6147,transient_node,Power Spike
+7,45,5,30107.1905,30107.3159,transient_node,Power Spike
+7,88,11,30109.2476,30109.3813,transient_node,Power Outage
+7,66,8,30113.7092,30113.7902,transient_node,Network
+7,168,21,30120.1506,30120.212,transient_node,Network
+7,205,25,30122.9378,30122.9484,transient_node,Network
+7,223,27,30131.7129,30139.274,permanent_node,Disk Drive
+7,67,8,30131.946,30132.7298,transient_node,Network
+7,210,26,30139.748,30139.7823,transient_node,Network
+7,33,4,30149.1969,30149.5316,transient_node,Network
+7,111,13,30150.0667,30150.2005,transient_node,Power Spike
+7,249,31,30175.7318,30175.9713,transient_node,Power Outage
+7,130,16,30188.6125,30188.8727,transient_node,Maintenance
+7,167,20,30194.0048,30194.6707,transient_node,Power Spike
+7,91,11,30203.8445,30204.4083,transient_node,Network
+7,198,24,30206.3846,30206.8727,transient_node,Network
+7,0,0,30209.8653,30210.0197,transient_node,Network
+7,65,8,30210.0722,30213.9641,permanent_node,Hardware
+7,112,14,30213.9989,30214.0531,transient_node,Maintenance
+7,220,27,30223.8886,30224.3242,transient_node,Network
+7,26,3,30231.7016,30231.7114,transient_node,Maintenance
+7,156,19,30243.9926,30244.2077,transient_node,Maintenance
+7,9,1,30245.2968,30245.5844,transient_node,Maintenance
+7,129,16,30267.784,30267.8692,transient_node,Maintenance
+7,190,23,30273.0141,30273.2622,transient_node,Maintenance
+7,212,26,30317.1811,30317.35,transient_node,Maintenance
+7,43,5,30330.9265,30331.1426,transient_node,Power Outage
+7,177,22,30333.3692,30333.5708,transient_node,Network
+7,8,1,30333.7005,30333.8398,transient_node,Maintenance
+7,254,31,30349.5544,30349.8523,transient_node,Power Spike
+7,246,30,30393.9226,30394.083,transient_node,Maintenance
+7,243,30,30397.2342,30397.3789,transient_node,Network
+7,18,2,30419.8075,30420.4273,transient_node,Maintenance
+7,254,31,30421.5469,30421.7417,transient_node,Network
+7,252,31,30450.613,30450.705,transient_node,Network
+7,5,0,30451.1674,30451.3179,transient_node,Maintenance
+7,46,5,30494.2029,30494.2528,transient_node,Maintenance
+7,22,2,30508.8898,30511.0462,permanent_node,Disk Drive
+7,5,0,30524.6197,30524.9708,transient_node,Power Outage
+7,39,4,30525.5763,30525.9131,transient_node,Power Spike
+7,4,0,30563.3308,30563.343,transient_node,Power Outage
+7,149,18,30573.2169,30573.2411,transient_node,Power Spike
+7,250,31,30574.979,30575.1742,transient_node,Network
+7,110,13,30593.6774,30594.0031,transient_node,Maintenance
+7,218,27,30607.1893,30607.2667,transient_node,Maintenance
+7,56,7,30609.2231,30609.3129,transient_node,Network
+7,18,2,30619.2117,30619.9364,transient_node,Power Outage
+7,141,17,30623.7891,30623.9961,transient_node,Power Outage
+7,133,16,30635.8539,30636.0485,transient_node,Maintenance
+7,241,30,30636.6395,30636.6672,transient_node,Power Outage
+7,98,12,30643.743,30644.7507,transient_node,Maintenance
+7,175,21,30651.0292,30651.2739,transient_node,Network
+7,204,25,30665.4808,30665.5835,transient_node,Maintenance
+7,125,15,30697.5913,30697.9588,transient_node,Power Spike
+7,1,0,30699.6632,30699.8789,transient_node,Power Outage
+7,67,8,30702.1376,30702.2797,transient_node,Power Spike
+7,61,7,30717.8961,30718.042,transient_node,Network
+7,40,5,30757.6877,30757.708,transient_node,Network
+7,3,0,30774.1537,30774.5627,transient_node,Network
+7,251,31,30781.3674,30781.4225,transient_node,Maintenance
+7,221,27,30789.19,30796.5545,permanent_node,SCSI Controller
+7,76,9,30793.0974,30793.7068,transient_node,Power Outage
+7,64,8,30793.418,30793.4617,transient_node,Maintenance
+7,35,4,30806.5755,30806.6656,transient_node,Maintenance
+7,176,22,30808.4027,30808.6184,transient_node,Power Outage
+7,249,31,30809.1941,30809.5226,transient_node,Maintenance
+7,8,1,30812.2049,30812.5286,transient_node,Power Spike
+7,253,31,30827.7929,30828.2913,transient_node,Power Outage
+7,127,15,30838.8699,30838.8881,transient_node,Power Spike
+7,31,3,30873.6297,30873.6478,transient_node,Network
+7,106,13,30888.0046,30888.0159,transient_node,Power Outage
+7,63,7,30897.6524,30897.9267,transient_node,Maintenance
+7,114,14,30917.4624,30918.1748,transient_node,Network
+7,97,12,30919.2888,30919.7836,transient_node,Power Outage
+7,131,16,30937.4069,30937.4916,transient_node,Power Spike
+7,136,17,30964.2002,30964.971,transient_node,Maintenance
+7,242,30,30967.0093,30967.0458,transient_node,Power Spike
+7,60,7,30970.5132,30970.6813,transient_node,Maintenance
+7,234,29,30979.9565,30980.1816,transient_node,Power Outage
+7,88,11,30986.7686,30987.1011,transient_node,Maintenance
+7,8,1,31000.333,31000.9711,transient_node,Power Outage
+7,231,28,31007.8638,31007.9427,transient_node,Maintenance
+7,0,0,31008.1804,31008.2955,transient_node,Maintenance
+7,173,21,31016.6238,31017.0094,transient_node,Power Spike
+7,59,7,31035.9741,31036.3731,transient_node,Power Outage
+7,228,28,31040.227,31040.527,transient_node,Power Outage
+7,167,20,31049.097,31049.5227,transient_node,Power Spike
+7,148,18,31062.9276,31062.9749,transient_node,Maintenance
+7,238,29,31063.7678,31063.8079,transient_node,Power Spike
+7,133,16,31065.8442,31065.8834,transient_node,Maintenance
+7,208,26,31072.2615,31072.5325,transient_node,Network
+7,69,8,31077.9087,31078.6927,transient_node,Network
+7,76,9,31085.911,31086.0432,transient_node,Maintenance
+7,126,15,31101.4803,31104.2448,permanent_node,Hardware
+7,21,2,31111.4701,31111.533,transient_node,Power Spike
+7,123,15,31119.8062,31120.069,transient_node,Maintenance
+7,253,31,31121.4237,31121.7545,transient_node,Network
+7,71,8,31121.8619,31121.8853,transient_node,Power Outage
+7,149,18,31126.8752,31127.2233,transient_node,Power Outage
+7,56,7,31174.7664,31174.926,transient_node,Network
+7,130,16,31177.9002,31178.3711,transient_node,Maintenance
+7,121,15,31181.0504,31181.259,transient_node,Maintenance
+7,202,25,31188.5105,31188.9717,transient_node,Power Spike
+7,17,2,31195.4023,31195.4078,transient_node,Power Outage
+7,214,26,31215.7219,31215.7581,transient_node,Power Spike
+7,133,16,31216.6326,31216.7621,transient_node,Power Outage
+7,165,20,31219.0464,31219.5683,transient_node,Power Outage
+7,60,7,31225.8669,31226.275,transient_node,Maintenance
+7,117,14,31243.4509,31243.5716,transient_node,Maintenance
+7,172,21,31246.1557,31246.1718,transient_node,Maintenance
+7,204,25,31254.3872,31254.8465,transient_node,Maintenance
+7,49,6,31263.1744,31263.6829,transient_node,Maintenance
+7,132,16,31277.8814,31278.0305,transient_node,Maintenance
+7,186,23,31293.4073,31300.626,permanent_node,SCSI Controller
+7,2,0,31293.8431,31294.4261,transient_node,Power Outage
+7,145,18,31311.3729,31311.7672,transient_node,Maintenance
+7,164,20,31316.7569,31316.8428,transient_node,Power Spike
+7,205,25,31338.3531,31338.4018,transient_node,Power Outage
+7,148,18,31362.8893,31363.0752,transient_node,Maintenance
+7,96,12,31363.1768,31363.1769,transient_node,Power Spike
+7,168,21,31365.1168,31365.4098,transient_node,Maintenance
+7,70,8,31366.3257,31367.6519,transient_node,Network
+7,130,16,31374.2957,31374.3733,transient_node,Power Spike
+7,7,0,31388.4179,31388.6083,transient_node,Maintenance
+7,4,0,31403.2212,31405.5678,permanent_node,Hardware
+7,202,25,31404.7907,31405.2313,transient_node,Network
+7,185,23,31406.91,31407.6173,transient_node,Maintenance
+7,198,24,31409.1582,31409.5427,transient_node,Power Spike
+7,118,14,31432.1946,31432.294,transient_node,Maintenance
+7,29,3,31435.6131,31436.0271,transient_node,Network
+7,134,16,31438.4437,31438.4445,transient_node,Power Outage
+7,215,26,31440.9285,31441.0128,transient_node,Maintenance
+7,170,21,31445.5366,31445.6873,transient_node,Power Spike
+7,227,28,31452.4696,31452.5738,transient_node,Power Outage
+7,22,2,31463.3271,31463.5636,transient_node,Power Spike
+7,206,25,31481.744,31482.216,transient_node,Power Spike
+7,209,26,31498.1505,31498.1513,transient_node,Maintenance
+7,141,17,31499.5543,31500.1866,transient_node,Network
+7,248,31,31518.3625,31518.5319,transient_node,Power Spike
+7,17,2,31520.2632,31520.3012,transient_node,Power Spike
+7,153,19,31522.8324,31523.039,transient_node,Power Outage
+7,209,26,31530.7446,31530.8451,transient_node,Maintenance
+7,239,29,31534.8877,31534.9671,transient_node,Power Outage
+7,163,20,31538.2856,31538.5003,transient_node,Network
+7,78,9,31556.3378,31556.5402,transient_node,Power Spike
+7,193,24,31558.7101,31558.7804,transient_node,Maintenance
+7,190,23,31561.5684,31562.2741,transient_node,Maintenance
+7,195,24,31570.7039,31570.7291,transient_node,Maintenance
+7,30,3,31577.7594,31578.1488,transient_node,Network
+7,218,27,31585.4622,31585.6158,transient_node,Power Spike
+7,195,24,31599.7652,31600.1739,transient_node,Network
+7,111,13,31604.6624,31604.6805,transient_node,Network
+7,168,21,31608.2793,31608.3165,transient_node,Power Outage
+7,140,17,31627.5108,31627.7849,transient_node,Power Spike
+7,254,31,31647.0465,31647.1095,transient_node,Power Outage
+7,219,27,31662.1391,31662.29,transient_node,Power Spike
+7,150,18,31669.9924,31670.4201,transient_node,Maintenance
+7,252,31,31683.3326,31683.4149,transient_node,Network
+7,230,28,31701.2726,31701.866,transient_node,Power Spike
+7,16,2,31703.0909,31703.1977,transient_node,Power Spike
+7,58,7,31731.0219,31731.3187,transient_node,Power Outage
+7,232,29,31776.7131,31776.9752,transient_node,Power Spike
+7,39,4,31782.2994,31782.5256,transient_node,Maintenance
+7,150,18,31808.8688,31808.9096,transient_node,Maintenance
+7,161,20,31813.2052,31813.219,transient_node,Power Spike
+7,4,0,31837.5803,31837.6404,transient_node,Maintenance
+7,10,1,31838.69,31838.7478,transient_node,Network
+7,190,23,31851.1463,31851.6133,transient_node,Power Spike
+7,196,24,31854.9112,31854.9387,transient_node,Network
+7,228,28,31855.3572,31855.3835,transient_node,Power Spike
+7,160,20,31863.8758,31864.1512,transient_node,Maintenance
+7,145,18,31874.8259,31874.9482,transient_node,Power Spike
+7,145,18,31882.0997,31888.5335,permanent_node,SCSI Controller
+7,16,2,31891.9897,31898.8014,permanent_node,SCSI Controller
+7,160,20,31893.2917,31894.158,transient_node,Maintenance
+7,207,25,31894.4501,31894.4513,transient_node,Network
+7,102,12,31895.186,31895.358,transient_node,Power Outage
+7,145,18,31915.3862,31915.5313,transient_node,Power Spike
+7,59,7,31941.8501,31941.928,transient_node,Power Outage
+7,220,27,31944.9987,31946.113,transient_node,Power Outage
+7,60,7,31958.0972,31964.6182,permanent_node,Hardware
+7,55,6,31969.5953,31969.6425,transient_node,Power Spike
+7,182,22,31981.3961,31981.4373,transient_node,Maintenance
+7,14,1,31997.2069,31997.4472,transient_node,Power Spike
+7,114,14,32003.7365,32003.7493,transient_node,Power Outage
+7,38,4,32016.2107,32016.2591,transient_node,Maintenance
+7,232,29,32016.5124,32016.5606,transient_node,Network
+7,40,5,32018.3559,32019.6559,transient_node,Power Spike
+7,33,4,32033.1621,32033.299,transient_node,Network
+7,52,6,32044.4395,32044.5041,transient_node,Power Outage
+7,214,26,32053.8519,32053.8626,transient_node,Network
+7,225,28,32060.0231,32060.2686,transient_node,Network
+7,183,22,32079.5655,32079.8239,transient_node,Maintenance
+7,254,31,32085.9957,32086.2637,transient_node,Network
+7,227,28,32095.2226,32095.4532,transient_node,Network
+7,43,5,32113.3189,32113.3242,transient_node,Power Spike
+7,59,7,32120.4683,32120.5712,transient_node,Power Outage
+7,235,29,32132.5059,32132.8956,transient_node,Maintenance
+7,161,20,32150.1496,32150.3793,transient_node,Maintenance
+7,163,20,32174.8978,32175.0124,transient_node,Network
+7,21,2,32178.955,32179.0098,transient_node,Power Outage
+7,21,2,32181.5053,32181.5603,transient_node,Maintenance
+7,92,11,32182.1417,32182.3109,transient_node,Maintenance
+7,150,18,32183.2748,32183.3081,transient_node,Power Outage
+7,160,20,32195.3706,32198.0723,permanent_node,Disk Drive
+7,251,31,32199.211,32199.2154,transient_node,Power Outage
+7,211,26,32210.873,32211.071,transient_node,Maintenance
+7,28,3,32211.9759,32212.6659,transient_node,Network
+7,19,2,32216.5579,32216.8069,transient_node,Power Spike
+7,160,20,32216.7509,32217.0977,transient_node,Maintenance
+7,210,26,32225.4623,32226.333,transient_node,Power Spike
+7,251,31,32228.9442,32229.4531,transient_node,Network
+7,34,4,32235.0492,32235.1496,transient_node,Network
+7,251,31,32258.2315,32258.3901,transient_node,Power Outage
+7,77,9,32262.1173,32262.5913,transient_node,Power Spike
+7,54,6,32271.1641,32271.228,transient_node,Maintenance
+7,174,21,32275.8777,32275.9005,transient_node,Network
+7,184,23,32284.7149,32285.0614,transient_node,Maintenance
+7,175,21,32305.0499,32308.0049,permanent_node,Hardware
+7,46,5,32305.1527,32305.193,transient_node,Power Spike
+7,59,7,32311.1175,32311.3645,transient_node,Power Spike
+7,185,23,32320.3568,32320.4607,transient_node,Maintenance
+7,52,6,32336.1065,32336.2085,transient_node,Power Outage
+7,255,31,32377.4648,32377.5197,transient_node,Power Spike
+7,21,2,32391.5755,32391.589,transient_node,Maintenance
+7,152,19,32403.8023,32403.8617,transient_node,Power Spike
+7,249,31,32410.4834,32410.5089,transient_node,Power Outage
+7,183,22,32412.2279,32412.3698,transient_node,Power Spike
+7,203,25,32414.6441,32415.2852,transient_node,Maintenance
+7,233,29,32436.5944,32437.3422,transient_node,Power Outage
+7,116,14,32461.6933,32461.7769,transient_node,Network
+7,196,24,32472.7958,32473.0686,transient_node,Network
+7,121,15,32484.8466,32484.873,transient_node,Power Outage
+7,209,26,32489.4965,32489.5934,transient_node,Power Spike
+7,167,20,32495.7739,32495.7858,transient_node,Network
+7,232,29,32508.7988,32509.0436,transient_node,Power Outage
+7,242,30,32509.4721,32509.5442,transient_node,Power Outage
+7,151,18,32514.1573,32514.2095,transient_node,Power Outage
+7,165,20,32536.1415,32538.1355,transient_node,Power Spike
+7,156,19,32556.1223,32556.1806,transient_node,Power Outage
+7,106,13,32561.7427,32562.4862,transient_node,Network
+7,159,19,32566.9371,32566.953,transient_node,Power Spike
+7,236,29,32587.6198,32587.7796,transient_node,Power Outage
+7,141,17,32605.5671,32605.6617,transient_node,Network
+7,175,21,32612.4533,32612.6378,transient_node,Network
+7,51,6,32613.3202,32613.7555,transient_node,Maintenance
+7,228,28,32627.6446,32627.6618,transient_node,Network
+7,50,6,32631.4313,32631.5387,transient_node,Power Spike
+7,144,18,32656.9935,32657.5036,transient_node,Maintenance
+7,85,10,32683.055,32683.2194,transient_node,Power Spike
+7,174,21,32688.3397,32688.4477,transient_node,Power Outage
+7,8,1,32690.8585,32690.9677,transient_node,Network
+7,156,19,32699.6016,32700.0037,transient_node,Network
+7,112,14,32702.3679,32702.7101,transient_node,Maintenance
+7,160,20,32728.5152,32728.879,transient_node,Power Outage
+7,46,5,32730.6836,32730.8539,transient_node,Power Spike
+7,235,29,32746.2315,32746.5549,transient_node,Maintenance
+7,228,28,32764.2705,32764.6506,transient_node,Power Spike
+7,25,3,32796.1005,32796.3671,transient_node,Maintenance
+7,205,25,32799.4086,32799.7163,transient_node,Network
+7,40,5,32806.1284,32806.2122,transient_node,Maintenance
+7,172,21,32810.2742,32810.422,transient_node,Power Spike
+7,163,20,32824.3085,32824.9558,transient_node,Network
+7,111,13,32827.6215,32828.1962,transient_node,Maintenance
+7,234,29,32832.3672,32832.8453,transient_node,Network
+7,194,24,32839.1812,32839.21,transient_node,Power Spike
+7,244,30,32855.7421,32855.8168,transient_node,Maintenance
+7,200,25,32859.3302,32859.7417,transient_node,Network
+7,159,19,32860.3709,32860.4248,transient_node,Power Outage
+7,248,31,32874.0567,32874.2116,transient_node,Power Spike
+7,255,31,32875.9301,32875.9412,transient_node,Power Spike
+7,103,12,32883.5492,32883.6629,transient_node,Maintenance
+7,130,16,32890.6336,32890.6437,transient_node,Network
+7,125,15,32893.731,32894.1893,transient_node,Power Outage
+7,124,15,32900.9224,32900.9876,transient_node,Maintenance
+7,154,19,32951.427,32951.4352,transient_node,Power Spike
+7,127,15,32955.5221,32955.7138,transient_node,Power Outage
+7,214,26,32963.6865,32963.722,transient_node,Power Spike
+7,41,5,32972.0122,32972.9239,transient_node,Power Spike
+7,4,0,32981.5067,32981.5193,transient_node,Maintenance
+7,71,8,32993.1203,32993.1738,transient_node,Network
+7,254,31,32993.4294,32993.4945,transient_node,Power Outage
+7,105,13,32998.0799,32998.0801,transient_node,Maintenance
+7,163,20,33015.8885,33016.0019,transient_node,Power Spike
+7,224,28,33035.8616,33036.065,transient_node,Power Outage
+7,184,23,33039.435,33039.9877,transient_node,Power Outage
+7,30,3,33042.8529,33043.0108,transient_node,Network
+7,138,17,33046.4629,33047.009,transient_node,Maintenance
+7,112,14,33062.3513,33063.1,transient_node,Maintenance
+7,11,1,33065.959,33066.2305,transient_node,Power Outage
+7,140,17,33068.9162,33069.1408,transient_node,Power Outage
+7,115,14,33077.8247,33077.9771,transient_node,Power Spike
+7,71,8,33078.7086,33078.7416,transient_node,Power Outage
+7,233,29,33079.5155,33079.5279,transient_node,Network
+7,145,18,33082.423,33082.5866,transient_node,Power Spike
+7,239,29,33087.9865,33088.2637,transient_node,Power Outage
+7,196,24,33146.0311,33146.2008,transient_node,Network
+7,76,9,33149.4328,33150.0778,transient_node,Network
+7,53,6,33183.5659,33185.8837,permanent_node,Disk Drive
+7,114,14,33189.3205,33189.4878,transient_node,Network
+7,100,12,33190.1152,33190.3382,transient_node,Network
+7,255,31,33205.3544,33205.4197,transient_node,Maintenance
+7,252,31,33211.931,33212.1221,transient_node,Power Spike
+7,109,13,33233.0005,33233.371,transient_node,Maintenance
+7,116,14,33244.8916,33245.4183,transient_node,Power Spike
+7,125,15,33284.0473,33284.9888,transient_node,Network
+7,126,15,33293.6197,33293.7342,transient_node,Power Spike
+7,152,19,33301.1473,33301.1897,transient_node,Power Outage
+7,65,8,33306.4724,33306.7365,transient_node,Power Spike
+7,76,9,33321.0684,33321.3848,transient_node,Power Outage
+7,24,3,33322.9262,33323.0349,transient_node,Power Outage
+7,234,29,33348.5343,33348.662,transient_node,Network
+7,206,25,33390.8953,33391.0559,transient_node,Power Outage
+7,226,28,33396.6298,33396.7662,transient_node,Power Spike
+7,8,1,33399.9885,33400.1759,transient_node,Power Outage
+7,191,23,33402.6459,33402.9331,transient_node,Maintenance
+7,114,14,33416.6223,33416.6948,transient_node,Network
+7,99,12,33428.5668,33429.0783,transient_node,Maintenance
+7,20,2,33441.8807,33441.9948,transient_node,Network
+7,157,19,33463.6455,33464.5323,transient_node,Power Outage
+7,155,19,33492.672,33493.0047,transient_node,Power Outage
+7,223,27,33495.5277,33496.1852,transient_node,Network
+7,202,25,33503.2003,33503.3282,transient_node,Network
+7,19,2,33523.9169,33524.1195,transient_node,Power Spike
+7,189,23,33543.473,33543.7083,transient_node,Maintenance
+7,221,27,33579.9403,33580.0756,transient_node,Power Spike
+7,100,12,33580.1273,33580.174,transient_node,Power Outage
+7,44,5,33595.8215,33595.852,transient_node,Power Spike
+7,166,20,33615.4536,33615.8867,transient_node,Power Spike
+7,106,13,33629.8289,33629.9535,transient_node,Power Spike
+7,1,0,33634.5288,33634.6494,transient_node,Power Spike
+7,135,16,33654.9958,33655.0268,transient_node,Power Outage
+7,140,17,33660.3168,33660.3772,transient_node,Network
+7,28,3,33662.8891,33662.9058,transient_node,Power Outage
+7,154,19,33678.4365,33678.6135,transient_node,Network
+7,175,21,33686.9398,33687.0216,transient_node,Power Outage
+7,43,5,33701.1753,33701.2614,transient_node,Maintenance
+7,72,9,33720.2361,33720.3177,transient_node,Maintenance
+7,83,10,33746.0064,33746.0857,transient_node,Power Outage
+7,174,21,33762.9392,33762.9982,transient_node,Power Outage
+7,70,8,33778.8444,33779.4509,transient_node,Power Outage
+7,45,5,33792.7872,33793.1967,transient_node,Network
+7,106,13,33793.9416,33793.9636,transient_node,Power Spike
+7,119,14,33793.9668,33794.5362,transient_node,Power Spike
+7,111,13,33799.5594,33799.6122,transient_node,Network
+7,252,31,33801.2708,33801.5607,transient_node,Network
+7,76,9,33832.077,33832.1451,transient_node,Power Outage
+7,4,0,33840.9571,33841.3353,transient_node,Power Spike
+7,152,19,33841.9653,33842.3133,transient_node,Power Spike
+7,116,14,33868.8856,33868.9479,transient_node,Maintenance
+7,3,0,33870.6224,33870.807,transient_node,Power Spike
+7,128,16,33891.0384,33891.5005,transient_node,Maintenance
+7,190,23,33904.0853,33904.3419,transient_node,Network
+7,38,4,33928.007,33928.2354,transient_node,Power Spike
+7,63,7,33940.284,33940.4658,transient_node,Power Spike
+7,254,31,33941.1924,33941.2617,transient_node,Network
+7,243,30,33946.2985,33946.3051,transient_node,Power Spike
+7,143,17,33953.3499,33953.5508,transient_node,Power Spike
+7,210,26,33966.2779,33966.307,transient_node,Network
+7,37,4,33968.9282,33969.0633,transient_node,Maintenance
+7,50,6,33992.8835,33992.913,transient_node,Maintenance
+7,34,4,34012.5036,34012.6567,transient_node,Maintenance
+7,15,1,34020.2322,34020.5214,transient_node,Maintenance
+7,103,12,34020.9806,34021.1195,transient_node,Power Outage
+7,3,0,34029.2596,34029.3092,transient_node,Power Spike
+7,226,28,34053.2776,34057.1392,permanent_node,Hardware
+7,98,12,34061.4075,34061.6355,transient_node,Maintenance
+7,12,1,34073.2929,34073.477,transient_node,Maintenance
+7,112,14,34077.9281,34078.1833,transient_node,Network
+7,23,2,34079.0209,34079.1432,transient_node,Power Spike
+7,85,10,34093.964,34094.4176,transient_node,Maintenance
+7,63,7,34136.9726,34137.1,transient_node,Maintenance
+7,194,24,34139.4755,34139.9604,transient_node,Power Outage
+7,174,21,34149.9845,34149.9871,transient_node,Power Spike
+7,21,2,34177.3003,34177.3405,transient_node,Network
+7,76,9,34237.8949,34238.4608,transient_node,Power Spike
+7,68,8,34246.8775,34246.9385,transient_node,Power Outage
+7,99,12,34247.5246,34248.0822,transient_node,Network
+7,180,22,34270.8147,34270.8625,transient_node,Network
+7,34,4,34290.7247,34290.7373,transient_node,Power Outage
+7,24,3,34292.6977,34292.917,transient_node,Power Spike
+7,231,28,34306.5906,34307.0164,transient_node,Power Spike
+7,107,13,34311.1578,34311.4707,transient_node,Power Spike
+7,74,9,34391.8642,34391.9129,transient_node,Network
+7,102,12,34397.4231,34397.5105,transient_node,Network
+7,112,14,34410.5361,34410.7421,transient_node,Power Spike
+7,157,19,34427.5697,34427.6025,transient_node,Power Spike
+7,168,21,34438.2038,34438.477,transient_node,Maintenance
+7,92,11,34442.8916,34443.4143,transient_node,Network
+7,104,13,34451.0972,34451.1158,transient_node,Power Outage
+7,37,4,34453.541,34453.7593,transient_node,Network
+7,66,8,34462.322,34462.5548,transient_node,Maintenance
+7,230,28,34480.8036,34480.9532,transient_node,Network
+7,231,28,34482.6398,34482.6816,transient_node,Power Spike
+7,203,25,34519.9937,34520.322,transient_node,Maintenance
+7,63,7,34543.8723,34543.9072,transient_node,Power Spike
+7,200,25,34544.9822,34545.0503,transient_node,Power Spike
+7,164,20,34549.3153,34549.3477,transient_node,Power Spike
+7,74,9,34555.628,34560.2016,permanent_node,Disk Drive
+7,35,4,34555.8524,34555.8919,transient_node,Network
+7,249,31,34572.9295,34573.1919,transient_node,Power Outage
+7,36,4,34591.1518,34591.9264,transient_node,Maintenance
+7,25,3,34602.3902,34602.5487,transient_node,Power Outage
+7,111,13,34608.1129,34608.2122,transient_node,Power Spike
+7,168,21,34621.2735,34621.4088,transient_node,Network
+7,68,8,34622.2114,34622.571,transient_node,Power Spike
+7,46,5,34637.9896,34638.1408,transient_node,Power Spike
+7,248,31,34639.9437,34640.0958,transient_node,Power Outage
+7,203,25,34659.8624,34660.2528,transient_node,Power Outage
+7,190,23,34663.9781,34664.0579,transient_node,Maintenance
+7,100,12,34674.5921,34674.6504,transient_node,Maintenance
+7,169,21,34687.668,34688.2845,transient_node,Network
+7,26,3,34705.1966,34705.3277,transient_node,Power Outage
+7,89,11,34711.2665,34711.2679,transient_node,Maintenance
+7,143,17,34712.767,34712.8432,transient_node,Network
+7,157,19,34717.7136,34718.0229,transient_node,Network
+7,173,21,34724.5321,34724.626,transient_node,Maintenance
+7,106,13,34726.8651,34727.2626,transient_node,Power Spike
+7,69,8,34729.0163,34729.208,transient_node,Network
+7,48,6,34737.8712,34738.1514,transient_node,Power Outage
+7,200,25,34742.0067,34749.2797,permanent_node,Disk Drive
+7,66,8,34750.446,34751.1867,transient_node,Power Outage
+7,15,1,34762.2668,34762.5098,transient_node,Power Spike
+7,177,22,34828.6661,34828.6883,transient_node,Maintenance
+7,137,17,34836.7699,34836.818,transient_node,Network
+7,176,22,34858.2051,34858.2953,transient_node,Network
+7,7,0,34875.0453,34875.6226,transient_node,Network
+7,235,29,34884.9729,34885.095,transient_node,Power Outage
+7,255,31,34890.8413,34891.0915,transient_node,Maintenance
+7,112,14,34895.939,34896.0975,transient_node,Power Spike
+7,227,28,34907.0549,34907.3421,transient_node,Maintenance
+7,171,21,34914.9552,34915.1158,transient_node,Network
+7,220,27,34924.9142,34925.681,transient_node,Power Spike
+7,148,18,34940.14,34940.5551,transient_node,Power Outage
+7,116,14,34951.1173,34951.2564,transient_node,Power Outage
+7,201,25,34958.699,34958.8392,transient_node,Network
+7,33,4,34958.9455,34959.0603,transient_node,Power Spike
+7,227,28,34964.8148,34964.9256,transient_node,Network
+7,98,12,34978.2445,34978.4551,transient_node,Power Outage
+7,234,29,34980.1116,34980.66,transient_node,Power Outage
+7,248,31,34997.4393,34997.5804,transient_node,Network
+7,19,2,35008.7534,35008.7752,transient_node,Power Spike
+7,22,2,35010.4404,35010.4648,transient_node,Maintenance

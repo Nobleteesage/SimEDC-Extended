@@ -44,7 +44,7 @@ width   = 0.25
 MIN_VAL = 1e-12   # floor for log scale (replace zeros)
 
 fig, axes = plt.subplots(1, 3, figsize=(15, 5))
-fig.suptitle('Fig. 9 — Reliability under Trace-Driven Failures',
+fig.suptitle('Figure 1 — Reliability under Trace-Driven Failures',
              fontsize=13, fontweight='bold', y=1.02)
 
 def plot_metric(ax, metric, title, ylabel, use_log):

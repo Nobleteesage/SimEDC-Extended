@@ -126,7 +126,7 @@ nvme = {
 }
 
 storage_models = [
-    ('HDD\n(Weibull, AFR~4%)',  hdd,  BLUE,   '//'),
+    ('HDD\n(Weibull, AFR~10.4%)',  hdd,  BLUE,   '//'),
     ('SSD\n(Exp., AFR~0.98%)', ssd,  ORANGE, '\\\\'),
     ('NVMe\n(Exp., AFR~0.47%)',nvme, GREEN,  'xx'),
 ]

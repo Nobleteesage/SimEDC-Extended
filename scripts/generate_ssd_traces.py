@@ -6,7 +6,7 @@ Failure rate sources:
 - Backblaze 2023 SSD & NVMe reliability report
   SSD AFR  = 0.98%  → MTTF ~102 years per drive
   NVMe AFR = 0.47%  → MTTF ~213 years per drive
-- HDD AFR  = ~4%    → MTTF ~10 years (original SimEDC Weibull model)
+- HDD AFR  = ~10.4% (Weibull shape 1.12, characteristic life 10 years)
 
 Key academic distinction:
 - HDD: Weibull distribution — gradual wear-out, predictable degradation
@@ -175,7 +175,7 @@ print(f"{'Model':<12} {'Source':<28} {'MTTF':>10} {'AFR':>8} "
       f"{'Distribution'}")
 print("-"*65)
 print(f"{'HDD':<12} {'LANL traces / Weibull(1.12,10yr)':<28} "
-      f"{'10 yrs':>10} {'~4.0%':>8} {'Weibull (wear-out)'}")
+      f"{'10 yrs':>10} {'~10.4%':>8} {'Weibull (wear-out)'}")
 print(f"{'SSD':<12} {'Backblaze 2023 production fleet':<28} "
       f"{'102 yrs':>10} {'~0.98%':>8} {'Exponential (sudden)'}")
 print(f"{'NVMe':<12} {'Backblaze 2023 production fleet':<28} "

@@ -19,9 +19,9 @@ with four original contributions:
    patching methodology. See PATCH_NOTES.md.
 
 2. **Synthetic HPC trace generation** — The original LANL failure traces are
-   permanently offline. This repository provides a synthetic generator
+   no longer available at the archive location cited by the original study. This repository provides a synthetic generator
    parameterised from the statistical models in the original paper, validated
-   against the theoretical Weibull AFR of 10.42%.
+   against the theoretical annual permanent node failure rate of 9.6% (exponential, mean 125 months).
 
 3. **Extended placement analysis (r=4, r=5)** — The first empirical
    characterisation of the full placement spectrum for RS(9,6) codes under
@@ -102,12 +102,12 @@ python3 simedc.py -A regular -n 9 -k 6 -t rs -T flat \
 
 | System | Nodes | Duration | Est. AFR | Theoretical |
 |--------|-------|----------|----------|-------------|
-| 4 | 128 | 4.0 yr | 11.13% | ~10.42% |
-| 5 | 128 | 3.5 yr | 10.94% | ~10.42% |
-| 6 | 256 | 4.0 yr | 10.35% | ~10.42% |
-| 7 | 256 | 4.0 yr | 8.59% | ~10.42% |
-| 8 | 512 | 5.0 yr | 10.55% | ~10.42% |
-| 14 | 1024 | 4.5 yr | 9.85% | ~10.42% |
+| 4 | 128 | 4.0 yr | 11.13% | 9.6% |
+| 5 | 128 | 3.5 yr | 10.94% | 9.6% |
+| 6 | 256 | 4.0 yr | 10.35% | 9.6% |
+| 7 | 256 | 4.0 yr | 8.59% | 9.6% |
+| 8 | 512 | 5.0 yr | 10.55% | 9.6% |
+| 14 | 1024 | 4.5 yr | 9.85% | 9.6% |
 
 ---
 
